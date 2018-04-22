@@ -1,0 +1,58 @@
+{
+  "title": "",
+  "author": {
+    "name": "Clarke, Arthur C.",
+    "nation": "英"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "",
+      "author": {
+        "name": "Clarke, Arthur C.",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "",
+      "publication": "",
+      "publisher": "",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "逝去的文明",
+      "author": {
+        "name": "阿瑟·C·克拉克",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "陈澔",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1995",
+      "publication": "",
+      "publisher": "《异星远征》（福建少年儿童出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3012327
+    }
+  ]
+}

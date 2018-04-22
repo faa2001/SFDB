@@ -1,0 +1,58 @@
+{
+  "title": "Carrier",
+  "author": {
+    "name": "Sheckley, Robert",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Carrier",
+      "author": {
+        "name": "Sheckley, Robert",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1954",
+      "publication": "",
+      "publisher": "If, April 1954",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 59440,
+      "douban": 0
+    },
+    {
+      "title": "载体",
+      "author": {
+        "name": "罗伯特·谢克里",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "西丫",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2004",
+      "publication": "",
+      "publisher": "《浪漫服务公司》（四川科学技术出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1159012
+    }
+  ]
+}

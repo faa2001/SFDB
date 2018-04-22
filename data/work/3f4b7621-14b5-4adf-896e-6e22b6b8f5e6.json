@@ -1,0 +1,58 @@
+{
+  "title": "Sir Hereward and Mister Fitz Go to War Again",
+  "author": {
+    "name": "Nix, Garth",
+    "nation": "澳"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Sir Hereward and Mister Fitz Go to War Again",
+      "author": {
+        "name": "Nix, Garth",
+        "nation": "澳"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2007",
+      "publication": "Jim Baen's Universe, April 2007",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 764121,
+      "douban": 0
+    },
+    {
+      "title": "希尔瓦爵士和菲茨先生重上战场",
+      "author": {
+        "name": "加斯·尼克斯",
+        "nation": "澳"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "郭爱华",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2009",
+      "publication": "《科幻世界译文版》2009年第4期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "title": "The Space Ship Under the Apple Tree",
+  "author": {
+    "name": "Slobodkin, Louis",
+    "nation": ""
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Space Ship Under the Apple Tree",
+      "author": {
+        "name": "Slobodkin, Louis",
+        "nation": ""
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1952",
+      "publication": "Macmillan",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 11178,
+      "douban": 0
+    },
+    {
+      "title": "埃迪奇遇外星人",
+      "author": {
+        "name": "路易斯·斯洛博金",
+        "nation": ""
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "杨汝钧",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1993",
+      "publication": "《科幻世界》1993年第4期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

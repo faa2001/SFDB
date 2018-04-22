@@ -1,0 +1,60 @@
+{
+  "title": "The Ghost Brigades",
+  "author": {
+    "name": "Scalzi, John",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2007年轨迹奖最佳科幻长篇第19名"
+  ],
+  "publishes": [
+    {
+      "title": "The Ghost Brigades",
+      "author": {
+        "name": "Scalzi, John",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "Tor Books",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 180462,
+      "douban": 0
+    },
+    {
+      "title": "幽灵旅",
+      "author": {
+        "name": "约翰·斯卡尔齐",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "曾真",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "四川科学技术出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "垂暮之战系列之二",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3262391
+    }
+  ]
+}

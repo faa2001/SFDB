@@ -1,0 +1,63 @@
+{
+  "title": "The Fountains of Paradise",
+  "author": {
+    "name": "Clarke, Arthur C.",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1979年星云奖最佳长篇",
+    "1979年英国科幻奖科幻长篇提名",
+    "1980年雨果奖最佳长篇",
+    "1980年轨迹奖最佳科幻长篇第3名"
+  ],
+  "publishes": [
+    {
+      "title": "The Fountains of Paradise",
+      "author": {
+        "name": "Clarke, Arthur C.",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1979",
+      "publication": "",
+      "publisher": "Victor Gollancz",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 1903,
+      "douban": 0
+    },
+    {
+      "title": "天堂的喷泉",
+      "author": {
+        "name": "亚瑟·克拉克",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李敏",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1984",
+      "publication": "",
+      "publisher": "科学普及出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "1996年再版",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1844645
+    }
+  ]
+}

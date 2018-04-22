@@ -1,0 +1,60 @@
+{
+  "title": "Henry James, This One's For You",
+  "author": {
+    "name": "McDevitt, Jack",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2006年雨果奖最佳短篇提名"
+  ],
+  "publishes": [
+    {
+      "title": "Henry James, This One's For You",
+      "author": {
+        "name": "McDevitt, Jack",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2005",
+      "publication": "Subterranean, no. 2",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 692557,
+      "douban": 0
+    },
+    {
+      "title": "为了亨利·詹姆士",
+      "author": {
+        "name": "杰克·麦克戴维特",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "赵轶迅",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "《世界科幻博览》2007年第1期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

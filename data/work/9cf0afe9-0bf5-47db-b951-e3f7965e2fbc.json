@@ -1,0 +1,58 @@
+{
+  "title": "The Exorcist",
+  "author": {
+    "name": "Blatty, William Peter",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Exorcist",
+      "author": {
+        "name": "Blatty, William Peter",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1971",
+      "publication": "",
+      "publisher": "Bantam",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 13636,
+      "douban": 0
+    },
+    {
+      "title": "驱魔人",
+      "author": {
+        "name": "威廉·P·布拉蒂",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "姚向辉",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2009",
+      "publication": "",
+      "publisher": "上海译文出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3571559
+    }
+  ]
+}

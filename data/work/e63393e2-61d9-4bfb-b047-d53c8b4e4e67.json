@@ -1,0 +1,58 @@
+{
+  "title": "With Folded Hands...",
+  "author": {
+    "name": "Williamson, Jack",
+    "nation": ""
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "With Folded Hands...",
+      "author": {
+        "name": "Williamson, Jack",
+        "nation": ""
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1947",
+      "publication": "",
+      "publisher": "Astounding Science Fiction, July 1947",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 67870,
+      "douban": 0
+    },
+    {
+      "title": "飞翼星来客",
+      "author": {
+        "name": "杰克·威廉森",
+        "nation": ""
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "晓军、程敏芳",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1995",
+      "publication": "",
+      "publisher": "《飞船奇案》（福建少年儿童出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "“优人机器人”系列第一部",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3012328
+    }
+  ]
+}

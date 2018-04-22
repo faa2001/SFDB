@@ -1,0 +1,62 @@
+{
+  "title": "Hominids",
+  "author": {
+    "name": "Sawyer, Robert J.",
+    "nation": "加"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2002年幸运奖最佳长篇提名",
+    "2003年雨果奖最佳长篇",
+    "2003年极光奖最佳英语长篇提名"
+  ],
+  "publishes": [
+    {
+      "title": "Hominids",
+      "author": {
+        "name": "Sawyer, Robert J.",
+        "nation": "加"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2002",
+      "publication": "",
+      "publisher": "Tor",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 22802,
+      "douban": 0
+    },
+    {
+      "title": "原始人类",
+      "author": {
+        "name": "罗伯特·J·索耶",
+        "nation": "加"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "叶林",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2009",
+      "publication": "",
+      "publisher": "四川科学技术出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "尼安德特(Neanderthal Parallax)三部曲之一",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3417499
+    }
+  ]
+}

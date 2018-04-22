@@ -1,0 +1,58 @@
+{
+  "title": "The Lord of the Rings: The Fellowship of the Ring Visual Companion ",
+  "author": {
+    "name": "Fisher, Jude",
+    "nation": "英"
+  },
+  "type": "other",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring Visual Companion ",
+      "author": {
+        "name": "Fisher, Jude",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2001",
+      "publication": "",
+      "publisher": "Houghton Mifflin",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "魔戒魅影·魔戒再现",
+      "author": {
+        "name": "裘德·费舍尔",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "陈静宇",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2002",
+      "publication": "",
+      "publisher": "译林出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1098716
+    }
+  ]
+}

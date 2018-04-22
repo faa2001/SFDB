@@ -1,0 +1,61 @@
+{
+  "title": "日本沈没",
+  "author": {
+    "name": "小松左京",
+    "nation": "日"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1974年第27回日本推理作家協会賞",
+    "1974年第5回星雲賞"
+  ],
+  "publishes": [
+    {
+      "title": "日本沈没",
+      "author": {
+        "name": "小松左京",
+        "nation": "日"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1973",
+      "publication": "",
+      "publisher": "光文社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "日本沉没",
+      "author": {
+        "name": "小松左京",
+        "nation": "日"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "高晓钢、张平、陈晓琴",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "四川科学技术出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1469242
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "title": "Noon: 22nd Century",
+  "author": {
+    "name": "Strugatsky, Arkady / Strugatsky, Boris ",
+    "nation": "苏"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Noon: 22nd Century",
+      "author": {
+        "name": "Strugatsky, Arkady / Strugatsky, Boris ",
+        "nation": "苏"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1978",
+      "publication": "",
+      "publisher": "Macmillan",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 186888,
+      "douban": 0
+    },
+    {
+      "title": "正午：第二十二世纪",
+      "author": {
+        "name": "斯特鲁格特斯基兄弟",
+        "nation": "苏"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "石永礼",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1983",
+      "publication": "",
+      "publisher": "《外国现代科学幻想小说》（下册）（上海文艺出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "根据Patrick L. McGuire的英译本转译；选译其中的五篇",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1765132
+    }
+  ]
+}

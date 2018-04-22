@@ -1,0 +1,61 @@
+{
+  "title": "Ender's Shadow",
+  "author": {
+    "name": "Card, Orson Scott",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2000年雨果奖最佳长篇提名",
+    "2000年轨迹奖最佳科幻长篇第5名"
+  ],
+  "publishes": [
+    {
+      "title": "Ender's Shadow",
+      "author": {
+        "name": "Card, Orson Scott",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1999",
+      "publication": "",
+      "publisher": "Tor",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 19937,
+      "douban": 0
+    },
+    {
+      "title": "安德的影子",
+      "author": {
+        "name": "奥森·斯科特·卡德",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "郭卫文",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2004",
+      "publication": "",
+      "publisher": "四川科学技术出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "“安德的影子”系列之一",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1418437
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "title": "Firewall",
+  "author": {
+    "name": "Levine, David D.",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Firewall",
+      "author": {
+        "name": "Levine, David D.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2008",
+      "publication": "in Transhuman (Baen)",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 914102,
+      "douban": 0
+    },
+    {
+      "title": "防火墙",
+      "author": {
+        "name": "戴维·D·莱文",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "猫猫",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "《科幻大王》2008年第6期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

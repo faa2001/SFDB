@@ -1,0 +1,60 @@
+{
+  "title": "Through Violet Eyes",
+  "author": {
+    "name": "Stephen, Woodworth",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2005年轨迹奖最佳首部长篇第10名"
+  ],
+  "publishes": [
+    {
+      "title": "Through Violet Eyes",
+      "author": {
+        "name": "Stephen, Woodworth",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2004",
+      "publication": "",
+      "publisher": "Dell / BCE",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 358361,
+      "douban": 0
+    },
+    {
+      "title": "紫眸",
+      "author": {
+        "name": "史蒂芬·伍德沃斯",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "王雯雯",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "汕头大学出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1940292
+    }
+  ]
+}

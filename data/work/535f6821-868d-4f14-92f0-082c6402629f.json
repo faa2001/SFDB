@@ -1,0 +1,64 @@
+{
+  "title": "A Game of Thrones",
+  "author": {
+    "name": "Martin, George R. R.",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1997年雨果奖最佳长篇提名",
+    "1997年星云奖最佳长篇提名",
+    "1997年轨迹奖最佳奇幻长篇第1名",
+    "1997年世界奇幻奖最佳长篇提名",
+    "1997年英国奇幻奖最佳长篇提名"
+  ],
+  "publishes": [
+    {
+      "title": "A Game of Thrones",
+      "author": {
+        "name": "Martin, George R. R.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1996",
+      "publication": "",
+      "publisher": "Voyager / HarperCollins",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 8656,
+      "douban": 0
+    },
+    {
+      "title": "冰与火之歌卷一：权力的游戏",
+      "author": {
+        "name": "乔治·R·R·马丁",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "谭光磊、屈畅",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "重庆出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "冰与火之歌卷一",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1336330
+    }
+  ]
+}

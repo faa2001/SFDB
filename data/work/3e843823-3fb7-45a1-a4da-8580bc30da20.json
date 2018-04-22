@@ -1,0 +1,58 @@
+{
+  "title": "Road to Science Fiction：Volume Ⅵ：Around The World",
+  "author": {
+    "name": "James Gunn",
+    "nation": "美"
+  },
+  "type": "collection",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Road to Science Fiction：Volume Ⅵ：Around The World",
+      "author": {
+        "name": "James Gunn",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1998",
+      "publication": "",
+      "publisher": "White Wolf Publishing ",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "时光永驻：非英语国家科幻小说",
+      "author": {
+        "name": "詹姆斯·冈恩",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "郭建中编",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "北京大学出版社",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "科幻之路卷六",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3250743
+    }
+  ]
+}

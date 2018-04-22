@@ -1,0 +1,58 @@
+{
+  "title": "Final Blackout",
+  "author": {
+    "name": "Hubbard, L.Ron",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Final Blackout",
+      "author": {
+        "name": "Hubbard, L.Ron",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1940",
+      "publication": "",
+      "publisher": "Astounding Science-Fiction, April 1940",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 1956,
+      "douban": 0
+    },
+    {
+      "title": "物竞天择",
+      "author": {
+        "name": "L·罗恩·哈伯德",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李力、裴文赋",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1998",
+      "publication": "",
+      "publisher": "时代文艺出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1127806
+    }
+  ]
+}

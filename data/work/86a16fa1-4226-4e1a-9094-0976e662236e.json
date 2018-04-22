@@ -1,0 +1,58 @@
+{
+  "title": "The Singing Bell",
+  "author": {
+    "name": "Asimov, Isaac",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Singing Bell",
+      "author": {
+        "name": "Asimov, Isaac",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1955",
+      "publication": "",
+      "publisher": "The Magazine of Fantasy and Science Fiction, January 1955",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 43714,
+      "douban": 0
+    },
+    {
+      "title": "音乐钟",
+      "author": {
+        "name": "艾萨克·阿西莫夫",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "徐浩",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1998",
+      "publication": "",
+      "publisher": "《私人侦探》（上海科技教育出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1849703
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "title": "Dr. Heidegger's Experiment",
+  "author": {
+    "name": "Hawthorne, Nathaniel",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Dr. Heidegger's Experiment",
+      "author": {
+        "name": "Hawthorne, Nathaniel",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1837",
+      "publication": "原载不可考，Weird Tales, August 1925",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 80383,
+      "douban": 0
+    },
+    {
+      "title": "黑德格医生的实验",
+      "author": {
+        "name": "纳撒尼尔·霍桑",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李波",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1981",
+      "publication": "《科幻海洋》第一辑",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3096750
+    }
+  ]
+}

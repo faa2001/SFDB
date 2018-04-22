@@ -1,0 +1,58 @@
+{
+  "title": "Strike! ",
+  "author": {
+    "name": "Asimov, Isaac",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Strike! ",
+      "author": {
+        "name": "Asimov, Isaac",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1979",
+      "publication": "",
+      "publisher": "Omni, Jan 1979",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 93406,
+      "douban": 0
+    },
+    {
+      "title": "奇袭",
+      "author": {
+        "name": "艾萨克·阿西莫夫",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "陈莹、闵莉",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1995",
+      "publication": "",
+      "publisher": "《奇袭》（福建少年儿童出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 2334044
+    }
+  ]
+}

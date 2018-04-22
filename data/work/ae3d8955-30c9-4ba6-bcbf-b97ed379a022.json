@@ -1,0 +1,58 @@
+{
+  "title": "Fulfilment",
+  "author": {
+    "name": "van Vogt, A. E.",
+    "nation": "加"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Fulfilment",
+      "author": {
+        "name": "van Vogt, A. E.",
+        "nation": "加"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1951",
+      "publication": "",
+      "publisher": "in New Tales of Space and Time (Henry Holt)",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 63009,
+      "douban": 0
+    },
+    {
+      "title": "实现愿望",
+      "author": {
+        "name": "凡·伏格特",
+        "nation": "加"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "杨九声",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1983",
+      "publication": "",
+      "publisher": "《外国现代科学幻想小说》（下册）（上海文艺出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1765132
+    }
+  ]
+}

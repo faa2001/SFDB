@@ -1,0 +1,65 @@
+{
+  "title": "Hold My Father's Paws",
+  "author": {
+    "name": "Levine, David D.",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2007年Aeon奖入围"
+  ],
+  "publishes": [
+    {
+      "title": "Hold My Father's Paws",
+      "author": {
+        "name": "Levine, David D.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2006",
+      "publication": "Albedo One #31",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [
+        {
+          "title": "Hold My Father's Paws",
+          "href": "http://www.infinityplus.co.uk/stories/paws.htm"
+        }
+      ],
+      "isfdb": 896964,
+      "douban": 0
+    },
+    {
+      "title": "我握着父亲的爪子",
+      "author": {
+        "name": "戴维·D·莱文",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "赵轶迅",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "《世界科幻博览》2007年第2期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

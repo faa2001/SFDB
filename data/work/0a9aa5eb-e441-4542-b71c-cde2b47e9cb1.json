@@ -1,0 +1,58 @@
+{
+  "title": "Послание на дружбата(A Message of Friendship)",
+  "author": {
+    "name": "Furtinger, Zvonimir",
+    "nation": "南斯拉夫"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Послание на дружбата(A Message of Friendship)",
+      "author": {
+        "name": "Furtinger, Zvonimir",
+        "nation": "南斯拉夫"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1990",
+      "publication": "Orphia #1 1990",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 670921,
+      "douban": 0
+    },
+    {
+      "title": "友谊使者",
+      "author": {
+        "name": "沃尼米尔·弗尔丁格",
+        "nation": "南斯拉夫"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "一辛",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1991",
+      "publication": "《科幻世界》1991年第2期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

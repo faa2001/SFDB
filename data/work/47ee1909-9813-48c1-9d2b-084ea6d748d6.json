@@ -1,0 +1,58 @@
+{
+  "title": "Battlefield Earth",
+  "author": {
+    "name": "Hubbard, L. Ron",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Battlefield Earth",
+      "author": {
+        "name": "Hubbard, L. Ron",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1982",
+      "publication": "",
+      "publisher": "Bridge",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 10303,
+      "douban": 0
+    },
+    {
+      "title": "地球杀场",
+      "author": {
+        "name": "L.罗恩·哈伯德",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "胡建华、李汝亚、侯萍萍、辛晓梅、高云、姜丽",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1997",
+      "publication": "",
+      "publisher": "海南出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1790565
+    }
+  ]
+}

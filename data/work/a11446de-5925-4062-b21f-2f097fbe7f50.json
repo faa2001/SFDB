@@ -1,0 +1,62 @@
+{
+  "title": "The Cloak and the Staff",
+  "author": {
+    "name": "Dickson, Gordon R.",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1980年Analog奖最佳中篇提名",
+    "1981年雨果奖最佳短中篇",
+    "1981年轨迹奖最佳短中篇第13名"
+  ],
+  "publishes": [
+    {
+      "title": "The Cloak and the Staff",
+      "author": {
+        "name": "Dickson, Gordon R.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1980",
+      "publication": "Analog, Aug 1980",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 49752,
+      "douban": 0
+    },
+    {
+      "title": "斗篷与棍棒",
+      "author": {
+        "name": "戈东·R.迪克逊",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "徐琴、杨士焯",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "《世界科幻博览》2007年第9期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "title": "Eragon",
+  "author": {
+    "name": "Paolini, Christopher",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Eragon",
+      "author": {
+        "name": "Paolini, Christopher",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2002",
+      "publication": "",
+      "publisher": "Paolini International",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 152581,
+      "douban": 0
+    },
+    {
+      "title": "伊拉龙",
+      "author": {
+        "name": "克里斯托弗·鲍里尼",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "黄觉、叶芊",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2004",
+      "publication": "",
+      "publisher": "接力出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "遗产(Inheritance)三部曲之一",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1067243
+    }
+  ]
+}

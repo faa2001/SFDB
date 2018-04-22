@@ -1,0 +1,58 @@
+{
+  "title": "The Big Guy",
+  "author": {
+    "name": "Resnick, Mike",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Big Guy",
+      "author": {
+        "name": "Resnick, Mike",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2007",
+      "publication": "Jim Baen's Universe, June 2007",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 765133,
+      "douban": 0
+    },
+    {
+      "title": "大家伙",
+      "author": {
+        "name": "迈克·雷斯尼克",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "猫猫",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "《科幻大王》2008年第10期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

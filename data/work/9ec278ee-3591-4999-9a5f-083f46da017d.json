@@ -1,0 +1,58 @@
+{
+  "title": "Arthur et les minimoys",
+  "author": {
+    "name": "Besson, Luc",
+    "nation": "法"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Arthur et les minimoys",
+      "author": {
+        "name": "Besson, Luc",
+        "nation": "法"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2002",
+      "publication": "",
+      "publisher": "Intervista",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 167887,
+      "douban": 0
+    },
+    {
+      "title": "亚瑟和迷你墨王国",
+      "author": {
+        "name": "吕克·贝松",
+        "nation": "法"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "朱静、蒋向艳",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "接力出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "亚瑟(Arthur)系列之一",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1220901
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "情報過多時代",
+  "author": {
+    "name": "俣野しづ子",
+    "nation": "日"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "情報過多時代",
+      "author": {
+        "name": "俣野しづ子",
+        "nation": "日"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1979",
+      "publication": "『小説現代』1989年",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "信息泛滥时代",
+      "author": {
+        "name": "俣野静子",
+        "nation": "日"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李重民",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "《世界科幻博览》2005年第6期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [
+        {
+          "title": "",
+          "href": "http://qkzz.net/magazine/1673-0011/2005/06/337914.htm"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

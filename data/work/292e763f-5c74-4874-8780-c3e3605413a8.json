@@ -1,0 +1,60 @@
+{
+  "title": "The Stolen Child",
+  "author": {
+    "name": "Donohue, Keith",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2007年轨迹奖最佳首部作品第10名"
+  ],
+  "publishes": [
+    {
+      "title": "The Stolen Child",
+      "author": {
+        "name": "Donohue, Keith",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "Nan A. Talese / Doubleday",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 181865,
+      "douban": 0
+    },
+    {
+      "title": "失窃的孩子",
+      "author": {
+        "name": "凯斯·唐纳胡",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "柏栎",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "",
+      "publisher": "人民文学出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 2082380
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Speaker for the Dead",
+  "author": {
+    "name": "Card, Orson Scott",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1986年星云奖最佳长篇",
+    "1987年科幻编年奖最佳长篇",
+    "1987年雨果奖最佳长篇",
+    "1987年轨迹奖最佳科幻小说第1名"
+  ],
+  "publishes": [
+    {
+      "title": "Speaker for the Dead",
+      "author": {
+        "name": "Card, Orson Scott",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1986",
+      "publication": "",
+      "publisher": "Tor",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 1158,
+      "douban": 0
+    },
+    {
+      "title": "死者代言人",
+      "author": {
+        "name": "奥森·斯科特·卡德",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "段跣、高颖",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "四川科学技术出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "“安德”系列之二",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1271212
+    }
+  ]
+}

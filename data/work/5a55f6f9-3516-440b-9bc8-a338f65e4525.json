@@ -1,0 +1,60 @@
+{
+  "title": "The Warrior's Apprentice",
+  "author": {
+    "name": "Bujold, Lois McMaster",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1987年轨迹奖最佳科幻小说第16名"
+  ],
+  "publishes": [
+    {
+      "title": "The Warrior's Apprentice",
+      "author": {
+        "name": "Bujold, Lois McMaster",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1986",
+      "publication": "",
+      "publisher": "Baen",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 890,
+      "douban": 0
+    },
+    {
+      "title": "战争学徒",
+      "author": {
+        "name": "洛伊斯·比约德",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "邵莉敏",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2004",
+      "publication": "",
+      "publisher": "四川科学技术出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "迈尔斯系列",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1427322
+    }
+  ]
+}

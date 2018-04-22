@@ -1,0 +1,58 @@
+{
+  "title": "Deception Point",
+  "author": {
+    "name": "Brown, Dan",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Deception Point",
+      "author": {
+        "name": "Brown, Dan",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2001",
+      "publication": "",
+      "publisher": "Pocket",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 182621,
+      "douban": 0
+    },
+    {
+      "title": "骗局",
+      "author": {
+        "name": "丹·布朗",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "朱振武、信艳、王巧俐 ",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "人民文学出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1485225
+    }
+  ]
+}

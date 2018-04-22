@@ -1,0 +1,58 @@
+{
+  "title": "Zoo",
+  "author": {
+    "name": "Hoch, Edward D.",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Zoo",
+      "author": {
+        "name": "Hoch, Edward D.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1958",
+      "publication": "Fantastic Universe, June 1958",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 72612,
+      "douban": 0
+    },
+    {
+      "title": "动物园",
+      "author": {
+        "name": "爱德华·笛·霍茨",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "佚名",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1981",
+      "publication": "《科幻海洋》第一辑",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "小小说",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3096750
+    }
+  ]
+}

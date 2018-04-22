@@ -1,0 +1,60 @@
+{
+  "title": "A Fire Upon The Deep",
+  "author": {
+    "name": "Vinge, Vernor",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1992年星云奖最佳长篇提名\r\n1993年雨果奖最佳长篇"
+  ],
+  "publishes": [
+    {
+      "title": "A Fire Upon The Deep",
+      "author": {
+        "name": "Vinge, Vernor",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1992",
+      "publication": "",
+      "publisher": "Tor",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 1952,
+      "douban": 0
+    },
+    {
+      "title": "深渊上的火",
+      "author": {
+        "name": "弗诺·文奇",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李克勤",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "四川科学技术出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "Zones of Thought 系列之一",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1146267
+    }
+  ]
+}

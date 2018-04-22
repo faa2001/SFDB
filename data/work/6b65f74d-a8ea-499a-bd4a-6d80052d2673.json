@@ -1,0 +1,58 @@
+{
+  "title": "猫の天使",
+  "author": {
+    "name": "藤崎慎吾 (Shingo Fujisaki)",
+    "nation": "日"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "猫の天使",
+      "author": {
+        "name": "藤崎慎吾 (Shingo Fujisaki)",
+        "nation": "日"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2001",
+      "publication": "2001 (早川書房, ISBN:4152083247)",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "猫的天使",
+      "author": {
+        "name": "藤崎慎吾",
+        "nation": "日"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "苏娜凯",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "《科幻世界译文版》2008年第5期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

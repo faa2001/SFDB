@@ -1,0 +1,62 @@
+{
+  "title": "Double Star",
+  "author": {
+    "name": "Heinlein, Robert A.",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1956年雨果奖最佳长篇",
+    "1987年轨迹奖史上最佳科幻长篇第44名",
+    "1998年轨迹奖1990年前最佳科幻长篇第41名"
+  ],
+  "publishes": [
+    {
+      "title": "Double Star",
+      "author": {
+        "name": "Heinlein, Robert A.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1956",
+      "publication": "",
+      "publisher": "Signet",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 2080,
+      "douban": 0
+    },
+    {
+      "title": "双星",
+      "author": {
+        "name": "罗伯特·海因莱因",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "陈珠珠",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "四川科学技术出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1675986
+    }
+  ]
+}

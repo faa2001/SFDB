@@ -1,0 +1,60 @@
+{
+  "title": "Stardust",
+  "author": {
+    "name": "Gaiman, Neil",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1999年创神奖最佳成年人长篇"
+  ],
+  "publishes": [
+    {
+      "title": "Stardust",
+      "author": {
+        "name": "Gaiman, Neil",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1998",
+      "publication": "",
+      "publisher": "DC Comics",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 907772,
+      "douban": 0
+    },
+    {
+      "title": "星尘",
+      "author": {
+        "name": "尼尔·盖曼",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "龚容、李琳",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "人民文学出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3210683
+    }
+  ]
+}

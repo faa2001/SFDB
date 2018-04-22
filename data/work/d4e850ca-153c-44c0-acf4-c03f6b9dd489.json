@@ -1,0 +1,62 @@
+{
+  "title": "Goat Song",
+  "author": {
+    "name": "Anderson, Poul",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1972年星云奖最佳短中篇",
+    "1973年雨果奖最佳短中篇",
+    "1973年轨迹奖最佳短中篇第3名"
+  ],
+  "publishes": [
+    {
+      "title": "Goat Song",
+      "author": {
+        "name": "Anderson, Poul",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1972",
+      "publication": "F&SF, Feb 1972",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 41368,
+      "douban": 0
+    },
+    {
+      "title": "悲剧之歌",
+      "author": {
+        "name": "波尔·安德森",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "黄培清",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "《世界科幻博览》2007年第5期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

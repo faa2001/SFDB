@@ -1,0 +1,60 @@
+{
+  "title": "Das Parfum",
+  "author": {
+    "name": "Süskind, Patrick",
+    "nation": "德"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1987年世界奇幻奖最佳长篇"
+  ],
+  "publishes": [
+    {
+      "title": "Das Parfum",
+      "author": {
+        "name": "Süskind, Patrick",
+        "nation": "德"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1985",
+      "publication": "",
+      "publisher": "Diogenes Verlag",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 1400,
+      "douban": 0
+    },
+    {
+      "title": "香水",
+      "author": {
+        "name": "帕·聚斯金德",
+        "nation": "德"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李清华",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "上海译文出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1292416
+    }
+  ]
+}

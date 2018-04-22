@@ -1,0 +1,58 @@
+{
+  "title": "Nightfall",
+  "author": {
+    "name": "Asimov, Isaac / Silverberg, Robert",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Nightfall",
+      "author": {
+        "name": "Asimov, Isaac / Silverberg, Robert",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1990",
+      "publication": "",
+      "publisher": "Gollancz",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 11852,
+      "douban": 0
+    },
+    {
+      "title": "日暮",
+      "author": {
+        "name": "艾萨克·阿西莫夫、罗伯特·西尔弗伯格",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "冉隆森",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2003",
+      "publication": "",
+      "publisher": "四川科学技术出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "【世界科幻大事丛书】之一",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1125417
+    }
+  ]
+}

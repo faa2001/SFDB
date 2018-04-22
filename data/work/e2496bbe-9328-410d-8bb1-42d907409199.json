@@ -1,0 +1,58 @@
+{
+  "title": "FTA",
+  "author": {
+    "name": "Martin, George R. R.",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "FTA",
+      "author": {
+        "name": "Martin, George R. R.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1974",
+      "publication": "Analog May 1974",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 50960,
+      "douban": 0
+    },
+    {
+      "title": "超光速引擎",
+      "author": {
+        "name": "乔治·R·R·马丁",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "郭建中",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "《世界科幻博览》2005年第7期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "title": "Baudolino",
+  "author": {
+    "name": "Eco, Umberto",
+    "nation": "意"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Baudolino",
+      "author": {
+        "name": "Eco, Umberto",
+        "nation": "意"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2000",
+      "publication": "",
+      "publisher": "Bompiani",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 179066,
+      "douban": 0
+    },
+    {
+      "title": "波多里诺",
+      "author": {
+        "name": "翁贝托·埃科",
+        "nation": "意"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "杨孟哲",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "",
+      "publisher": "上海译文出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 2003092
+    }
+  ]
+}

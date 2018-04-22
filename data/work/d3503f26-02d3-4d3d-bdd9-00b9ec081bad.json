@@ -1,0 +1,61 @@
+{
+  "title": "Our Lady of the Sauropods",
+  "author": {
+    "name": "Silverberg, Robert",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1981年雨果奖最佳短篇提名",
+    "1981年轨迹奖最佳短篇第3名"
+  ],
+  "publishes": [
+    {
+      "title": "Our Lady of the Sauropods",
+      "author": {
+        "name": "Silverberg, Robert",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1980",
+      "publication": "Omni, Sep 1980",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 41088,
+      "douban": 0
+    },
+    {
+      "title": "恐龙圣母",
+      "author": {
+        "name": "罗伯特·希尔弗伯格",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "耿辉",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "《科幻大王》2008年第5期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

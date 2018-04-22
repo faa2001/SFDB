@@ -1,0 +1,58 @@
+{
+  "title": "Il nome della rosa",
+  "author": {
+    "name": "Eco, Umberto",
+    "nation": "意"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Il nome della rosa",
+      "author": {
+        "name": "Eco, Umberto",
+        "nation": "意"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1980",
+      "publication": "",
+      "publisher": "Warner Books",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 6527,
+      "douban": 0
+    },
+    {
+      "title": "玫瑰的名字",
+      "author": {
+        "name": "安伯托·埃柯",
+        "nation": "意"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "谢瑶玲",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2001",
+      "publication": "",
+      "publisher": "作家出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1228775
+    }
+  ]
+}

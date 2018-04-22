@@ -1,0 +1,58 @@
+{
+  "title": "十三ドルの破局",
+  "author": {
+    "name": "石川直樹",
+    "nation": "日"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "十三ドルの破局",
+      "author": {
+        "name": "石川直樹",
+        "nation": "日"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1987",
+      "publication": "『ショートショート&#12539;グランプリ　ＳＦ＆ミステリー』(集英社)",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "十三美元的败局",
+      "author": {
+        "name": "石川直树",
+        "nation": "日"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李重民",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "《世界科幻博览》2007年第1期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "title": "The Evolution of Human Science",
+  "author": {
+    "name": "Chiang, Ted",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Evolution of Human Science",
+      "author": {
+        "name": "Chiang, Ted",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2000",
+      "publication": "",
+      "publisher": "Stories of Your Life and Others (Tor)",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 102264,
+      "douban": 0
+    },
+    {
+      "title": "人类科学之演变",
+      "author": {
+        "name": "特德·蒋",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "于飞",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "《你一生的故事》（四川科学技术出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1187842
+    }
+  ]
+}

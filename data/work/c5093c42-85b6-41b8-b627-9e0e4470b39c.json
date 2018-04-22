@@ -1,0 +1,58 @@
+{
+  "title": "Sang Pour Sang:  Le réveil des vampires",
+  "author": {
+    "name": "Marigr, Jean",
+    "nation": "法"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Sang Pour Sang:  Le réveil des vampires",
+      "author": {
+        "name": "Marigr, Jean",
+        "nation": "法"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1993",
+      "publication": "",
+      "publisher": "GALLIMARD",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "吸血鬼：暗夜里寻找生命",
+      "author": {
+        "name": "J.马里尼",
+        "nation": "法"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "吴岳添",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1999",
+      "publication": "",
+      "publisher": "上海书店出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1001481
+    }
+  ]
+}

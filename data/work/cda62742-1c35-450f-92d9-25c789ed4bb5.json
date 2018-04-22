@@ -1,0 +1,65 @@
+{
+  "title": "Jonathan Strange & Mr. Norrell",
+  "author": {
+    "name": "Clarke, Susanna",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2004年英国科幻奖最佳长篇提名",
+    "2005年雨果奖最佳长篇",
+    "2005年星云奖最佳长篇提名",
+    "2005年世界奇幻奖最佳长篇",
+    "2005年轨迹奖最佳处女作",
+    "2005年轨迹奖最佳奇幻长篇第10名"
+  ],
+  "publishes": [
+    {
+      "title": "Jonathan Strange & Mr. Norrell",
+      "author": {
+        "name": "Clarke, Susanna",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2004",
+      "publication": "",
+      "publisher": "Bloomsbury",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 153332,
+      "douban": 0
+    },
+    {
+      "title": "大魔法师",
+      "author": {
+        "name": "苏珊娜·克拉克",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "石晓竹",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "吉林出版集团有限责任公司",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1458377
+    }
+  ]
+}

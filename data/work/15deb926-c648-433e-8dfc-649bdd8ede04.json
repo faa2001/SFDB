@@ -1,0 +1,68 @@
+{
+  "title": "On Writing: Heinlein's Rules",
+  "author": {
+    "name": "Sawyer, Robert J.",
+    "nation": "加"
+  },
+  "type": "other",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "On Writing: Heinlein's Rules",
+      "author": {
+        "name": "Sawyer, Robert J.",
+        "nation": "加"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1996",
+      "publication": "On Spec, Spring 1996",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [
+        {
+          "title": "On Writing: Heinlein's Rules",
+          "href": "http://www.sfwriter.com/ow05.htm"
+        }
+      ],
+      "isfdb": 115613,
+      "douban": 0
+    },
+    {
+      "title": "海因莱因的科幻写作法则",
+      "author": {
+        "name": "罗伯特·索耶",
+        "nation": "加"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "飞氘",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2006",
+      "publication": "《科幻世界》2006年第11期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "科幻写作讲堂栏目",
+      "links": [
+        {
+          "title": "",
+          "href": "http://hitomin.spaces.live.com/blog/cns!3B0ED451AE111212!1575.entry"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

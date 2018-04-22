@@ -1,0 +1,58 @@
+{
+  "title": "The Million-Year Picnic",
+  "author": {
+    "name": "Bradbury, Ray",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Million-Year Picnic",
+      "author": {
+        "name": "Bradbury, Ray",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1946",
+      "publication": "Planet Stories, Summer 1946",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 41155,
+      "douban": 0
+    },
+    {
+      "title": "百万年郊游",
+      "author": {
+        "name": "雷·布拉德伯里",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "冯真",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1981",
+      "publication": "《科幻海洋》第二辑",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3096748
+    }
+  ]
+}

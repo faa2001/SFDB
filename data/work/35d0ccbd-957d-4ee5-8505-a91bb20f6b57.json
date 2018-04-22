@@ -1,0 +1,58 @@
+{
+  "title": "Jhereg",
+  "author": {
+    "name": "Brust, Steven",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Jhereg",
+      "author": {
+        "name": "Brust, Steven",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1983",
+      "publication": "",
+      "publisher": "Ace Books",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 1686,
+      "douban": 0
+    },
+    {
+      "title": "精灵刺客茨瑞格之书·龙蜥",
+      "author": {
+        "name": "斯蒂芬·布鲁斯特",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "薛白",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "",
+      "publisher": "重庆出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "精灵刺客系列之一",
+      "links": [],
+      "isfdb": 0,
+      "douban": 2275744
+    }
+  ]
+}

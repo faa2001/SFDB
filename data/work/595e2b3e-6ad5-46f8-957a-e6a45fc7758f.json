@@ -1,0 +1,61 @@
+{
+  "title": "Dracula",
+  "author": {
+    "name": "Stoker, Bram",
+    "nation": "爱尔兰"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1987年轨迹奖史上最佳奇幻长篇第19名",
+    "1998年轨迹奖1990年前最佳奇幻长篇第17名"
+  ],
+  "publishes": [
+    {
+      "title": "Dracula",
+      "author": {
+        "name": "Stoker, Bram",
+        "nation": "爱尔兰"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1897",
+      "publication": "",
+      "publisher": "Archibald Constable and Company",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 2072,
+      "douban": 0
+    },
+    {
+      "title": "德拉库拉",
+      "author": {
+        "name": "布拉姆·斯托克",
+        "nation": "爱尔兰"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "刘勃",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2004",
+      "publication": "",
+      "publisher": "中国人民大学出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1083330
+    }
+  ]
+}

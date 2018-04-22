@@ -1,0 +1,60 @@
+{
+  "title": "Enchanters' End Game",
+  "author": {
+    "name": "Eddings, David",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1985年轨迹奖最佳奇幻长篇第8名"
+  ],
+  "publishes": [
+    {
+      "title": "Enchanters' End Game",
+      "author": {
+        "name": "Eddings, David",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1984",
+      "publication": "",
+      "publisher": "Del Rey / Ballantine",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 2011,
+      "douban": 0
+    },
+    {
+      "title": "预言终局",
+      "author": {
+        "name": "大卫·艾丁斯",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "麦全",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "汕头大学出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "“圣石传奇系列”之四",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1069338
+    }
+  ]
+}

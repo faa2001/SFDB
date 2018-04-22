@@ -1,0 +1,58 @@
+{
+  "title": "Seetee Ship",
+  "author": {
+    "name": "Williamson, Jack",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Seetee Ship",
+      "author": {
+        "name": "Williamson, Jack",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1951",
+      "publication": "",
+      "publisher": "Gnome Press",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 3509,
+      "douban": 0
+    },
+    {
+      "title": "反物质飞船",
+      "author": {
+        "name": "杰克·威廉森",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "陈喜荣、曾艳",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2002",
+      "publication": "",
+      "publisher": "《反物质飞船》（四川科学技术出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1133486
+    }
+  ]
+}

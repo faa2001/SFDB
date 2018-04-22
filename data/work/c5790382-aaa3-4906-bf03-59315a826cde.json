@@ -1,0 +1,58 @@
+{
+  "title": "Carrie",
+  "author": {
+    "name": "King, Stephen",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Carrie",
+      "author": {
+        "name": "King, Stephen",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1974",
+      "publication": "",
+      "publisher": "Doubleday",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 766,
+      "douban": 0
+    },
+    {
+      "title": "凯丽",
+      "author": {
+        "name": "斯蒂芬·金",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "陈体仁",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1996",
+      "publication": "",
+      "publisher": "中国对外翻译出版公司",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1839999
+    }
+  ]
+}

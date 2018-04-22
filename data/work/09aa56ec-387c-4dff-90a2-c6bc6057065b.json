@@ -1,0 +1,58 @@
+{
+  "title": "なぞの転校生",
+  "author": {
+    "name": "眉村卓",
+    "nation": "日"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "なぞの転校生",
+      "author": {
+        "name": "眉村卓",
+        "nation": "日"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1967",
+      "publication": "",
+      "publisher": "盛光社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "异次元流浪者",
+      "author": {
+        "name": "眉村卓",
+        "nation": "日"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "倪灵",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "北岳文艺出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1289198
+    }
+  ]
+}

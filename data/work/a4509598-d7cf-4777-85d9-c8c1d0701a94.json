@@ -1,0 +1,58 @@
+{
+  "title": "It's a Good Life",
+  "author": {
+    "name": "Bixby, Jerome",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "It's a Good Life",
+      "author": {
+        "name": "Bixby, Jerome",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1953",
+      "publication": "Star Science Fiction Stories No. 2",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 41109,
+      "douban": 0
+    },
+    {
+      "title": "人生多美好",
+      "author": {
+        "name": "杰罗姆·比克斯白",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "bruceyew",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "《世界科幻博览》2007年第7期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

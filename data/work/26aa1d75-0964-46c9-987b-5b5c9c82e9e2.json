@@ -1,0 +1,60 @@
+{
+  "title": "Year's Best SF",
+  "author": {
+    "name": "Hartwell, David G.",
+    "nation": "美"
+  },
+  "type": "collection",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1997年轨迹奖最佳选集第3名"
+  ],
+  "publishes": [
+    {
+      "title": "Year's Best SF",
+      "author": {
+        "name": "Hartwell, David G.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1996",
+      "publication": "",
+      "publisher": "HarperPrism",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 33589,
+      "douban": 0
+    },
+    {
+      "title": "1995年美国最佳科幻小说集",
+      "author": {
+        "name": "戴维·吉·哈特威尔",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "张玲、黄勇、傅雪芬、田蓓",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1997",
+      "publication": "",
+      "publisher": "远方出版社",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "戴维·吉·哈特威尔 是编者。",
+      "links": [],
+      "isfdb": 0,
+      "douban": 2003992
+    }
+  ]
+}

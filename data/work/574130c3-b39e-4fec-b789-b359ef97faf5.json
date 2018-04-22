@@ -1,0 +1,58 @@
+{
+  "title": "攻殻機動隊-STAR SEED",
+  "author": {
+    "name": "远藤明范",
+    "nation": "日"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "攻殻機動隊-STAR SEED",
+      "author": {
+        "name": "远藤明范",
+        "nation": "日"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1998",
+      "publication": "",
+      "publisher": "讲谈社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "攻壳机动队 宇宙生化人",
+      "author": {
+        "name": "远藤明范",
+        "nation": "日"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "赵玲",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "北岳文艺出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1264436
+    }
+  ]
+}

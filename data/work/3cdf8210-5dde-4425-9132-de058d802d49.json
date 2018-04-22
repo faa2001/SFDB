@@ -1,0 +1,62 @@
+{
+  "title": "Good Omens",
+  "author": {
+    "name": "Gaiman, Neil / Pratchett, Terry",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1990年HOMer奖最佳奇幻长篇提名",
+    "1991年世界奇幻奖最佳长篇提名",
+    "1991年轨迹奖最佳奇幻长篇第2名"
+  ],
+  "publishes": [
+    {
+      "title": "Good Omens",
+      "author": {
+        "name": "Gaiman, Neil / Pratchett, Terry",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1990",
+      "publication": "",
+      "publisher": "Gollancz",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 6543,
+      "douban": 0
+    },
+    {
+      "title": "好兆头",
+      "author": {
+        "name": "尼尔·盖曼、特里·普拉切特",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "马骁",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "四川科学技术出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3191247
+    }
+  ]
+}

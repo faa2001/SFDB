@@ -1,0 +1,58 @@
+{
+  "title": "Sphinx",
+  "author": {
+    "name": "Cook, Robin",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Sphinx",
+      "author": {
+        "name": "Cook, Robin",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1980",
+      "publication": "",
+      "publisher": "Signet",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 865196,
+      "douban": 0
+    },
+    {
+      "title": "狮身人面像之谜",
+      "author": {
+        "name": "罗宾·库克",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "陆君",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "",
+      "publisher": "新星出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 2024615
+    }
+  ]
+}

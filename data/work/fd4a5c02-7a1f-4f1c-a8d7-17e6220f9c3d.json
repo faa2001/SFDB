@@ -1,0 +1,58 @@
+{
+  "title": "The Arctic Incident",
+  "author": {
+    "name": "Colfer, Eoin",
+    "nation": "爱尔兰"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Arctic Incident",
+      "author": {
+        "name": "Colfer, Eoin",
+        "nation": "爱尔兰"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2002",
+      "publication": "",
+      "publisher": "Miramax",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 155306,
+      "douban": 0
+    },
+    {
+      "title": "阿特米斯之北极圈大战",
+      "author": {
+        "name": "欧因·科弗",
+        "nation": "爱尔兰"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "刘秋娟",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "电子工业出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "阿特米斯(Artemis)系列之二",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3244548
+    }
+  ]
+}

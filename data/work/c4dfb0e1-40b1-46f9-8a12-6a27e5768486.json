@@ -1,0 +1,58 @@
+{
+  "title": "Asimov: The Unauthorized Life",
+  "author": {
+    "name": "White, Michael",
+    "nation": "美"
+  },
+  "type": "other",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Asimov: The Unauthorized Life",
+      "author": {
+        "name": "White, Michael",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1994",
+      "publication": "",
+      "publisher": "Millennium",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 580037,
+      "douban": 0
+    },
+    {
+      "title": "阿西莫夫：逸闻趣事",
+      "author": {
+        "name": "米歇尔·怀特",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "叶秀敏、苏隆中",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1999",
+      "publication": "",
+      "publisher": "内蒙古人民出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1052925
+    }
+  ]
+}

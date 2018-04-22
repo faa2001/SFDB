@@ -1,0 +1,62 @@
+{
+  "title": "Way Station",
+  "author": {
+    "name": "Simak, Clifford D.",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1964年雨果奖最佳长篇",
+    "1987年轨迹奖史上最佳科幻长篇第25名",
+    "1998年轨迹奖1990年前最佳科幻长篇第31名"
+  ],
+  "publishes": [
+    {
+      "title": "Way Station",
+      "author": {
+        "name": "Simak, Clifford D.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1963",
+      "publication": "",
+      "publisher": "Manor Books",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 6698,
+      "douban": 0
+    },
+    {
+      "title": "神秘的中继站",
+      "author": {
+        "name": "克利福德·西马克",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李维屏、杨理达",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1991",
+      "publication": "",
+      "publisher": "福建少年儿童出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 2248991
+    }
+  ]
+}

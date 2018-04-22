@@ -1,0 +1,58 @@
+{
+  "title": "心残り",
+  "author": {
+    "name": "島崎一裕",
+    "nation": "日"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "心残り",
+      "author": {
+        "name": "島崎一裕",
+        "nation": "日"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1987",
+      "publication": "『小説現代』1987年1月号",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "牵挂",
+      "author": {
+        "name": "岛崎一裕",
+        "nation": "日"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李重民",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "《世界科幻博览》2007年第7期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

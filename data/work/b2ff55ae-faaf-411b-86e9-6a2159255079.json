@@ -1,0 +1,58 @@
+{
+  "title": "Warriors of the Tempest",
+  "author": {
+    "name": "Nicholls, Stan",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Warriors of the Tempest",
+      "author": {
+        "name": "Nicholls, Stan",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2000",
+      "publication": "",
+      "publisher": "Orion / Gollancz",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 20932,
+      "douban": 0
+    },
+    {
+      "title": "半兽人：暴风勇士",
+      "author": {
+        "name": "斯坦·尼科斯",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "杨冰",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "东方出版中心",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "半兽人系列之三",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1967793
+    }
+  ]
+}

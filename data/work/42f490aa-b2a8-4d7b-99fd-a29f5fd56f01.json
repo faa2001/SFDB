@@ -1,0 +1,62 @@
+{
+  "title": "The War of the Worlds",
+  "author": {
+    "name": "Wells, H. G.",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1975年轨迹票选史上最佳长篇第24名",
+    "1987年轨迹票选史上最佳长篇第42名",
+    "1998年轨迹票选1990年前最佳长篇第28名 \r\n"
+  ],
+  "publishes": [
+    {
+      "title": "The War of the Worlds",
+      "author": {
+        "name": "Wells, H. G.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1898",
+      "publication": "",
+      "publisher": "Gollancz",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 895,
+      "douban": 0
+    },
+    {
+      "title": "星际战争",
+      "author": {
+        "name": "郝伯特·乔治·威尔斯",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李建波、唐岫敏",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "《威尔斯科幻小说全集I》（太白文艺出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3082658
+    }
+  ]
+}

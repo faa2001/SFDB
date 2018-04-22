@@ -1,0 +1,58 @@
+{
+  "title": "War with the Robots",
+  "author": {
+    "name": "Harrison, Harry",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "War with the Robots",
+      "author": {
+        "name": "Harrison, Harry",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1962",
+      "publication": "",
+      "publisher": "Science Fiction Adventures No. 27",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 71391,
+      "douban": 0
+    },
+    {
+      "title": "机器人战争",
+      "author": {
+        "name": "哈里·哈里森",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "林子清、林剑鸣",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1999",
+      "publication": "",
+      "publisher": "《巴纳姆星的人面兽》（福建少年儿童出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3012389
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Dolores Claiborne",
+  "author": {
+    "name": "King, Stephen",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1993年轨迹奖最佳恐怖/黑暗奇幻长篇第14名"
+  ],
+  "publishes": [
+    {
+      "title": "Dolores Claiborne",
+      "author": {
+        "name": "King, Stephen",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1992",
+      "publication": "",
+      "publisher": "The Viking Press",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 2099,
+      "douban": 0
+    },
+    {
+      "title": "惊鸟",
+      "author": {
+        "name": "斯蒂芬·金",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "袁绍渊",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "珠海出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1220048
+    }
+  ]
+}

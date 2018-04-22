@@ -1,0 +1,58 @@
+{
+  "title": "Necroscope III: The Source",
+  "author": {
+    "name": "Lumley, Brian",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Necroscope III: The Source",
+      "author": {
+        "name": "Lumley, Brian",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1989",
+      "publication": "",
+      "publisher": "Grafton",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 296,
+      "douban": 0
+    },
+    {
+      "title": "吸血鬼之源",
+      "author": {
+        "name": "布莱恩·拉姆利",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李新春、王志平",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2003",
+      "publication": "",
+      "publisher": "花山文艺出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "召亡人(Necroscope)系列之三",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1264962
+    }
+  ]
+}

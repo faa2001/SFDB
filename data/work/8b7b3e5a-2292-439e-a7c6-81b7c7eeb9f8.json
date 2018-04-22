@@ -1,0 +1,58 @@
+{
+  "title": "Hex: Shadows",
+  "author": {
+    "name": "Lassiter, Rhiannon",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Hex: Shadows",
+      "author": {
+        "name": "Lassiter, Rhiannon",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1999",
+      "publication": "",
+      "publisher": "Macmillan Children's Books",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 24583,
+      "douban": 0
+    },
+    {
+      "title": "阴影",
+      "author": {
+        "name": "莱安诺·拉斯特",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李娜",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2003",
+      "publication": "",
+      "publisher": "中国电影出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "骇客帝国(Hex)系列之二",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1427153
+    }
+  ]
+}

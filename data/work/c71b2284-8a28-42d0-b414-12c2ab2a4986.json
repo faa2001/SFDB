@@ -1,0 +1,58 @@
+{
+  "title": "Abarat: The First Book of Hours",
+  "author": {
+    "name": "Barker, Clive",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Abarat: The First Book of Hours",
+      "author": {
+        "name": "Barker, Clive",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2002",
+      "publication": "",
+      "publisher": "HarperCollins",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 23391,
+      "douban": 0
+    },
+    {
+      "title": "阿巴拉岛",
+      "author": {
+        "name": "克里夫·巴克",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "马爱农",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "接力出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "阿巴拉系列之一",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1256220
+    }
+  ]
+}

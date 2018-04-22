@@ -1,0 +1,58 @@
+{
+  "title": "The Monsters: Mary Shelley and the Curse of Frankenstein",
+  "author": {
+    "name": "Hoobler, Dorothy / Hoobler, Thomas",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Monsters: Mary Shelley and the Curse of Frankenstein",
+      "author": {
+        "name": "Hoobler, Dorothy / Hoobler, Thomas",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "Little Brown",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 181311,
+      "douban": 0
+    },
+    {
+      "title": "怪物",
+      "author": {
+        "name": "多萝西·胡布勒、托马斯·胡布勒",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "邓金明",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "上海人民出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3161956
+    }
+  ]
+}

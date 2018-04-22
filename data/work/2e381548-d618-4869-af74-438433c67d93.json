@@ -1,0 +1,58 @@
+{
+  "title": "Le Jour des fourmis",
+  "author": {
+    "name": "Werber, Bernard",
+    "nation": "法"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Le Jour des fourmis",
+      "author": {
+        "name": "Werber, Bernard",
+        "nation": "法"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1992",
+      "publication": "",
+      "publisher": "Albin Michel",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 185716,
+      "douban": 0
+    },
+    {
+      "title": "蚂蚁革命",
+      "author": {
+        "name": "贝尔纳·韦尔贝尔",
+        "nation": "法"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "武峥灏、刁卿雅",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2000",
+      "publication": "",
+      "publisher": "新世纪出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "蚂蚁(Les Fourmis)三部曲之二",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1422237
+    }
+  ]
+}

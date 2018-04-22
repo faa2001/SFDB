@@ -1,0 +1,58 @@
+{
+  "title": "The Shrinking Man",
+  "author": {
+    "name": "Matheson, Richard",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Shrinking Man",
+      "author": {
+        "name": "Matheson, Richard",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1956",
+      "publication": "Gold Medal Books",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 6610,
+      "douban": 0
+    },
+    {
+      "title": "萎缩的人",
+      "author": {
+        "name": "里查德·马森",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "乔步法、山风",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1992",
+      "publication": "《科幻世界》1992年第1期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

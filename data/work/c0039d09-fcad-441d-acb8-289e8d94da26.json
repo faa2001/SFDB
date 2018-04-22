@@ -1,0 +1,58 @@
+{
+  "title": "The Crystal Egg",
+  "author": {
+    "name": "Wells, H. G.",
+    "nation": "英"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Crystal Egg",
+      "author": {
+        "name": "Wells, H. G.",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1897",
+      "publication": "",
+      "publisher": "The Short Stories of H. G. Wells (Odhams Press Limited)",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 54646,
+      "douban": 0
+    },
+    {
+      "title": "水晶蛋",
+      "author": {
+        "name": "郝伯特·乔治·威尔斯",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "王文江、林青",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "《威尔斯科幻小说全集VI》（太白文艺出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3082658
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "title": "The Cookie Monster",
+  "author": {
+    "name": "Vinge, Vernor",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2003年Anlog奖最佳长中篇提名",
+    "2004年雨果奖最佳长中篇",
+    "2004年星云奖最佳长中篇提名",
+    "2004年轨迹奖最佳长中篇第1名"
+  ],
+  "publishes": [
+    {
+      "title": "The Cookie Monster",
+      "author": {
+        "name": "Vinge, Vernor",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2003",
+      "publication": "Analog, Oct 2003",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 246511,
+      "douban": 0
+    },
+    {
+      "title": "循环",
+      "author": {
+        "name": "弗诺·文奇",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "乐明",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2004",
+      "publication": "《科幻世界译文版》2004年第9期天平号",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "后收录于《美国最佳科幻小说年度选 第21辑》四川科学技术出版社2007年版",
+      "links": [
+        {
+          "title": "",
+          "href": "http://www.52eshu.com/software/catalog3/7925.html#download"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

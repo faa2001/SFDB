@@ -1,0 +1,60 @@
+{
+  "title": "The Ziggurat",
+  "author": {
+    "name": "Wolfe, Gene",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1996年轨迹奖最佳长中篇第7名"
+  ],
+  "publishes": [
+    {
+      "title": "The Ziggurat",
+      "author": {
+        "name": "Wolfe, Gene",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1995",
+      "publication": "",
+      "publisher": "in Full Spectrum 5 (Bantam Spectra)",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 44375,
+      "douban": 0
+    },
+    {
+      "title": "金字神塔",
+      "author": {
+        "name": "吉纳·沃尔夫",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "张玲、黄勇、傅雪芬、田蓓",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1997",
+      "publication": "",
+      "publisher": "《1995年美国最佳科幻小说集》（远方出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 2003992
+    }
+  ]
+}

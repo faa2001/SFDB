@@ -1,0 +1,58 @@
+{
+  "title": "Helen O'Loy",
+  "author": {
+    "name": "del Rey, Lester",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Helen O'Loy",
+      "author": {
+        "name": "del Rey, Lester",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1938",
+      "publication": "Astounding Science-Fiction, December 1938",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 48141,
+      "douban": 0
+    },
+    {
+      "title": "海伦姑娘",
+      "author": {
+        "name": "莱斯特·德尔雷伊",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "吴定柏",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1983",
+      "publication": "《科幻海洋》第六辑",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3096742
+    }
+  ]
+}

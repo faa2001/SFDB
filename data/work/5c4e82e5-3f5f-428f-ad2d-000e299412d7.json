@@ -1,0 +1,58 @@
+{
+  "title": "Gulliverzone",
+  "author": {
+    "name": "Baxter, Stephen",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Gulliverzone",
+      "author": {
+        "name": "Baxter, Stephen",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1997",
+      "publication": "",
+      "publisher": "Orion Children's Books",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 10482,
+      "douban": 0
+    },
+    {
+      "title": "异形惊魂",
+      "author": {
+        "name": "斯蒂芬·巴克斯特",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "张建平",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2000",
+      "publication": "",
+      "publisher": "明天出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1116064
+    }
+  ]
+}

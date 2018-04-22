@@ -1,0 +1,58 @@
+{
+  "title": "Warlock",
+  "author": {
+    "name": "Smith, Wilbur",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Warlock",
+      "author": {
+        "name": "Smith, Wilbur",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2001",
+      "publication": "",
+      "publisher": "Macmillan UK",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 834161,
+      "douban": 0
+    },
+    {
+      "title": "男巫",
+      "author": {
+        "name": "韦尔博·史密斯",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "沈占春",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2009",
+      "publication": "",
+      "publisher": "吉林文史出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "Ancient Egyptian系列之三",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3437548
+    }
+  ]
+}

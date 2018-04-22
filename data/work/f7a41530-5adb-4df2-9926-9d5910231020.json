@@ -1,0 +1,58 @@
+{
+  "title": "Последний дозор (The Last Watch)",
+  "author": {
+    "name": "Лукьяненко, Сергей Васильевич (Lukyanenko, Sergei)",
+    "nation": "俄"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Последний дозор (The Last Watch)",
+      "author": {
+        "name": "Лукьяненко, Сергей Васильевич (Lukyanenko, Sergei)",
+        "nation": "俄"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "Moscow",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 195371,
+      "douban": 0
+    },
+    {
+      "title": "最后的守护人",
+      "author": {
+        "name": "谢尔盖·卢基扬年科",
+        "nation": "俄"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "张俊翔、范洁清",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "人民文学出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3219393
+    }
+  ]
+}

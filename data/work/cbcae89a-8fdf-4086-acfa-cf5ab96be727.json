@@ -1,0 +1,66 @@
+{
+  "title": "Unicorn Variation",
+  "author": {
+    "name": "Zelazny, Roger",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1982年雨果奖最佳短中篇",
+    "1982年轨迹奖最佳短中篇第2名"
+  ],
+  "publishes": [
+    {
+      "title": "Unicorn Variation",
+      "author": {
+        "name": "Zelazny, Roger",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1981",
+      "publication": "Asimov's, Apr 1981",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 40831,
+      "douban": 0
+    },
+    {
+      "title": "独角兽的棋路",
+      "author": {
+        "name": "罗杰·泽拉兹尼",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "胡纾",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "《科幻世界幻想小说译文版》2005年第1期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "王萍、杨士焯的译本登于《世界科幻博览》2007年第10期，名为《独角兽棋局》",
+      "links": [
+        {
+          "title": "",
+          "href": "http://mihuan.yo2.cn/archives/635581"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

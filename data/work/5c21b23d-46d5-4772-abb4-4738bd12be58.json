@@ -1,0 +1,62 @@
+{
+  "title": "Unaccompanied Sonata",
+  "author": {
+    "name": "Card, Orson Scott",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1979年星云奖最佳短篇提名",
+    "1980年雨果奖最佳短篇提名",
+    "1980年轨迹奖最佳短篇第6名"
+  ],
+  "publishes": [
+    {
+      "title": "Unaccompanied Sonata",
+      "author": {
+        "name": "Card, Orson Scott",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1979",
+      "publication": "Omni, Mar 1979",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 40836,
+      "douban": 0
+    },
+    {
+      "title": "无伴奏之奏鸣曲",
+      "author": {
+        "name": "奥森·斯科特·卡特",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "panpan",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "《世界科幻博览》2007年第7期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

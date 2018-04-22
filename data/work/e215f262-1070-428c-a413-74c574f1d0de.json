@@ -1,0 +1,58 @@
+{
+  "title": "Apartness",
+  "author": {
+    "name": "Vinge, Vernor",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Apartness",
+      "author": {
+        "name": "Vinge, Vernor",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1965",
+      "publication": "New Worlds SF, June 1965",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 58856,
+      "douban": 0
+    },
+    {
+      "title": "隔离",
+      "author": {
+        "name": "弗诺·文奇",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "袁枫",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "《科幻世界译文版》2008年第11期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

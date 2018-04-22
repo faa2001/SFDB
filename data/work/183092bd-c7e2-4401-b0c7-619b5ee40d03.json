@@ -1,0 +1,58 @@
+{
+  "title": "A Princess of Mars",
+  "author": {
+    "name": "Burroughs, Edgar Rice",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "A Princess of Mars",
+      "author": {
+        "name": "Burroughs, Edgar Rice",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1912",
+      "publication": "",
+      "publisher": "",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 21883,
+      "douban": 0
+    },
+    {
+      "title": "火星公主",
+      "author": {
+        "name": "埃德加·赖斯·巴勒斯",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "宋韵声",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "哈尔滨出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "火星（Barsoom）系列",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3224640
+    }
+  ]
+}

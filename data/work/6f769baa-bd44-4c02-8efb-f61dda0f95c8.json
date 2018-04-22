@@ -1,0 +1,58 @@
+{
+  "title": "The Historian ",
+  "author": {
+    "name": "Kostova, Elizabeth",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Historian ",
+      "author": {
+        "name": "Kostova, Elizabeth",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2000",
+      "publication": "",
+      "publisher": "Time Warner AudioBooks",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 168666,
+      "douban": 0
+    },
+    {
+      "title": "历史学家",
+      "author": {
+        "name": "伊丽莎白·科斯托娃",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "凌建娥、刘玉红",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "人民文学出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1776856
+    }
+  ]
+}

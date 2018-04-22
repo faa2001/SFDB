@@ -1,0 +1,58 @@
+{
+  "title": "The Streets of Ashkelon",
+  "author": {
+    "name": "Harrison, Harry",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Streets of Ashkelon",
+      "author": {
+        "name": "Harrison, Harry",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1962",
+      "publication": "",
+      "publisher": "New Worlds Science Fiction, September 1962",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 66842,
+      "douban": 0
+    },
+    {
+      "title": "阿什克仑村落",
+      "author": {
+        "name": "哈里·哈里森",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "江亦川",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1997",
+      "publication": "",
+      "publisher": "《科幻之路第三卷：从海因莱因到七十年代》（福建少年儿童出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

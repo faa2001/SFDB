@@ -1,0 +1,64 @@
+{
+  "title": "Barrayar ",
+  "author": {
+    "name": "Bujold, Lois McMaster",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1991年HOMer奖最佳科幻长篇",
+    "1992年雨果奖最佳长篇",
+    "1991年星云奖最佳长篇提名",
+    "1992年轨迹奖最佳科幻长篇第1名",
+    "1992年科幻编年体奖最佳长篇提名"
+  ],
+  "publishes": [
+    {
+      "title": "Barrayar ",
+      "author": {
+        "name": "Bujold, Lois McMaster",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1991",
+      "publication": "",
+      "publisher": "Analog, Jul-Oct 1991 / Baen",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 2389,
+      "douban": 0
+    },
+    {
+      "title": "贝拉亚",
+      "author": {
+        "name": "洛伊斯·比约德",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李毅",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "四川科学技术出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "迈尔斯系列（Miles Vorkosigan）",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3025244
+    }
+  ]
+}

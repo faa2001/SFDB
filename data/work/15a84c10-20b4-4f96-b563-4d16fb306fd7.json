@@ -1,0 +1,68 @@
+{
+  "title": "Snow, Glass, Apples",
+  "author": {
+    "name": "Gaiman, Neil",
+    "nation": "英"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Snow, Glass, Apples",
+      "author": {
+        "name": "Gaiman, Neil",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1994",
+      "publication": "Love in Vein II",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [
+        {
+          "title": "Snow, Glass, Apples",
+          "href": "http://www.holycow.com/dreaming/stories/snow-glass-apples"
+        }
+      ],
+      "isfdb": 40561,
+      "douban": 0
+    },
+    {
+      "title": "白雪，镜子，苹果",
+      "author": {
+        "name": "尼尔·盖曼",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "龚容",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "《译文》2005年第1期 ",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [
+        {
+          "title": "",
+          "href": "http://bbs.sfw.com.cn/archiver/?tid-16121.html"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

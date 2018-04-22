@@ -1,0 +1,63 @@
+{
+  "title": "Wake-Up Call",
+  "author": {
+    "name": "Brown, Leslie",
+    "nation": "英"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Wake-Up Call",
+      "author": {
+        "name": "Brown, Leslie",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2007",
+      "publication": "Strange Horizons, 30 July 2007",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [
+        {
+          "title": "Wake-Up Call",
+          "href": "http://www.strangehorizons.com/2007/20070730/wakeup-f.shtml"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "苏醒之铃",
+      "author": {
+        "name": "莱斯莉·布朗",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "张彤寰",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "《飞·奇幻世界》2008年第9期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

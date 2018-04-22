@@ -1,0 +1,66 @@
+{
+  "title": "Ringworld",
+  "author": {
+    "name": "Niven, Larry",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1970年星云奖最佳长篇",
+    "1971年雨果奖最佳长篇",
+    "1971年轨迹奖最佳科幻长篇第1名",
+    "1972年Ditmar奖最佳国际长篇",
+    "1975年轨迹奖史上最佳长篇第12名",
+    "1987年轨迹奖史上最佳科幻长篇第19名",
+    "1998年轨迹奖1990年前最佳科幻长篇第25名"
+  ],
+  "publishes": [
+    {
+      "title": "Ringworld",
+      "author": {
+        "name": "Niven, Larry",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1970",
+      "publication": "",
+      "publisher": "Ballantine Books",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 1298,
+      "douban": 0
+    },
+    {
+      "title": "环形世界",
+      "author": {
+        "name": "拉里·尼文",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "张京生、杨柳",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "",
+      "publication": "",
+      "publisher": "漓江出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1424636
+    }
+  ]
+}

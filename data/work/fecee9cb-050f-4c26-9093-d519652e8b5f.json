@@ -1,0 +1,65 @@
+{
+  "title": "Stations of the Tide",
+  "author": {
+    "name": "Swanwick, Michael",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1991年星云奖最佳长篇",
+    "1992年雨果奖最佳长篇提名",
+    "1992年约翰·坎贝尔纪念奖提名",
+    "1992年科幻编年体奖最佳长篇",
+    "1992年轨迹奖最佳科幻长篇第6名",
+    "1993年阿瑟·克拉克奖提名"
+  ],
+  "publishes": [
+    {
+      "title": "Stations of the Tide",
+      "author": {
+        "name": "Swanwick, Michael",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1991",
+      "publication": "",
+      "publisher": "The Easton Press",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 1110,
+      "douban": 0
+    },
+    {
+      "title": "潮汐站",
+      "author": {
+        "name": "迈克尔·斯万维克",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "陶雪蕾",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2009",
+      "publication": "",
+      "publisher": "四川科学技术出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3390203
+    }
+  ]
+}

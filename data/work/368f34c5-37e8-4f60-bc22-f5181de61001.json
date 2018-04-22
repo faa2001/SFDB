@@ -1,0 +1,63 @@
+{
+  "title": "",
+  "author": {
+    "name": "Spencer, Matthew",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "",
+      "author": {
+        "name": "Spencer, Matthew",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "",
+      "publication": "",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "永生的代价",
+      "author": {
+        "name": "马修·斯潘塞",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "方陵生",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "《世界科幻博览》2007年第4期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "《青年文摘（绿版）》2007年第5期转载",
+      "links": [
+        {
+          "title": "",
+          "href": "http://www.eywedu.com/Youthl/qnwb2007/qnwb20070545.html"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "title": "言葉使い師",
+  "author": {
+    "name": "神林長平 (Chouhei Kanbayashi)",
+    "nation": "日"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1983年第14回星云赏最佳短篇"
+  ],
+  "publishes": [
+    {
+      "title": "言葉使い師",
+      "author": {
+        "name": "神林長平 (Chouhei Kanbayashi)",
+        "nation": "日"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1982",
+      "publication": "『SFマガジン』1982年9月号",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "御言师",
+      "author": {
+        "name": "神林长平",
+        "nation": "日"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "林邦彦",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "《科幻世界译文版》2007年第1期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

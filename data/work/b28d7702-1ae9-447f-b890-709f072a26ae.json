@@ -1,0 +1,63 @@
+{
+  "title": "Why I Left Harry's All-Night Hamburgers",
+  "author": {
+    "name": "Watt-Evans, Lawrence",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1987年星云奖最佳短篇提名",
+    "1988年雨果奖最佳短篇",
+    "1988年Asimov's读者票选最佳短篇",
+    "1988年轨迹奖最佳短篇第6名"
+  ],
+  "publishes": [
+    {
+      "title": "Why I Left Harry's All-Night Hamburgers",
+      "author": {
+        "name": "Watt-Evans, Lawrence",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1987",
+      "publication": "Asimov's, July 1987",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 40786,
+      "douban": 0
+    },
+    {
+      "title": "哈里汉堡店",
+      "author": {
+        "name": "劳伦斯·瓦特-伊文斯",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "Bruceyew",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2009",
+      "publication": "《科幻世界》2009年第1期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

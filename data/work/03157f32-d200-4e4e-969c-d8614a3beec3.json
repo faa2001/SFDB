@@ -1,0 +1,58 @@
+{
+  "title": "ブレイブ&#12539;ストーリー",
+  "author": {
+    "name": "宮部みゆき",
+    "nation": "日"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "ブレイブ&#12539;ストーリー",
+      "author": {
+        "name": "宮部みゆき",
+        "nation": "日"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "角川書店(Kadokawa Shoten Publishing)",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "勇者物语I",
+      "author": {
+        "name": "宫部美雪",
+        "nation": "日"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "林青华",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "北京十月文艺出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3012320
+    }
+  ]
+}

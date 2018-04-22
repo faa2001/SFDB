@@ -1,0 +1,60 @@
+{
+  "title": "Artemis Fowl ",
+  "author": {
+    "name": "Colfer, Eoin",
+    "nation": "爱尔兰"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2002年戈尔登·杜克(Golden Duck)奖之哈里·克莱门(Hal Clement)青年文学特别奖提名"
+  ],
+  "publishes": [
+    {
+      "title": "Artemis Fowl ",
+      "author": {
+        "name": "Colfer, Eoin",
+        "nation": "爱尔兰"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2001",
+      "publication": "",
+      "publisher": "Gardners Books",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 21737,
+      "douban": 0
+    },
+    {
+      "title": "阿特米斯之精灵的赎金",
+      "author": {
+        "name": "欧因·科弗",
+        "nation": "爱尔兰"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "刘秋娟",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "",
+      "publisher": "电子工业出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "阿特米斯(Artemis)系列之一、2008年再版",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3244546
+    }
+  ]
+}

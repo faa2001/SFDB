@@ -1,0 +1,62 @@
+{
+  "title": "End of an Era",
+  "author": {
+    "name": "Sawyer, Robert J.",
+    "nation": "加"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1994年HOMer奖最佳长篇",
+    "1995年极光奖最佳英语长篇提名",
+    "1995年轨迹奖最佳科幻长篇第27名"
+  ],
+  "publishes": [
+    {
+      "title": "End of an Era",
+      "author": {
+        "name": "Sawyer, Robert J.",
+        "nation": "加"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1994",
+      "publication": "ACE",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 2008,
+      "douban": 0
+    },
+    {
+      "title": "纪元的终结",
+      "author": {
+        "name": "罗伯特·索耶",
+        "nation": "加"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "尚晓华、袁枫",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2009",
+      "publication": "《科幻世界译文版》2009年第1期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

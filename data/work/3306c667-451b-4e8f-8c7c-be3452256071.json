@@ -1,0 +1,58 @@
+{
+  "title": "繁栄の花",
+  "author": {
+    "name": "星新一（Hosi Sinichi)",
+    "nation": "日"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "繁栄の花",
+      "author": {
+        "name": "星新一（Hosi Sinichi)",
+        "nation": "日"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1963",
+      "publication": "宇宙のあいさつ（ハヤカワ&#12539;SF&#12539;シリーズ）/早川書房",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "繁荣花",
+      "author": {
+        "name": "星新一",
+        "nation": "日"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "高烈夫",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1981",
+      "publication": "《科幻海洋》第二辑",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3096748
+    }
+  ]
+}

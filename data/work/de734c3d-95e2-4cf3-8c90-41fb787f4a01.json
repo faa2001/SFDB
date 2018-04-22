@@ -1,0 +1,61 @@
+{
+  "title": "Fossil Hunter",
+  "author": {
+    "name": "Sawyer, Robert J.",
+    "nation": "加"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1993年星云奖最佳长篇提名",
+    "1993年荷马奖最佳长篇"
+  ],
+  "publishes": [
+    {
+      "title": "Fossil Hunter",
+      "author": {
+        "name": "Sawyer, Robert J.",
+        "nation": "加"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1993",
+      "publication": "",
+      "publisher": "Ace",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 5415,
+      "douban": 0
+    },
+    {
+      "title": "恐龙文明三部曲——化石猎人",
+      "author": {
+        "name": "罗伯特·J·索耶",
+        "nation": "加"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "张建光",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "四川科学技术出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "恐龙文明(The Quintaglio Ascension)三部曲之二",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1417484
+    }
+  ]
+}

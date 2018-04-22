@@ -1,0 +1,58 @@
+{
+  "title": "The Grays",
+  "author": {
+    "name": "Strieber, Whitley",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Grays",
+      "author": {
+        "name": "Strieber, Whitley",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2007",
+      "publication": "Tor",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 182709,
+      "douban": 0
+    },
+    {
+      "title": "灰色外星人",
+      "author": {
+        "name": "惠特利·斯特里伯",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "周小进",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "《译林》2008年增刊·春季卷",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "title": "Bill, the Galactic Hero",
+  "author": {
+    "name": "Harrison, Harry",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Bill, the Galactic Hero",
+      "author": {
+        "name": "Harrison, Harry",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1965",
+      "publication": "",
+      "publisher": "Doubleday",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 2361,
+      "douban": 0
+    },
+    {
+      "title": "宇宙英雄比尔",
+      "author": {
+        "name": "哈里·哈里森",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "钱斌枢",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1996",
+      "publication": "",
+      "publisher": "河南人民出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3121779
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "title": "The Marriages Between Zones Three, Four, and Five",
+  "author": {
+    "name": "Lessing, Doris",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Marriages Between Zones Three, Four, and Five",
+      "author": {
+        "name": "Lessing, Doris",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1980",
+      "publication": "",
+      "publisher": "Knopf",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 16847,
+      "douban": 0
+    },
+    {
+      "title": "三四五区间的联姻",
+      "author": {
+        "name": "多丽丝·莱辛",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "俞婷",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "南京大学出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3320591
+    }
+  ]
+}

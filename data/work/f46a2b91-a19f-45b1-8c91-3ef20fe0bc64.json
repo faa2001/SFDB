@@ -1,0 +1,58 @@
+{
+  "title": "Confessions of a Crap Artist",
+  "author": {
+    "name": "Dick, Philip K.",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Confessions of a Crap Artist",
+      "author": {
+        "name": "Dick, Philip K.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1975",
+      "publication": "",
+      "publisher": "Entwhistle Books",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 18842,
+      "douban": 0
+    },
+    {
+      "title": "一个废物艺术家的自白",
+      "author": {
+        "name": "菲利普·迪克",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "范小青",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "江苏教育出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1443395
+    }
+  ]
+}

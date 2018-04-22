@@ -1,0 +1,63 @@
+{
+  "title": "The Unborn",
+  "author": {
+    "name": "Hipolito, Marcelo / Machado, Marcelo",
+    "nation": "巴西"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Unborn",
+      "author": {
+        "name": "Hipolito, Marcelo / Machado, Marcelo",
+        "nation": "巴西"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2002",
+      "publication": "Planet Magazine No. 36, 2002",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [
+        {
+          "title": "The Unborn",
+          "href": "http://docs.google.com/View?docID=dgkjsknt_11dhwmdbds"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "未能出生的人",
+      "author": {
+        "name": "马塞洛·希普利托、马塞洛·麦查多",
+        "nation": "巴西"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "方陵生",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "《世界科幻博览》2007年第5期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

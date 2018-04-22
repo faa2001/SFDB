@@ -1,0 +1,58 @@
+{
+  "title": "Build-A-Bear",
+  "author": {
+    "name": "Wolfe, Gene",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Build-A-Bear",
+      "author": {
+        "name": "Wolfe, Gene",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2006",
+      "publication": "Jim Baen's Universe, June 2006",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 757137,
+      "douban": 0
+    },
+    {
+      "title": "做个熊熊",
+      "author": {
+        "name": "吉恩·沃尔夫",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "梁均",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "《科幻世界译文版》2008年第12期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

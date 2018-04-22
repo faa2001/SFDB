@@ -1,0 +1,63 @@
+{
+  "title": "Martian Rebirth",
+  "author": {
+    "name": "Trizna, Walt",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Martian Rebirth",
+      "author": {
+        "name": "Trizna, Walt",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2007",
+      "publication": "Bewildering Stories, #257",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [
+        {
+          "title": "Martian Rebirth",
+          "href": "http://www.bewilderingstories.com/issue257/martian_rebirth1.html"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "火星人之重生",
+      "author": {
+        "name": "沃尔特·特里兹那",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "方陵生",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "《世界科幻博览》2007年第12期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

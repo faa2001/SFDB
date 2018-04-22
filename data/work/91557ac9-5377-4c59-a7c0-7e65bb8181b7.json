@@ -1,0 +1,58 @@
+{
+  "title": "Except My Life, Except My Life, Except My Life",
+  "author": {
+    "name": "Morressy, John",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Except My Life, Except My Life, Except My Life",
+      "author": {
+        "name": "Morressy, John",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1991",
+      "publication": "Amazing Stories Jul 1991",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 59278,
+      "douban": 0
+    },
+    {
+      "title": "克隆人谋杀案",
+      "author": {
+        "name": "约翰·莫雷西",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "罗布",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "《科幻世界译文版》2005年第1期“天龙号”",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

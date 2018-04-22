@@ -1,0 +1,68 @@
+{
+  "title": "Silent Blade",
+  "author": {
+    "name": "Cypess, Leah",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Silent Blade",
+      "author": {
+        "name": "Cypess, Leah",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "Strange Horizon, Jul. 2007",
+      "type": "other",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [
+        {
+          "title": "Silent Blade",
+          "href": "http://www.strangehorizons.com/2006/20060717/blade-f.shtml"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "寂刃",
+      "author": {
+        "name": "莉娅·塞帕斯",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "nobody",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "龙骑士城堡",
+      "type": "other",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [
+        {
+          "title": "",
+          "href": "http://www.cndkc.net/bbs/viewthread.php?tid=29911&extra=page%3D2%26amp%3Bfilter%3Ddigest"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

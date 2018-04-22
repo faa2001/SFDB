@@ -1,0 +1,58 @@
+{
+  "title": "Il gene del dubbio",
+  "author": {
+    "name": "Panayotopoulos, Nicos",
+    "nation": "希腊"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Il gene del dubbio",
+      "author": {
+        "name": "Panayotopoulos, Nicos",
+        "nation": "希腊"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "基因的秘密",
+      "author": {
+        "name": "尼科斯·帕纳约托普洛斯",
+        "nation": "希腊"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "刘华、李华",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "",
+      "publisher": "新星出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 2125018
+    }
+  ]
+}

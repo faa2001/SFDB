@@ -1,0 +1,58 @@
+{
+  "title": "太陽星人",
+  "author": {
+    "name": "竹好素子",
+    "nation": "日"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "太陽星人",
+      "author": {
+        "name": "竹好素子",
+        "nation": "日"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1087",
+      "publication": "『ショートショート&#12539;グランプリ　ＳＦ＆ミステリー』(集英社)",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "太阳星人",
+      "author": {
+        "name": "竹好素子",
+        "nation": "日"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李青来",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2004",
+      "publication": "《世界科幻博览》试刊号",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

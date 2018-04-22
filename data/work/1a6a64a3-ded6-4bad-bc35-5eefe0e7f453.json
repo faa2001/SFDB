@@ -1,0 +1,60 @@
+{
+  "title": "Lord of the Flies",
+  "author": {
+    "name": "Golding, William",
+    "nation": ""
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "诺贝尔文学奖"
+  ],
+  "publishes": [
+    {
+      "title": "Lord of the Flies",
+      "author": {
+        "name": "Golding, William",
+        "nation": ""
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1954",
+      "publication": "Faber & Faber",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 828338,
+      "douban": 0
+    },
+    {
+      "title": "蝇王",
+      "author": {
+        "name": "威廉·戈尔丁",
+        "nation": ""
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "郭德艳",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2003",
+      "publication": "天津科技翻译出版公司",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "双语",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

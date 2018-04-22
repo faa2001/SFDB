@@ -1,0 +1,58 @@
+{
+  "title": "Common Time",
+  "author": {
+    "name": "Blish, James",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Common Time",
+      "author": {
+        "name": "Blish, James",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1953",
+      "publication": "Science Fiction Quarterly, August 1953",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 41537,
+      "douban": 0
+    },
+    {
+      "title": "共同时间",
+      "author": {
+        "name": "詹姆斯·布利什",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "王志章",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1997",
+      "publication": "《科幻之路》（第四卷）（福建少年儿童出版社）",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "2008年北京大学出版社再版",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1337295
+    }
+  ]
+}

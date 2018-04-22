@@ -1,0 +1,58 @@
+{
+  "title": "We Find Things Old",
+  "author": {
+    "name": "Little, Bentley",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "We Find Things Old",
+      "author": {
+        "name": "Little, Bentley",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2004",
+      "publication": "The Last Pentacle of the Sun: Writings in Support of the West Memphis Three (Arsenal Pulp Press)",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 827197,
+      "douban": 0
+    },
+    {
+      "title": "我们代寻老物件",
+      "author": {
+        "name": "本特利·利特",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "尚晓华",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2006",
+      "publication": "《科幻世界译文版》2006年第4期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

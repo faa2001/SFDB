@@ -1,0 +1,58 @@
+{
+  "title": "Potential and Actuality in Science Fiction",
+  "author": {
+    "name": "McIntyre, Vonda N.",
+    "nation": "美"
+  },
+  "type": "other",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Potential and Actuality in Science Fiction",
+      "author": {
+        "name": "McIntyre, Vonda N.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1977",
+      "publication": "in Nebula Award Stories 11 (Harper & Row)",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 125294,
+      "douban": 0
+    },
+    {
+      "title": "科学幻想小说的潜力与现实",
+      "author": {
+        "name": "方达·N·麦金泰尔",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "韩邦凯",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1981",
+      "publication": "《科幻海洋》第一辑",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3096750
+    }
+  ]
+}

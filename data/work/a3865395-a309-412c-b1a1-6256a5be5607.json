@@ -1,0 +1,61 @@
+{
+  "title": "Cujo",
+  "author": {
+    "name": "King, Stephen",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1982年英国奇幻奖August Derleth 奇幻奖最佳长篇",
+    "1982年轨迹奖最佳奇幻长篇第21名"
+  ],
+  "publishes": [
+    {
+      "title": "Cujo",
+      "author": {
+        "name": "King, Stephen",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1981",
+      "publication": "",
+      "publisher": "The Viking Press",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 2292,
+      "douban": 0
+    },
+    {
+      "title": "厄兆",
+      "author": {
+        "name": "斯蒂芬·金",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "黄晓梅、康笑",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1997",
+      "publication": "",
+      "publisher": "珠海出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1089940
+    }
+  ]
+}

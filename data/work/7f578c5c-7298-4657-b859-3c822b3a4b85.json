@@ -1,0 +1,58 @@
+{
+  "title": "Star Bridge",
+  "author": {
+    "name": "Williamson, Jack",
+    "nation": ""
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Star Bridge",
+      "author": {
+        "name": "Williamson, Jack",
+        "nation": ""
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1955",
+      "publication": "",
+      "publisher": "Gnome Press",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 11587,
+      "douban": 0
+    },
+    {
+      "title": "星际桥梁",
+      "author": {
+        "name": "杰克·威廉森",
+        "nation": ""
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "吴刚",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1999",
+      "publication": "",
+      "publisher": "河北科学技术出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "与 James Gunn 合著",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3075182
+    }
+  ]
+}

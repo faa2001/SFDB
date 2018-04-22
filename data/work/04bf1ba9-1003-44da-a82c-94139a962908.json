@@ -1,0 +1,63 @@
+{
+  "title": "On Writing: A Memoir of the Craft",
+  "author": {
+    "name": "King, Stephen",
+    "nation": "美"
+  },
+  "type": "other",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2000年国际恐怖文学行会奖最佳非小说作品提名",
+    "2000年Bram Stoker奖最佳非小说作品",
+    "2001年雨果奖最佳相关书籍",
+    "2001年轨迹奖最佳非小说作品第1名"
+  ],
+  "publishes": [
+    {
+      "title": "On Writing: A Memoir of the Craft",
+      "author": {
+        "name": "King, Stephen",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2000",
+      "publication": "",
+      "publisher": "Scribner",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 103198,
+      "douban": 0
+    },
+    {
+      "title": "抚摸恐怖：我的创作生涯",
+      "author": {
+        "name": "斯蒂芬·金",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "曾瀞瑶、高美龄",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2002",
+      "publication": "",
+      "publisher": "珠海出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1209107
+    }
+  ]
+}

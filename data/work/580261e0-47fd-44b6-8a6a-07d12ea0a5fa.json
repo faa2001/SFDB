@@ -1,0 +1,61 @@
+{
+  "title": "Darkfall: Book One of the Legendsong",
+  "author": {
+    "name": "Carmody, Isobelle",
+    "nation": "澳"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1997年Aurealis奖最佳奇幻长篇提名",
+    "1998年迪马特尔奖最佳澳洲长篇提名"
+  ],
+  "publishes": [
+    {
+      "title": "Darkfall: Book One of the Legendsong",
+      "author": {
+        "name": "Carmody, Isobelle",
+        "nation": "澳"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1997",
+      "publication": "",
+      "publisher": "Viking / Penguin Books Australia",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 21458,
+      "douban": 0
+    },
+    {
+      "title": "黑沉岛第一季：沦落",
+      "author": {
+        "name": "伊莎贝尔·卡莫迪",
+        "nation": "澳"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "邱望生",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "四川文艺出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "黑沉岛系列（Legendsong）之一",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3086005
+    }
+  ]
+}

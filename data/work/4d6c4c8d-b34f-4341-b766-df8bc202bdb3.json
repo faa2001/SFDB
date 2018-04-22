@@ -1,0 +1,62 @@
+{
+  "title": "Unsound Variations",
+  "author": {
+    "name": "Martin, George R. R.",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1983年雨果奖最佳短中篇提名",
+    "1982年星云奖最佳短中篇提名",
+    "1983年轨迹奖最佳短中篇第2名"
+  ],
+  "publishes": [
+    {
+      "title": "Unsound Variations",
+      "author": {
+        "name": "Martin, George R. R.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1982",
+      "publication": "Amazing SF Stories, Jan 1982",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 45198,
+      "douban": 0
+    },
+    {
+      "title": "局中变",
+      "author": {
+        "name": "乔治·R·R·马丁",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "张秋早",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "《科幻世界译文版》2008年第1期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

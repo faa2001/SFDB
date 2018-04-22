@@ -1,0 +1,58 @@
+{
+  "title": "Prawiek I Inne Czasy",
+  "author": {
+    "name": "Tokarczuk, Olga",
+    "nation": "波兰"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Prawiek I Inne Czasy",
+      "author": {
+        "name": "Tokarczuk, Olga",
+        "nation": "波兰"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "",
+      "publication": "",
+      "publisher": "",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "太古和其他的时间",
+      "author": {
+        "name": "奥尔嘉·朵卡萩",
+        "nation": "波兰"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "易丽君、袁汉镕",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "湖南文艺出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1908361
+    }
+  ]
+}

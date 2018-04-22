@@ -1,0 +1,58 @@
+{
+  "title": "Star Wars",
+  "author": {
+    "name": "Lucas, George",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Star Wars",
+      "author": {
+        "name": "Lucas, George",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1976",
+      "publication": "",
+      "publisher": "Ballantine",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 187999,
+      "douban": 0
+    },
+    {
+      "title": "星球大战",
+      "author": {
+        "name": "乔治·卢卡斯",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "张玲、黄勇",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1997",
+      "publication": "",
+      "publisher": "内蒙古文化出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "星球大战三部曲之一",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1861351
+    }
+  ]
+}

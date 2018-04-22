@@ -1,0 +1,58 @@
+{
+  "title": "The Monsters",
+  "author": {
+    "name": "Sheckley, Robert",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Monsters",
+      "author": {
+        "name": "Sheckley, Robert",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1953",
+      "publication": "F&SF, Mar 1953",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 58569,
+      "douban": 0
+    },
+    {
+      "title": "怪物",
+      "author": {
+        "name": "罗伯特·肖克里",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "孙维梓",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2002",
+      "publication": "《飞·奇幻世界》2002年第3期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

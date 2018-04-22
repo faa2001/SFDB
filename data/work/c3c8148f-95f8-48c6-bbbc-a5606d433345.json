@@ -1,0 +1,63 @@
+{
+  "title": "Cold Comfort",
+  "author": {
+    "name": "Vukcevich, Ray",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Cold Comfort",
+      "author": {
+        "name": "Vukcevich, Ray",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2007",
+      "publication": "F&SF, July 2007",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [
+        {
+          "title": "Cold Comfort",
+          "href": "http://redneckghettotech.com/ebook/v/Vukcevich,%20Ray/Vukcevich,%20Ray%20-%20%20Cold%20Comfort.Pdf"
+        }
+      ],
+      "isfdb": 599141,
+      "douban": 0
+    },
+    {
+      "title": "聊为慰藉",
+      "author": {
+        "name": "雷·伍克维奇",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "思羽",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "《世界科幻博览》2007年第9期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

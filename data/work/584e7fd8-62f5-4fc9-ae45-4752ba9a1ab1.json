@@ -1,0 +1,60 @@
+{
+  "title": "3001: The Final Odyssey",
+  "author": {
+    "name": "Clarke, Arthur C.",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1998年轨迹奖最佳科幻长篇第10名"
+  ],
+  "publishes": [
+    {
+      "title": "3001: The Final Odyssey",
+      "author": {
+        "name": "Clarke, Arthur C.",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1997",
+      "publication": "",
+      "publisher": "Del Rey / Ballantine",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 2482,
+      "douban": 0
+    },
+    {
+      "title": "3001太空漫游",
+      "author": {
+        "name": "阿瑟·克拉克",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "钟慧元、叶李华",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "",
+      "publisher": "上海人民出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "“太空漫游四部曲”之四",
+      "links": [],
+      "isfdb": 0,
+      "douban": 2340615
+    }
+  ]
+}

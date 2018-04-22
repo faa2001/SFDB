@@ -1,0 +1,58 @@
+{
+  "title": "Benighted",
+  "author": {
+    "name": "Whitfield, Kit",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Benighted",
+      "author": {
+        "name": "Whitfield, Kit",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "Del Rey / Ballantine",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 182811,
+      "douban": 0
+    },
+    {
+      "title": "月夜变身",
+      "author": {
+        "name": "基特·威特菲尔德",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "任战",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "人民文学出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 2995207
+    }
+  ]
+}

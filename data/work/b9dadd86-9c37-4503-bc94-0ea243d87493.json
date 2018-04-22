@@ -1,0 +1,58 @@
+{
+  "title": "Cronus of the D.F.C.",
+  "author": {
+    "name": "Biggle, Lloyd",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Cronus of the D.F.C.",
+      "author": {
+        "name": "Biggle, Lloyd",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1957",
+      "publication": "If Feb 1957",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 187455,
+      "douban": 0
+    },
+    {
+      "title": "赫拉诺斯虎口拯美记",
+      "author": {
+        "name": "卢伊德·比格尔",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "孙维梓",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1993",
+      "publication": "《科幻世界》1993年第7期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

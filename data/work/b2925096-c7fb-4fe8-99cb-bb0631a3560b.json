@@ -1,0 +1,60 @@
+{
+  "title": "Bodyguard of Lightning",
+  "author": {
+    "name": "Nicholls, Stan",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2000年英国奇幻奖奥格斯特·德利斯奇幻奖最佳长篇提名"
+  ],
+  "publishes": [
+    {
+      "title": "Bodyguard of Lightning",
+      "author": {
+        "name": "Nicholls, Stan",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1999",
+      "publication": "",
+      "publisher": "Orion",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 19992,
+      "douban": 0
+    },
+    {
+      "title": "半兽人：闪电护卫",
+      "author": {
+        "name": "斯坦·尼科斯",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "杨冰",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "东方出版中心",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "半兽人系列之一",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1944418
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Valis",
+  "author": {
+    "name": "Dick, Philip K.",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1982年轨迹奖最佳科幻长篇第27名"
+  ],
+  "publishes": [
+    {
+      "title": "Valis",
+      "author": {
+        "name": "Dick, Philip K.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1981",
+      "publication": "",
+      "publisher": "Bantam",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 933,
+      "douban": 0
+    },
+    {
+      "title": "瓦利斯",
+      "author": {
+        "name": "菲利普·迪克",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "蓝小娈、关金宝",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "江苏教育出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "瓦利斯三部曲之一",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1441911
+    }
+  ]
+}

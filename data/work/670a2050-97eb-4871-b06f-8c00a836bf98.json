@@ -1,0 +1,65 @@
+{
+  "title": "Kin",
+  "author": {
+    "name": "McAllister, Bruce",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2007年雨果奖最佳短篇提名"
+  ],
+  "publishes": [
+    {
+      "title": "Kin",
+      "author": {
+        "name": "McAllister, Bruce",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "Asimov's Feb 2006",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 195011,
+      "douban": 0
+    },
+    {
+      "title": "亲",
+      "author": {
+        "name": "布鲁斯·麦卡利斯特",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "红猪",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "《SF非卖品》",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "非正式出版物，双峰驼网友自译自制作。",
+      "links": [
+        {
+          "title": "",
+          "href": "http://www.douban.com/group/topic/1929136/"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

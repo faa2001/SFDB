@@ -1,0 +1,60 @@
+{
+  "title": "Charlie's Angels",
+  "author": {
+    "name": "Bisson, Terry",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2002年轨迹奖最佳短篇第15名"
+  ],
+  "publishes": [
+    {
+      "title": "Charlie's Angels",
+      "author": {
+        "name": "Bisson, Terry",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2001",
+      "publication": "Scifi.com",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 100396,
+      "douban": 0
+    },
+    {
+      "title": "查利的天使",
+      "author": {
+        "name": "特利·比森",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "方陵生",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "《世界科幻博览》2007年第1期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

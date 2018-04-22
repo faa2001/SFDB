@@ -1,0 +1,58 @@
+{
+  "title": "Solaris",
+  "author": {
+    "name": "Lem, Stanislaw",
+    "nation": "波兰"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Solaris",
+      "author": {
+        "name": "Lem, Stanislaw",
+        "nation": "波兰"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1961",
+      "publication": "",
+      "publisher": "Warszawa: Wydawnictwo MON",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 1176,
+      "douban": 0
+    },
+    {
+      "title": "索拉利斯星",
+      "author": {
+        "name": "斯坦尼斯拉夫·莱姆",
+        "nation": "波兰"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李玲、陈宁",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2003",
+      "publication": "",
+      "publisher": "《索拉利斯星·K星异客》（四川科学技术出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1140728
+    }
+  ]
+}

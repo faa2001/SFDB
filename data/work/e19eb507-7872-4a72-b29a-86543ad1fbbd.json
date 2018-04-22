@@ -1,0 +1,61 @@
+{
+  "title": "The Lies of Locke Lamora",
+  "author": {
+    "name": "Lynch, Scott",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2007年轨迹奖最佳处女作第2名",
+    "2007年轨迹奖最佳奇幻长篇第22名"
+  ],
+  "publishes": [
+    {
+      "title": "The Lies of Locke Lamora",
+      "author": {
+        "name": "Lynch, Scott",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "Victor Gollancz / Orion",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 222211,
+      "douban": 0
+    },
+    {
+      "title": "绅士盗贼拉莫瑞",
+      "author": {
+        "name": "斯各特·林奇",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "马骁",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "上海译文出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "绅士盗贼系列（Gentleman Bastard Sequence）之一",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3024276
+    }
+  ]
+}

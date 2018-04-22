@@ -1,0 +1,58 @@
+{
+  "title": "Cycle of Hatred",
+  "author": {
+    "name": "DeCandido, Keith R. A.",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Cycle of Hatred",
+      "author": {
+        "name": "DeCandido, Keith R. A.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "Pocket Star",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 180352,
+      "douban": 0
+    },
+    {
+      "title": "仇恨之轮",
+      "author": {
+        "name": "凯恩·R.A.德坎迪多",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "余小倩、张小红",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "文汇出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "魔兽(Warcraft)系列",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1914932
+    }
+  ]
+}

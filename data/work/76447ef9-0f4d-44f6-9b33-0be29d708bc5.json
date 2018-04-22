@@ -1,0 +1,63 @@
+{
+  "title": "Editor Interview: Ellen Datlow",
+  "author": {
+    "name": "Datlow, Ellen",
+    "nation": "美"
+  },
+  "type": "other",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Editor Interview: Ellen Datlow",
+      "author": {
+        "name": "Datlow, Ellen",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2008",
+      "publication": "FearZONE",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [
+        {
+          "title": "Editor Interview: Ellen Datlow",
+          "href": "http://www.fearzone.com/blog/ellen-datlow"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "幻想界的组织者——访艾伦·戴特罗编辑",
+      "author": {
+        "name": "艾伦·戴特罗",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "耿辉",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "《科幻世界译文版》2008年12月",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "采访者/尼古拉斯·考夫曼 (Nicholas Kaufmann)",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

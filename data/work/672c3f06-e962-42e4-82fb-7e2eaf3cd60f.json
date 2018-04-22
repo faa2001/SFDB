@@ -1,0 +1,63 @@
+{
+  "title": "Huntswoman",
+  "author": {
+    "name": "Haskell, Merrie",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Huntswoman",
+      "author": {
+        "name": "Haskell, Merrie",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2005",
+      "publication": "Strange Horizons， 24 Jan 2005",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [
+        {
+          "title": "Huntswoman",
+          "href": "http://www.strangehorizons.com/2005/20050124/huntswoman-f.shtml"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "女猎人",
+      "author": {
+        "name": "梅莉尔·哈斯克尔",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "陈荣生",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "《世界科幻博览》2007年第4期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

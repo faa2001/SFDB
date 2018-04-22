@@ -1,0 +1,58 @@
+{
+  "title": "Raffles: The Amateur Cracksman",
+  "author": {
+    "name": "Hornung, E. W.",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Raffles: The Amateur Cracksman",
+      "author": {
+        "name": "Hornung, E. W.",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1899",
+      "publication": "",
+      "publisher": "",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "业余神偷拉菲兹",
+      "author": {
+        "name": "E·W·赫尔南",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "陶雪蕾",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "新星出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3260271
+    }
+  ]
+}

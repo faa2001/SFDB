@@ -1,0 +1,64 @@
+{
+  "title": "Seventy-Two Letters",
+  "author": {
+    "name": "Chiang, Ted",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2000年Sidwise奖最佳或然历史短篇",
+    "2001年雨果奖最佳长中篇提名",
+    "2001年世界奇幻奖最佳长中篇提名",
+    "2001年Sturgeon奖最佳短篇提名",
+    "2001年轨迹奖最佳长中篇第4名"
+  ],
+  "publishes": [
+    {
+      "title": "Seventy-Two Letters",
+      "author": {
+        "name": "Chiang, Ted",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2000",
+      "publication": "",
+      "publisher": "Vanishing Acts (Tor)",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 92459,
+      "douban": 0
+    },
+    {
+      "title": "七十二个字母",
+      "author": {
+        "name": "特德·蒋",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "苏益群",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "《你一生的故事》（四川科学技术出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1187842
+    }
+  ]
+}

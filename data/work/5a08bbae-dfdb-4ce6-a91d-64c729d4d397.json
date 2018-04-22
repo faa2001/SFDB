@@ -1,0 +1,68 @@
+{
+  "title": "What's Expected of Us",
+  "author": {
+    "name": "Chiang, Ted",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "What's Expected of Us",
+      "author": {
+        "name": "Chiang, Ted",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "Nature, vol. 436, July 7, 2005",
+      "type": "other",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [
+        {
+          "title": "What's Expected of Us",
+          "href": "http://www.concatenation.org/futures/whatsexpected.pdf"
+        }
+      ],
+      "isfdb": 803009,
+      "douban": 0
+    },
+    {
+      "title": "前路迢迢",
+      "author": {
+        "name": "特德·蒋",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "Bruceyew",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "豆瓣双峰驼小组",
+      "type": "other",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "2007年译者修订",
+      "links": [
+        {
+          "title": "",
+          "href": "http://www.douban.com/group/topic/1882648/"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

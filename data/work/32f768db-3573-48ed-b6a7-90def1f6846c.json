@@ -1,0 +1,66 @@
+{
+  "title": "Speech Sound",
+  "author": {
+    "name": "Butler, Octavia E.",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1984年雨果奖最佳短篇",
+    "1984年轨迹奖最佳短篇第5名"
+  ],
+  "publishes": [
+    {
+      "title": "Speech Sound",
+      "author": {
+        "name": "Butler, Octavia E.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1983",
+      "publication": "",
+      "publisher": "Asimov's， Mid-Dec 1983",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 40924,
+      "douban": 0
+    },
+    {
+      "title": "语音",
+      "author": {
+        "name": "奥克塔维娅·E·巴特勒",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "Onion",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "《SF非卖品》",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "非正式出版物，双峰驼网友自译自制作。",
+      "links": [
+        {
+          "title": "",
+          "href": "http://www.douban.com/group/topic/1462303/"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Gossamer",
+  "author": {
+    "name": "Baxter, Stephen",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1996年轨迹奖最佳短篇第2名"
+  ],
+  "publishes": [
+    {
+      "title": "Gossamer",
+      "author": {
+        "name": "Baxter, Stephen",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1995",
+      "publication": "",
+      "publisher": "Science Fiction Age, Nov 1995",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 43301,
+      "douban": 0
+    },
+    {
+      "title": "蜘丝",
+      "author": {
+        "name": "史蒂芬·巴克斯特",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "张玲、黄勇、傅雪芬、田蓓",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1997",
+      "publication": "",
+      "publisher": "《1995年美国最佳科幻小说集》（远方出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 2003992
+    }
+  ]
+}

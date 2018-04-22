@@ -1,0 +1,63 @@
+{
+  "title": "One-Three-Seven",
+  "author": {
+    "name": "Charak, Dinker",
+    "nation": "印度"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "One-Three-Seven",
+      "author": {
+        "name": "Charak, Dinker",
+        "nation": "印度"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2004",
+      "publication": "Adbhut, Dec 2004",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [
+        {
+          "title": "One-Three-Seven",
+          "href": "http://web.archive.org/web/20041222142430/www.adbhut.com/en/dec04/20.html"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "3－7－1神秘信号之谜　",
+      "author": {
+        "name": "迪恩克尔·查拉克",
+        "nation": "印度"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "方陵生",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "《科幻大王》2008年第7期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

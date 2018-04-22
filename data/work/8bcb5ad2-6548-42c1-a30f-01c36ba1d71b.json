@@ -1,0 +1,58 @@
+{
+  "title": "Asleep in the Forest of the Tall Cats",
+  "author": {
+    "name": "Brady, Kenneth",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Asleep in the Forest of the Tall Cats",
+      "author": {
+        "name": "Brady, Kenneth",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2004",
+      "publication": "Writers of the Future Volume XX (Galaxy Press)",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 864627,
+      "douban": 0
+    },
+    {
+      "title": "林中惊梦",
+      "author": {
+        "name": "肯尼思·布雷迪",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "邓祖朴",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "《科幻世界译文版》2007年第7期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "title": "Nightflyers",
+  "author": {
+    "name": "Martin, George R. R.",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1981年雨果奖最佳短中篇提名",
+    "1980年星云奖最佳长中篇提名",
+    "1981年轨迹奖最佳长中篇第1名"
+  ],
+  "publishes": [
+    {
+      "title": "Nightflyers",
+      "author": {
+        "name": "Martin, George R. R.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1980",
+      "publication": "Analog, Apr 1980",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 49769,
+      "douban": 0
+    },
+    {
+      "title": "夜行者",
+      "author": {
+        "name": "乔治·R·R·马丁",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "秦洪丽、赵文",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "《科幻世界译文版》2008年第1期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

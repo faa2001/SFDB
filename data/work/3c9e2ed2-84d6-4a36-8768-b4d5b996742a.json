@@ -1,0 +1,58 @@
+{
+  "title": "Das Steinerne Licht (The Stone Light)",
+  "author": {
+    "name": "Meyer, Kai",
+    "nation": "德"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Das Steinerne Licht (The Stone Light)",
+      "author": {
+        "name": "Meyer, Kai",
+        "nation": "德"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2002",
+      "publication": "",
+      "publisher": "Loewe Verlag",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 826307,
+      "douban": 0
+    },
+    {
+      "title": "石光",
+      "author": {
+        "name": "凯·麦尔",
+        "nation": "德"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "刘兴华",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "重庆出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "威尼斯(Dark Reflections)三部曲之二",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3180903
+    }
+  ]
+}

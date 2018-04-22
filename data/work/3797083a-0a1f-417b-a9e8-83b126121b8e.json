@@ -1,0 +1,63 @@
+{
+  "title": "The Curse of Chalion",
+  "author": {
+    "name": "Bujold, Lois McMaster",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2002年雨果奖长篇",
+    "2002年轨迹奖最佳奇幻长篇第3名",
+    "2002年星云奖最佳长篇提名",
+    "2002年世界奇幻奖最佳长篇提名"
+  ],
+  "publishes": [
+    {
+      "title": "The Curse of Chalion",
+      "author": {
+        "name": "Bujold, Lois McMaster",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2001",
+      "publication": "",
+      "publisher": "Eos / HarperCollins",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 21365,
+      "douban": 0
+    },
+    {
+      "title": "查里昂的诅咒",
+      "author": {
+        "name": "路易丝·麦克马斯特·比约德",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "王秋生、郭瑞",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "长江文艺出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "“查里昂的诅咒系列”之一，缺少最后9章",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1834427
+    }
+  ]
+}

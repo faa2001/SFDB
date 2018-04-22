@@ -1,0 +1,58 @@
+{
+  "title": "Science Fiction: The Illustrated Encyclopedia",
+  "author": {
+    "name": "Clute, John",
+    "nation": "英"
+  },
+  "type": "other",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Science Fiction: The Illustrated Encyclopedia",
+      "author": {
+        "name": "Clute, John",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1995",
+      "publication": "",
+      "publisher": "Dorling Kindersley",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 102331,
+      "douban": 0
+    },
+    {
+      "title": "彩图科幻百科",
+      "author": {
+        "name": "约翰·克卢特",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "陈德民、魏华、罗汉、王怡、王晋 ",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2003",
+      "publication": "",
+      "publisher": "上海科技教育出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1397818
+    }
+  ]
+}

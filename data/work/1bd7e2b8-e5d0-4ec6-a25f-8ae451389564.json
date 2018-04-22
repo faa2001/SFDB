@@ -1,0 +1,58 @@
+{
+  "title": "The Key",
+  "author": {
+    "name": "Asimov, Isaac",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Key",
+      "author": {
+        "name": "Asimov, Isaac",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1966",
+      "publication": "",
+      "publisher": "The Magazine of Fantasy and Science Fiction, October 1966",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 53937,
+      "douban": 0
+    },
+    {
+      "title": "钥匙",
+      "author": {
+        "name": "艾萨克·阿西莫夫",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "寿纪琛",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1998",
+      "publication": "",
+      "publisher": "《阿西莫夫科幻精品集》（内蒙古文化出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

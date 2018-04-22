@@ -1,0 +1,58 @@
+{
+  "title": "Rescue Party",
+  "author": {
+    "name": "Clarke, Arthur C.",
+    "nation": "英"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Rescue Party",
+      "author": {
+        "name": "Clarke, Arthur C.",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1946",
+      "publication": "Astounding SF, May 1946",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 40995,
+      "douban": 0
+    },
+    {
+      "title": "救援队",
+      "author": {
+        "name": "阿瑟·C·克拉克",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "Mick",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "《科幻世界译文版》2007年第11期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

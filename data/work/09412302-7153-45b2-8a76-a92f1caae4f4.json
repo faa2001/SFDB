@@ -1,0 +1,58 @@
+{
+  "title": "Passage to Dawn",
+  "author": {
+    "name": "Salvatore, R. A.",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Passage to Dawn",
+      "author": {
+        "name": "Salvatore, R. A.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1996",
+      "publication": "",
+      "publisher": "TSR",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 30013,
+      "douban": 0
+    },
+    {
+      "title": "破晓之路",
+      "author": {
+        "name": "R. A. 萨尔瓦多",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李镭",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2003",
+      "publication": "",
+      "publisher": "中国工人出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "被遗忘的国度系列、血脉四部曲之四",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1432586
+    }
+  ]
+}

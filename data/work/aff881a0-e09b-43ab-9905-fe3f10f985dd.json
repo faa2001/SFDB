@@ -1,0 +1,58 @@
+{
+  "title": "Luz",
+  "author": {
+    "name": "Porges, Arthur",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Luz",
+      "author": {
+        "name": "Porges, Arthur",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2003",
+      "publication": "F&SF, May 2003",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 101406,
+      "douban": 0
+    },
+    {
+      "title": "卢兹",
+      "author": {
+        "name": "亚瑟·珀格斯",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "陈灼",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "《科幻世界译文版》2005年第11期“天琴号”",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

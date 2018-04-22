@@ -1,0 +1,62 @@
+{
+  "title": "The War of the Worlds",
+  "author": {
+    "name": "Wells, H. G.",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1975年轨迹票选史上最佳长篇第24名",
+    "1987年轨迹票选史上最佳长篇第42名",
+    "1998年轨迹票选1990年前最佳长篇第28名 \r\n"
+  ],
+  "publishes": [
+    {
+      "title": "The War of the Worlds",
+      "author": {
+        "name": "Wells, H. G.",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1898",
+      "publication": "",
+      "publisher": "Gollancz",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 895,
+      "douban": 0
+    },
+    {
+      "title": "世界大战",
+      "author": {
+        "name": "H. G. 威尔斯",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "王荣生",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "华文出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "中英双语版",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1687846
+    }
+  ]
+}

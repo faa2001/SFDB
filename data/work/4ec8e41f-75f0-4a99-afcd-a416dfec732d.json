@@ -1,0 +1,58 @@
+{
+  "title": "Mutation",
+  "author": {
+    "name": "Cook, Robin",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Mutation",
+      "author": {
+        "name": "Cook, Robin",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1989",
+      "publication": "",
+      "publisher": "Thorndike Pr",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 960268,
+      "douban": 0
+    },
+    {
+      "title": "基因突变",
+      "author": {
+        "name": "罗宾·库克",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李小刚",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "新星出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1972059
+    }
+  ]
+}

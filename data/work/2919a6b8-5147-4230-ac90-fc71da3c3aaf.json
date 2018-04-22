@@ -1,0 +1,60 @@
+{
+  "title": "Flowers for Algernon",
+  "author": {
+    "name": "Keyes, Daniel",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1960雨果奖最佳短篇"
+  ],
+  "publishes": [
+    {
+      "title": "Flowers for Algernon",
+      "author": {
+        "name": "Keyes, Daniel",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1959",
+      "publication": "",
+      "publisher": "F&SF, Apr 1959",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 49838,
+      "douban": 0
+    },
+    {
+      "title": "献给阿尔杰农的花",
+      "author": {
+        "name": "丹尼尔·凯斯",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "胡跃明",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1997",
+      "publication": "",
+      "publisher": "《科幻之路》（第四卷）（福建少年儿童出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "2008年北京大学出版社再版",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1337295
+    }
+  ]
+}

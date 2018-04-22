@@ -1,0 +1,58 @@
+{
+  "title": "Now Wait for Last Year",
+  "author": {
+    "name": "Dick, Philip K.",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Now Wait for Last Year",
+      "author": {
+        "name": "Dick, Philip K.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1966",
+      "publication": "",
+      "publisher": "Doubleday",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 1018,
+      "douban": 0
+    },
+    {
+      "title": "末日危机",
+      "author": {
+        "name": "菲利普·迪克",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "陈晔",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "江苏教育出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1443393
+    }
+  ]
+}

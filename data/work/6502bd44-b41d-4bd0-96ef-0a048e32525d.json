@@ -1,0 +1,58 @@
+{
+  "title": "The Sword of Avalon",
+  "author": {
+    "name": "Malory, Sir Thomas",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Sword of Avalon",
+      "author": {
+        "name": "Malory, Sir Thomas",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1969",
+      "publication": "",
+      "publisher": "Ballantine Adult Fantasy",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 903741,
+      "douban": 0
+    },
+    {
+      "title": "亚瑟王之剑",
+      "author": {
+        "name": "托马斯·马洛礼",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李莉",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "百家出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1258377
+    }
+  ]
+}

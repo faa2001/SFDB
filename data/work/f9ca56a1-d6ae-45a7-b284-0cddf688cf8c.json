@@ -1,0 +1,58 @@
+{
+  "title": "The Return of the King ",
+  "author": {
+    "name": "Tolkien, J. R. R.",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Return of the King ",
+      "author": {
+        "name": "Tolkien, J. R. R.",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1955",
+      "publication": "",
+      "publisher": "Geo. Allen & Unwin",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 1610,
+      "douban": 0
+    },
+    {
+      "title": "魔戒：王者无敌",
+      "author": {
+        "name": "托尔金",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "汤定九",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2001",
+      "publication": "",
+      "publisher": "译林出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "魔戒三部曲之三、精装版、2002年平装版出版",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1071794
+    }
+  ]
+}

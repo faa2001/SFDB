@@ -1,0 +1,58 @@
+{
+  "title": "I, Dreamer",
+  "author": {
+    "name": "Miller, Walter M. Jr.",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "I, Dreamer",
+      "author": {
+        "name": "Miller, Walter M. Jr.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1953",
+      "publication": "Amazing Stories, June-July 1953",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 58870,
+      "douban": 0
+    },
+    {
+      "title": "我，一个做梦者",
+      "author": {
+        "name": "沃尔特·米乐",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "刘江",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "《世界科幻博览》2007年第3期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

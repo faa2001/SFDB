@@ -1,0 +1,58 @@
+{
+  "title": "Ночной дозор（Night Watch）",
+  "author": {
+    "name": "Лукьяненко, Сергей Васильевич (Lukyanenko, Sergei)",
+    "nation": "俄"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Ночной дозор（Night Watch）",
+      "author": {
+        "name": "Лукьяненко, Сергей Васильевич (Lukyanenko, Sergei)",
+        "nation": "俄"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1998",
+      "publication": "",
+      "publisher": "Moscow: AST",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 195367,
+      "douban": 0
+    },
+    {
+      "title": "守夜人",
+      "author": {
+        "name": "谢尔盖·卢基扬年科",
+        "nation": "俄"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "于国畔、秦一",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "",
+      "publisher": "人民文学出版社 ",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "守夜人(дозор)系列之一",
+      "links": [],
+      "isfdb": 0,
+      "douban": 2057291
+    }
+  ]
+}

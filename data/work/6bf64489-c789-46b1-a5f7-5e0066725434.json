@@ -1,0 +1,58 @@
+{
+  "title": "Labyrinth",
+  "author": {
+    "name": "Mosse, Kate",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Labyrinth",
+      "author": {
+        "name": "Mosse, Kate",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "Putnam",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 180789,
+      "douban": 0
+    },
+    {
+      "title": "迷宫",
+      "author": {
+        "name": "凯特·摩斯",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "周卫红、牛道斌",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "",
+      "publisher": "吉林文史出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 2304881
+    }
+  ]
+}

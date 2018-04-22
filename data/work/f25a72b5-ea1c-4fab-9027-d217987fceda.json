@@ -1,0 +1,65 @@
+{
+  "title": "The Dispossessed",
+  "author": {
+    "name": "Le Guin, Ursula K.",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1975年雨果奖最佳长篇",
+    "1974年星云奖最佳长篇",
+    "1975年轨迹奖最佳长篇第1名",
+    "1975年轨迹奖历史最佳长篇第13名",
+    "1975年约翰坎贝尔奖提名",
+    "1975年迪特马尔最佳国际长篇小说提名"
+  ],
+  "publishes": [
+    {
+      "title": "The Dispossessed",
+      "author": {
+        "name": "Le Guin, Ursula K.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1974",
+      "publication": "",
+      "publisher": "Gollancz",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 7659,
+      "douban": 0
+    },
+    {
+      "title": "一无所有",
+      "author": {
+        "name": "厄休拉·勒古恩",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "陶雪蕾",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2009",
+      "publication": "",
+      "publisher": "四川科学技术出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3747044
+    }
+  ]
+}

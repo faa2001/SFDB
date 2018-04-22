@@ -1,0 +1,58 @@
+{
+  "title": "Song Quest",
+  "author": {
+    "name": "Roberts, Katherine",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Song Quest",
+      "author": {
+        "name": "Roberts, Katherine",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1999",
+      "publication": "",
+      "publisher": "Element Children's Books",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 24596,
+      "douban": 0
+    },
+    {
+      "title": "魔曲历险",
+      "author": {
+        "name": "凯瑟琳·罗伯茨",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "陈晨",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "汕头大学出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "回音殿(The Echorium Sequence)三部曲之一",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1854136
+    }
+  ]
+}

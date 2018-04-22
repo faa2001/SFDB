@@ -1,0 +1,58 @@
+{
+  "title": "Strikebreaker",
+  "author": {
+    "name": "Asimov, Isaac",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Strikebreaker",
+      "author": {
+        "name": "Asimov, Isaac",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1957",
+      "publication": "",
+      "publisher": "Science Fiction Stories, Jan 1957",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 40900,
+      "douban": 0
+    },
+    {
+      "title": "罢工破坏者",
+      "author": {
+        "name": "艾萨克·阿西莫夫",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "黄元森",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1990",
+      "publication": "",
+      "publisher": "《太空少年诺曼》（福建少年儿童出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3012365
+    }
+  ]
+}

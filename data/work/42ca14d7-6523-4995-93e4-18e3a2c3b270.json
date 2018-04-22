@@ -1,0 +1,63 @@
+{
+  "title": "A Conspiracy",
+  "author": {
+    "name": "Eekhaut, Guido",
+    "nation": "比利时"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "A Conspiracy",
+      "author": {
+        "name": "Eekhaut, Guido",
+        "nation": "比利时"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "一个阴谋",
+      "author": {
+        "name": "圭多·埃克豪特",
+        "nation": "比利时"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "Bruceyew",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "《SF非卖品》",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "由英译版本转译，原作名Een Samenzwering。非正式出版物，双峰驼网友自译自制作。",
+      "links": [
+        {
+          "title": "",
+          "href": "http://www.douban.com/group/topic/1632673/"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "title": "Afterlife",
+  "author": {
+    "name": "Williamson, Jack",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Afterlife",
+      "author": {
+        "name": "Williamson, Jack",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2002",
+      "publication": "",
+      "publisher": "F&SF, Feb 2002",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 100148,
+      "douban": 0
+    },
+    {
+      "title": "来生",
+      "author": {
+        "name": "杰克·威廉森",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "王广州",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2004",
+      "publication": "",
+      "publisher": "《美国年度最佳科幻小说选2003》（新华出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1156585
+    }
+  ]
+}

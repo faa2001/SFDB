@@ -1,0 +1,60 @@
+{
+  "title": "Rama II",
+  "author": {
+    "name": "Clarke, Arthur C. / Lee, Gentry",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1990年轨迹奖最佳科幻长篇第7名"
+  ],
+  "publishes": [
+    {
+      "title": "Rama II",
+      "author": {
+        "name": "Clarke, Arthur C. / Lee, Gentry",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1990",
+      "publication": "",
+      "publisher": "Gollancz",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 1340,
+      "douban": 0
+    },
+    {
+      "title": "拉玛2号",
+      "author": {
+        "name": "亚瑟·克拉克、金特·李 ",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "张赛加",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2000",
+      "publication": "",
+      "publisher": "四川少年儿童出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "拉玛(Rama)系列之二",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1999537
+    }
+  ]
+}

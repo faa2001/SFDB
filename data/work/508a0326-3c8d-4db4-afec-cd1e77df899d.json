@@ -1,0 +1,60 @@
+{
+  "title": "The Dragon Masters",
+  "author": {
+    "name": "Vance, Jack",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1963年雨果奖最佳短篇"
+  ],
+  "publishes": [
+    {
+      "title": "The Dragon Masters",
+      "author": {
+        "name": "Vance, Jack",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1962",
+      "publication": "Galaxy Magazine, August 1962",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 11826,
+      "douban": 0
+    },
+    {
+      "title": "龙王",
+      "author": {
+        "name": "杰克·万斯",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "朱佳文",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2009",
+      "publication": "《科幻世界译文版》2009年第3期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

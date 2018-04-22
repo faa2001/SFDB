@@ -1,0 +1,58 @@
+{
+  "title": "Young Couples Only",
+  "author": {
+    "name": "Matheson, Richard",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Young Couples Only",
+      "author": {
+        "name": "Matheson, Richard",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1955",
+      "publication": "",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "怪事桩桩",
+      "author": {
+        "name": "里查德·马西森",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "杨汝钧",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1991",
+      "publication": "《科幻世界》1991年第3期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "根据1955年电视电影剧本改编，http://www.imdb.com/title/tt0448865/",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "title": "Gravity",
+  "author": {
+    "name": "Gerritsen, Tess",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Gravity",
+      "author": {
+        "name": "Gerritsen, Tess",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1999",
+      "publication": "",
+      "publisher": "Pocket Books",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 19929,
+      "douban": 0
+    },
+    {
+      "title": "太空异客",
+      "author": {
+        "name": "苔丝·格里森",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "陈杰",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2009",
+      "publication": "",
+      "publisher": "新星出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3519900
+    }
+  ]
+}

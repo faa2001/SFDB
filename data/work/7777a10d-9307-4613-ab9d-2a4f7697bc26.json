@@ -1,0 +1,58 @@
+{
+  "title": "Vampire World I: Blood Brothers ",
+  "author": {
+    "name": "Lumley, Brian",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Vampire World I: Blood Brothers ",
+      "author": {
+        "name": "Lumley, Brian",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1992",
+      "publication": "",
+      "publisher": "Roc UK",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 12870,
+      "douban": 0
+    },
+    {
+      "title": "喋血双兄",
+      "author": {
+        "name": "布莱恩·拉姆利",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "张莉、赵长江",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2003",
+      "publication": "",
+      "publisher": "花山文艺出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "召亡人(Necroscope)系列之六",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1128144
+    }
+  ]
+}

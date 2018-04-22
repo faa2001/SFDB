@@ -1,0 +1,58 @@
+{
+  "title": "精神感応剤",
+  "author": {
+    "name": "村田浩一",
+    "nation": "日"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "精神感応剤",
+      "author": {
+        "name": "村田浩一",
+        "nation": "日"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1988",
+      "publication": "『小説現代』1988年2月号",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "精神感应药",
+      "author": {
+        "name": "村田浩一",
+        "nation": "日"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李重民",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1993",
+      "publication": "《现代家庭》1993年第6期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

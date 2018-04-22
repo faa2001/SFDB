@@ -1,0 +1,60 @@
+{
+  "title": "Pebble in the Sky",
+  "author": {
+    "name": "Asimov, Isaac",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2001年雨果回顾奖最佳长篇提名"
+  ],
+  "publishes": [
+    {
+      "title": "Pebble in the Sky",
+      "author": {
+        "name": "Asimov, Isaac",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1950",
+      "publication": "",
+      "publisher": "Doubleday",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 1406,
+      "douban": 0
+    },
+    {
+      "title": "天上的小石子",
+      "author": {
+        "name": "阿西莫夫",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "施咸荣",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1991",
+      "publication": "",
+      "publisher": "《阿西莫夫科幻小说》（湖南少年儿童出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1900903
+    }
+  ]
+}

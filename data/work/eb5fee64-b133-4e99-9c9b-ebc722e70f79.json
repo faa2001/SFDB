@@ -1,0 +1,60 @@
+{
+  "title": "Jurassic Park",
+  "author": {
+    "name": "Crichton, Michael",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1991年轨迹奖最佳科幻长篇第9名"
+  ],
+  "publishes": [
+    {
+      "title": "Jurassic Park",
+      "author": {
+        "name": "Crichton, Michael",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1990",
+      "publication": "",
+      "publisher": "Alfred A. Knopf",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 1678,
+      "douban": 0
+    },
+    {
+      "title": "侏罗纪公园",
+      "author": {
+        "name": "迈克尔·克莱顿",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "钟仁",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2009",
+      "publication": "",
+      "publisher": "译林出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "克莱顿经典·纪念版（同2005年版本）",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3292289
+    }
+  ]
+}

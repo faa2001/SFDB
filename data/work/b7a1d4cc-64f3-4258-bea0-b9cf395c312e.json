@@ -1,0 +1,60 @@
+{
+  "title": "The Amulet of Samarkand",
+  "author": {
+    "name": "Stroud, Jonathan",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2004轨迹奖最佳青少年读物第9名"
+  ],
+  "publishes": [
+    {
+      "title": "The Amulet of Samarkand",
+      "author": {
+        "name": "Stroud, Jonathan",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2003",
+      "publication": "",
+      "publisher": "Miramax",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 155428,
+      "douban": 0
+    },
+    {
+      "title": "撒玛坎护身符",
+      "author": {
+        "name": "乔纳森·斯庄德",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "孙淇",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "接力出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "巴特伊麦阿斯三部曲之一",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1220201
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "title": "The Dark Half",
+  "author": {
+    "name": "King, Stephen",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1990年轨迹奖最佳恐怖长篇第2名"
+  ],
+  "publishes": [
+    {
+      "title": "The Dark Half",
+      "author": {
+        "name": "King, Stephen",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1989",
+      "publication": "",
+      "publisher": "The Viking Press",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 2167,
+      "douban": 0
+    },
+    {
+      "title": "黑暗的另一半",
+      "author": {
+        "name": "斯蒂芬·金",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "王强、覃娆",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1997",
+      "publication": "",
+      "publisher": "珠海出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1089940
+    }
+  ]
+}

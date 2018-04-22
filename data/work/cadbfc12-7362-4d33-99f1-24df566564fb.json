@@ -1,0 +1,58 @@
+{
+  "title": "The Dark Mirror",
+  "author": {
+    "name": "Marillier, Juliet",
+    "nation": "澳"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Dark Mirror",
+      "author": {
+        "name": "Marillier, Juliet",
+        "nation": "澳"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2004",
+      "publication": "",
+      "publisher": "Tor / Pan MacMillan Australia",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 170748,
+      "douban": 0
+    },
+    {
+      "title": "帝国全传1：黑镜子",
+      "author": {
+        "name": "朱丽叶·马里莱尔",
+        "nation": "澳"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "黄瑄",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "作家出版社 ",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "帝国全传系列之一",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1488178
+    }
+  ]
+}

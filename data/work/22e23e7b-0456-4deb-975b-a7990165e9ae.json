@@ -1,0 +1,58 @@
+{
+  "title": "Some Words With a Mummy",
+  "author": {
+    "name": "Poe, Edgar Allan",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Some Words With a Mummy",
+      "author": {
+        "name": "Poe, Edgar Allan",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1845",
+      "publication": "原出处不可考，译者选自The Science Fiction of Edgar Allan Poe (Penguin, 1976)",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 55039,
+      "douban": 0
+    },
+    {
+      "title": "和木乃伊的一席话",
+      "author": {
+        "name": "艾德加·爱伦·坡",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "盛宁",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1981",
+      "publication": "《科幻海洋》第一辑",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3096750
+    }
+  ]
+}

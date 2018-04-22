@@ -1,0 +1,58 @@
+{
+  "title": "The Doomed Planet",
+  "author": {
+    "name": "Hubbard, L.Ron",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Doomed Planet",
+      "author": {
+        "name": "Hubbard, L.Ron",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1987",
+      "publication": "Bridge",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 17461,
+      "douban": 0
+    },
+    {
+      "title": "星球末日",
+      "author": {
+        "name": "L·罗恩·哈伯德",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "吕宅云、王艺",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1999",
+      "publication": "海南出版社",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "Mission Earth（地球使命）的第十部",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

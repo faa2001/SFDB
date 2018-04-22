@@ -1,0 +1,58 @@
+{
+  "title": "Outside",
+  "author": {
+    "name": "Aldiss, Brian W.",
+    "nation": ""
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Outside",
+      "author": {
+        "name": "Aldiss, Brian W.",
+        "nation": ""
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1955",
+      "publication": "",
+      "publisher": "New Worlds, January 1955",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 41219,
+      "douban": 0
+    },
+    {
+      "title": "户外",
+      "author": {
+        "name": "勃赖恩·奥尔迪斯",
+        "nation": ""
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "施咸荣",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1983",
+      "publication": "",
+      "publisher": "《外国现代科学幻想小说》（下册）（上海文艺出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1765132
+    }
+  ]
+}

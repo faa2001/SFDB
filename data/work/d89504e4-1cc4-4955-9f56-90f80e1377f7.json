@@ -1,0 +1,61 @@
+{
+  "title": "Castle Roogna",
+  "author": {
+    "name": "Anthony, Piers",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1980年迪特玛奖最佳国际长篇提名",
+    "1980年轨迹奖最佳奇幻长篇第4名"
+  ],
+  "publishes": [
+    {
+      "title": "Castle Roogna",
+      "author": {
+        "name": "Anthony, Piers",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1979",
+      "publication": "",
+      "publisher": "Del Rey / Ballantine",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 2274,
+      "douban": 0
+    },
+    {
+      "title": "鲁格纳城堡",
+      "author": {
+        "name": "皮尔斯·安东尼",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "张林、郭文",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "四川科学技术出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "赞斯系列第三部",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1452782
+    }
+  ]
+}

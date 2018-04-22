@@ -1,0 +1,62 @@
+{
+  "title": "Wizard and Glass",
+  "author": {
+    "name": "King, Stephen",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1997世界恐怖文学行会奖最佳长篇提名",
+    "1998年轨迹奖最佳奇幻长篇第4名",
+    "1998年英国奇幻奖奥格斯特·德利斯奇幻奖最佳长篇提名"
+  ],
+  "publishes": [
+    {
+      "title": "Wizard and Glass",
+      "author": {
+        "name": "King, Stephen",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1997",
+      "publication": "",
+      "publisher": "Donald M. Grant",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 2164,
+      "douban": 0
+    },
+    {
+      "title": "巫师与玻璃球",
+      "author": {
+        "name": "斯蒂芬·金",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "夏威、任战、叶如兰",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "",
+      "publisher": "人民文学出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "黑暗塔系列之四",
+      "links": [],
+      "isfdb": 0,
+      "douban": 2052380
+    }
+  ]
+}

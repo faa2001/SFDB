@@ -1,0 +1,58 @@
+{
+  "title": "Narabedla Ltd.",
+  "author": {
+    "name": "Pohl, Frederik",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Narabedla Ltd.",
+      "author": {
+        "name": "Pohl, Frederik",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1988",
+      "publication": "",
+      "publisher": "Del Rey / Ballantine",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 11908,
+      "douban": 0
+    },
+    {
+      "title": "纳拉贝拉星际演出公司",
+      "author": {
+        "name": "弗雷德里克·波尔",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "仲仁",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "四川科学技术出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1042966
+    }
+  ]
+}

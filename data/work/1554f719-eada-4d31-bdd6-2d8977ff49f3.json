@@ -1,0 +1,58 @@
+{
+  "title": "The Color of a Brontosaurus",
+  "author": {
+    "name": "Martens, Paul E.",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Color of a Brontosaurus",
+      "author": {
+        "name": "Martens, Paul E.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2007",
+      "publication": "Andromeda Spaceways Inflight Magazine, #29",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 925502,
+      "douban": 0
+    },
+    {
+      "title": "雷龙的颜色",
+      "author": {
+        "name": "保罗·E·马汀斯",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "小者",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2009",
+      "publication": "《科幻大王》2009年第3期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

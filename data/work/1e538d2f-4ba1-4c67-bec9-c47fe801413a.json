@@ -1,0 +1,58 @@
+{
+  "title": "Parallel Worlds",
+  "author": {
+    "name": "Kaku, Michio",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Parallel Worlds",
+      "author": {
+        "name": "Kaku, Michio",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "Doubleday",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 951502,
+      "douban": 0
+    },
+    {
+      "title": "平行宇宙",
+      "author": {
+        "name": "加来道雄",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "伍义生、包新周",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "重庆出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3117464
+    }
+  ]
+}

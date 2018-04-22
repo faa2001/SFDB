@@ -1,0 +1,58 @@
+{
+  "title": "The Lord of the Rings and Philosophy: One Book to Rule Them All",
+  "author": {
+    "name": "Bassham, Gregory / Bronson, Eric",
+    "nation": "美"
+  },
+  "type": "other",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Lord of the Rings and Philosophy: One Book to Rule Them All",
+      "author": {
+        "name": "Bassham, Gregory / Bronson, Eric",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2003",
+      "publication": "",
+      "publisher": "Open Court",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "指环王与哲学",
+      "author": {
+        "name": "格雷戈里·巴沙姆、埃里克·布朗森",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "金旼蚊",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "上海三联书店",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1448712
+    }
+  ]
+}

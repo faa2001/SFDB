@@ -1,0 +1,60 @@
+{
+  "title": "Robots and Empire",
+  "author": {
+    "name": "Asimov, Isaac",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1986年轨迹奖最佳科幻长篇第4名"
+  ],
+  "publishes": [
+    {
+      "title": "Robots and Empire",
+      "author": {
+        "name": "Asimov, Isaac",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1985",
+      "publication": "",
+      "publisher": "Phantasia Press",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 1290,
+      "douban": 0
+    },
+    {
+      "title": "机器人与帝国",
+      "author": {
+        "name": "艾萨克·阿西莫夫",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "汉声杂志",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "天地出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1391513
+    }
+  ]
+}

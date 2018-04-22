@@ -1,0 +1,58 @@
+{
+  "title": "",
+  "author": {
+    "name": "",
+    "nation": "日"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "",
+      "author": {
+        "name": "",
+        "nation": "日"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "",
+      "publication": "",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "救援难题",
+      "author": {
+        "name": "草上仁",
+        "nation": "日"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "秦伏男",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "《科幻世界》2007年第9期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

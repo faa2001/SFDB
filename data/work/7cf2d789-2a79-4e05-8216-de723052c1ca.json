@@ -1,0 +1,66 @@
+{
+  "title": "Out of All Them Bright Stars",
+  "author": {
+    "name": "Kress, Nancy",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1985年星云奖最佳短篇",
+    "1986年轨迹奖最佳短篇第14名"
+  ],
+  "publishes": [
+    {
+      "title": "Out of All Them Bright Stars",
+      "author": {
+        "name": "Kress, Nancy",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1985",
+      "publication": "",
+      "publisher": "F&SF, Mar 1985",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 48406,
+      "douban": 0
+    },
+    {
+      "title": "来自闪亮群星",
+      "author": {
+        "name": "南希·克瑞斯",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "天天",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "《SF非卖品》",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "非正式出版物，双峰驼网友自译自制作。",
+      "links": [
+        {
+          "title": "",
+          "href": "http://www.douban.com/group/topic/1320686/"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

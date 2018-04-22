@@ -1,0 +1,58 @@
+{
+  "title": "The Lost World",
+  "author": {
+    "name": "Crichton, Michael",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Lost World",
+      "author": {
+        "name": "Crichton, Michael",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1995",
+      "publication": "",
+      "publisher": "Knopf",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 364,
+      "douban": 0
+    },
+    {
+      "title": "失落的世界",
+      "author": {
+        "name": "迈克尔·克莱顿",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "祁阿红、纪卫平、孙永明",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2009",
+      "publication": "",
+      "publisher": "译林出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "克莱顿经典·纪念版（同2005年版本）侏罗纪公园续集",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3292292
+    }
+  ]
+}

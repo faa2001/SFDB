@@ -1,0 +1,63 @@
+{
+  "title": "俘囚",
+  "author": {
+    "name": "海野十三",
+    "nation": "日"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "俘囚",
+      "author": {
+        "name": "海野十三",
+        "nation": "日"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1934",
+      "publication": "『新青年』1934年2月号",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [
+        {
+          "title": "俘囚",
+          "href": "http://www.aozora.gr.jp/cards/000160/files/869.html"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "俘囚",
+      "author": {
+        "name": "海野十三",
+        "nation": "日"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李明",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2006",
+      "publication": "《科幻世界译文版》2006年第5期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

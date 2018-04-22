@@ -1,0 +1,58 @@
+{
+  "title": "Livro um: o primeiro guerreiro",
+  "author": {
+    "name": "Paes, Orlando",
+    "nation": "巴西"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Livro um: o primeiro guerreiro",
+      "author": {
+        "name": "Paes, Orlando",
+        "nation": "巴西"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2003",
+      "publication": "",
+      "publisher": "ARXJOVEM",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "安格思首部曲：传奇初现",
+      "author": {
+        "name": "奥兰多·裴斯",
+        "nation": "巴西"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "赵丕慧",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "辽宁教育出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1823260
+    }
+  ]
+}

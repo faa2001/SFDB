@@ -1,0 +1,58 @@
+{
+  "title": "Prince Caspian",
+  "author": {
+    "name": "Lewis, C. S.",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Prince Caspian",
+      "author": {
+        "name": "Lewis, C. S.",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1951",
+      "publication": "",
+      "publisher": "Collins",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 1368,
+      "douban": 0
+    },
+    {
+      "title": "纳尼亚传奇：凯斯宾王子",
+      "author": {
+        "name": "C.S.刘易斯",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "徐海燕、吴力新",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2001",
+      "publication": "",
+      "publisher": "译林出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "纳尼亚传奇系列之二、2005年再版",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1461653
+    }
+  ]
+}

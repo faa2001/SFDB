@@ -1,0 +1,61 @@
+{
+  "title": "Gonna Roll The Bones",
+  "author": {
+    "name": "Leiber, Fritz",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1967年星云奖最佳短中篇",
+    "1968年雨果奖最佳短中篇"
+  ],
+  "publishes": [
+    {
+      "title": "Gonna Roll The Bones",
+      "author": {
+        "name": "Leiber, Fritz",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1967",
+      "publication": "Dangerous Visions (Doubleday)",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 41361,
+      "douban": 0
+    },
+    {
+      "title": "孤注一掷",
+      "author": {
+        "name": "弗里茨·雷伯",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "黄培清、林莉莉",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "《世界科幻博览》2007年第4期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

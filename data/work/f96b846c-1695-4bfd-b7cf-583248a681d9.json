@@ -1,0 +1,58 @@
+{
+  "title": "Time of Passage",
+  "author": {
+    "name": "Ballard, J. G.",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Time of Passage",
+      "author": {
+        "name": "Ballard, J. G.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1964",
+      "publication": "Science Fantasy, v21 #63, February 1964",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 57630,
+      "douban": 0
+    },
+    {
+      "title": "岁月倒流",
+      "author": {
+        "name": "J·G·巴拉德",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "侯明君",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1981",
+      "publication": "《科幻海洋》第二辑",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3096748
+    }
+  ]
+}

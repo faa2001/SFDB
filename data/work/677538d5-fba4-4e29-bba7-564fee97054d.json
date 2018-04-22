@@ -1,0 +1,62 @@
+{
+  "title": "Harry Potter and the Goblet of Fire",
+  "author": {
+    "name": "Rowling, J. K.",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1999年布莱姆·斯托克奖最佳长篇提名",
+    "2001年雨果奖最佳长篇",
+    "2001年轨迹奖最佳奇幻长篇第18名"
+  ],
+  "publishes": [
+    {
+      "title": "Harry Potter and the Goblet of Fire",
+      "author": {
+        "name": "Rowling, J. K.",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2000",
+      "publication": "",
+      "publisher": "Bloomsbury",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 19766,
+      "douban": 0
+    },
+    {
+      "title": "哈利·波特与火焰杯",
+      "author": {
+        "name": "J. K. 罗琳",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "马爱新",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2002",
+      "publication": "",
+      "publisher": "人民文学出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "哈利·波特系列之四",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1009257
+    }
+  ]
+}

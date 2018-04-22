@@ -1,0 +1,58 @@
+{
+  "title": "Coma",
+  "author": {
+    "name": "Cook, Robin",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Coma",
+      "author": {
+        "name": "Cook, Robin",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1977",
+      "publication": "Signet",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 430931,
+      "douban": 0
+    },
+    {
+      "title": "昏迷",
+      "author": {
+        "name": "罗宾·科克",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "张文浩",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1983",
+      "publication": "《译林》1983年第1期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

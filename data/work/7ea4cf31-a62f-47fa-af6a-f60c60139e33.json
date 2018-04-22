@@ -1,0 +1,62 @@
+{
+  "title": "The Door into Summer",
+  "author": {
+    "name": "Heinlein, Robert A.",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1975年轨迹奖史上最佳长篇第36名",
+    "1987年轨迹奖史上最佳科幻长篇第29名",
+    "1998年轨迹奖1990年前最佳科幻长篇第43名"
+  ],
+  "publishes": [
+    {
+      "title": "The Door into Summer",
+      "author": {
+        "name": "Heinlein, Robert A.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1957",
+      "publication": "",
+      "publisher": "Signet",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 2084,
+      "douban": 0
+    },
+    {
+      "title": "进入盛夏之门",
+      "author": {
+        "name": "罗伯特·海因莱因",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "顾备",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2004",
+      "publication": "",
+      "publisher": "四川科学技术出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1439017
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "The Meeting",
+  "author": {
+    "name": "Pohl, Frederik / Kornbluth, Cyril M.",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1973年雨果奖最佳短篇",
+    "1973年轨迹奖最佳短篇第9名"
+  ],
+  "publishes": [
+    {
+      "title": "The Meeting",
+      "author": {
+        "name": "Pohl, Frederik / Kornbluth, Cyril M.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1972",
+      "publication": "F&SF Nov 1972",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 51388,
+      "douban": 0
+    },
+    {
+      "title": "家长会",
+      "author": {
+        "name": "弗雷德里克·波尔、西里尔·M·考恩布鲁斯",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "耿辉",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "《科幻大王》2008年第3期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

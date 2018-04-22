@@ -1,0 +1,58 @@
+{
+  "title": "Cyberpunk",
+  "author": {
+    "name": "Bethke, Bruce",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Cyberpunk",
+      "author": {
+        "name": "Bethke, Bruce",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1983",
+      "publication": "Amazing Science Fiction, November 1983",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 56467,
+      "douban": 0
+    },
+    {
+      "title": "赛博朋克",
+      "author": {
+        "name": "布鲁斯·贝斯克",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "郝韵",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2009",
+      "publication": "《科幻世界译文版》2009年第5期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

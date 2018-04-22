@@ -1,0 +1,58 @@
+{
+  "title": "Downloading Midnight",
+  "author": {
+    "name": "Spencer, William Browning",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Downloading Midnight",
+      "author": {
+        "name": "Spencer, William Browning",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1995",
+      "publication": "",
+      "publisher": "Tomorrow Speculative Fiction, Dec 1995",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 53120,
+      "douban": 0
+    },
+    {
+      "title": "卸除的午夜",
+      "author": {
+        "name": "威廉姆·布朗宁·斯宾塞",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "张玲、黄勇、傅雪芬、田蓓",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1997",
+      "publication": "",
+      "publisher": "《1995年美国最佳科幻小说集》（远方出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 2003992
+    }
+  ]
+}

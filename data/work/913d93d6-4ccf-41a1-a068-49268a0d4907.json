@@ -1,0 +1,58 @@
+{
+  "title": "天上の調べ聞きうる者",
+  "author": {
+    "name": "菅浩江",
+    "nation": "日"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "天上の調べ聞きうる者",
+      "author": {
+        "name": "菅浩江",
+        "nation": "日"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1993",
+      "publication": "",
+      "publisher": "『ＳＦマガジン』1993年2月号",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "天籁知音",
+      "author": {
+        "name": "菅浩江",
+        "nation": "日"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "丁丁虫",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "《SF非卖品》",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "非正式出版物，双峰驼网友自译自制作。《永远的森林·博物馆行星》第一篇",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

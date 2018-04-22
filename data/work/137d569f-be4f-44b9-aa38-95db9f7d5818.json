@@ -1,0 +1,58 @@
+{
+  "title": "バイオレーザーホログラフィー",
+  "author": {
+    "name": "輝鷹あち",
+    "nation": "日"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "バイオレーザーホログラフィー",
+      "author": {
+        "name": "輝鷹あち",
+        "nation": "日"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1987",
+      "publication": "『ショートショート&#12539;グランプリ　ＳＦ＆ミステリー』(集英社)",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "立体摄影",
+      "author": {
+        "name": "辉鹰亚治",
+        "nation": "日"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李青来",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "《世界科幻博览》2005年第1期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

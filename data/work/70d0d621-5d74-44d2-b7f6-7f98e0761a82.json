@@ -1,0 +1,66 @@
+{
+  "title": "The Moon is a Harsh Mistress",
+  "author": {
+    "name": "Heinlein, Robert A.",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1966年雨果奖最佳长篇提名",
+    "196年星云奖最佳长篇提名",
+    "1967年雨果奖最佳长篇",
+    "1975年轨迹奖史上最佳长篇第8名",
+    "1983年普罗米修斯奖最佳自由主义科幻长篇",
+    "1987年轨迹奖史上最佳科幻长篇第4名",
+    "1998年轨迹奖1990年前最佳科幻长篇第2名"
+  ],
+  "publishes": [
+    {
+      "title": "The Moon is a Harsh Mistress",
+      "author": {
+        "name": "Heinlein, Robert A.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1966",
+      "publication": "",
+      "publisher": "Putnam",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 1502,
+      "douban": 0
+    },
+    {
+      "title": "严厉的月亮",
+      "author": {
+        "name": "罗伯特·海因莱因",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "卢燕飞、卢巧丹",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2004",
+      "publication": "",
+      "publisher": "四川科学技术出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1182890
+    }
+  ]
+}

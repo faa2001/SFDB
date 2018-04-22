@@ -1,0 +1,58 @@
+{
+  "title": "Feeding Time",
+  "author": {
+    "name": "Sheckley, Robert",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Feeding Time",
+      "author": {
+        "name": "Sheckley, Robert",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1953",
+      "publication": "",
+      "publisher": "Fantasy Magazine, March 1953",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 71154,
+      "douban": 0
+    },
+    {
+      "title": "喂食时间",
+      "author": {
+        "name": "罗伯特·谢克里",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "西丫",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2004",
+      "publication": "",
+      "publisher": "《浪漫服务公司》（四川科学技术出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1159012
+    }
+  ]
+}

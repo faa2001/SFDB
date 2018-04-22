@@ -1,0 +1,63 @@
+{
+  "title": "The Uplift War",
+  "author": {
+    "name": "Brin, David",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1987年星云奖最佳长篇提名",
+    "1988年雨果奖最佳长篇",
+    "1988年轨迹奖最佳科幻长篇第1名",
+    "1988年Prometheus奖最佳自由主义科幻长篇提名"
+  ],
+  "publishes": [
+    {
+      "title": "The Uplift War",
+      "author": {
+        "name": "Brin, David",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1987",
+      "publication": "",
+      "publisher": "Phantasia Press",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 937,
+      "douban": 0
+    },
+    {
+      "title": "提升之战",
+      "author": {
+        "name": "大卫·布林",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "郭泽",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "四川科学技术出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

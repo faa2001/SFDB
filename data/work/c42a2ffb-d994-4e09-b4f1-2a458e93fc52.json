@@ -1,0 +1,58 @@
+{
+  "title": "Gerald's Game",
+  "author": {
+    "name": "King, Stephen",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Gerald's Game",
+      "author": {
+        "name": "King, Stephen",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1992",
+      "publication": "",
+      "publisher": "The Viking Press",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 763,
+      "douban": 0
+    },
+    {
+      "title": "致命游戏",
+      "author": {
+        "name": "斯蒂芬·金",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "雷鸣",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1999",
+      "publication": "",
+      "publisher": "内蒙古文化出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1780919
+    }
+  ]
+}

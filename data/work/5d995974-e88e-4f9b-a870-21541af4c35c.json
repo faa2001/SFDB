@@ -1,0 +1,58 @@
+{
+  "title": "",
+  "author": {
+    "name": "",
+    "nation": "俄"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "",
+      "author": {
+        "name": "",
+        "nation": "俄"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "",
+      "publication": "",
+      "publisher": "",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "黑洞之谜",
+      "author": {
+        "name": "叶·古里亚柯夫斯基",
+        "nation": "俄"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "维训、宝宸",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "《妖魔古墓》（四川科学技术出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1526894
+    }
+  ]
+}

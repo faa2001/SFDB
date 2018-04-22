@@ -1,0 +1,58 @@
+{
+  "title": "The Demon Soul",
+  "author": {
+    "name": "Knaak, Richard A.",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Demon Soul",
+      "author": {
+        "name": "Knaak, Richard A.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2004",
+      "publication": "",
+      "publisher": "Pocket Star",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 156575,
+      "douban": 0
+    },
+    {
+      "title": "恶魔之魂",
+      "author": {
+        "name": "理查德·A·纳克",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "黄志旻",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "文汇出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "魔兽(Warcraft)系列、上古之战(War of the Ancients)三部曲之二",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1475705
+    }
+  ]
+}

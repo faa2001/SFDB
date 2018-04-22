@@ -1,0 +1,63 @@
+{
+  "title": "Bullet Dance",
+  "author": {
+    "name": "Schoffstall, John",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Bullet Dance",
+      "author": {
+        "name": "Schoffstall, John",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2007",
+      "publication": "",
+      "publisher": "Asimov's Jul 2007",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 836256,
+      "douban": 0
+    },
+    {
+      "title": "子弹之舞",
+      "author": {
+        "name": "约翰·绍夫斯道",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "红猪",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "《SF非卖品》",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "非正式出版物，双峰驼网友自译自制作。",
+      "links": [
+        {
+          "title": "",
+          "href": "http://www.douban.com/group/topic/1958341/"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "title": "The Man in the High Castle",
+  "author": {
+    "name": "Dick, Philip K.",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1963年雨果奖最佳长篇",
+    "1975年轨迹奖史上最佳长篇第22名",
+    "1984年普罗米修斯奖经典自由主义科幻长篇名人堂奖提名",
+    "1987年轨迹奖史上最佳科幻长篇第14名",
+    "1998年轨迹奖1990年前最佳科幻长篇第18名"
+  ],
+  "publishes": [
+    {
+      "title": "The Man in the High Castle",
+      "author": {
+        "name": "Dick, Philip K.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1962",
+      "publication": "",
+      "publisher": "Berkley Medallion",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 1574,
+      "douban": 0
+    },
+    {
+      "title": "城堡里的男人",
+      "author": {
+        "name": "菲立普·狄克",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "徐崇亮、王正琪",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2001",
+      "publication": "",
+      "publisher": "漓江出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1100140
+    }
+  ]
+}

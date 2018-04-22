@@ -1,0 +1,61 @@
+{
+  "title": "'Salem's Lot",
+  "author": {
+    "name": "King, Stephen",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1976年世界奇幻奖最佳长篇提名",
+    "1987年轨迹奖史上最佳奇幻长篇第32名"
+  ],
+  "publishes": [
+    {
+      "title": "'Salem's Lot",
+      "author": {
+        "name": "King, Stephen",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1975",
+      "publication": "",
+      "publisher": "NAL Signet",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 1272,
+      "douban": 0
+    },
+    {
+      "title": "缅因鬼镇",
+      "author": {
+        "name": "斯蒂芬·金",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "王帆",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1999",
+      "publication": "",
+      "publisher": "内蒙古文化出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1780919
+    }
+  ]
+}

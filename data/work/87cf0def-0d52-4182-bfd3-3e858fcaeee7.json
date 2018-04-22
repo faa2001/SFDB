@@ -1,0 +1,58 @@
+{
+  "title": "Emphyrion I: The Search for Fierra",
+  "author": {
+    "name": "Lawhead, Stephen R.",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Emphyrion I: The Search for Fierra",
+      "author": {
+        "name": "Lawhead, Stephen R.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1985",
+      "publication": "",
+      "publisher": "Crossway",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 5686,
+      "douban": 0
+    },
+    {
+      "title": "探奇费瑞亚",
+      "author": {
+        "name": "斯蒂文·莱哈德",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "彭淑珍、张鹰",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2003",
+      "publication": "",
+      "publisher": "昆仑出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "太空烽火（Empyrion）系列之一；原英文版的前半部分",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1277067
+    }
+  ]
+}

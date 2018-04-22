@@ -1,0 +1,58 @@
+{
+  "title": "Mindbend",
+  "author": {
+    "name": "Cook, Robin",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Mindbend",
+      "author": {
+        "name": "Cook, Robin",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1985",
+      "publication": "NAL/Signet",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 19264,
+      "douban": 0
+    },
+    {
+      "title": "幻觉",
+      "author": {
+        "name": "罗宾·科克",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "邱懋如、袁妙军",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1987",
+      "publication": "《译林》1987年第4期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

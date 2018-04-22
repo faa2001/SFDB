@@ -1,0 +1,58 @@
+{
+  "title": "Long Winter's Nap",
+  "author": {
+    "name": "Shaffer, Catherine",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Long Winter's Nap",
+      "author": {
+        "name": "Shaffer, Catherine",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2006",
+      "publication": "Analog Dec 2006",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 300791,
+      "douban": 0
+    },
+    {
+      "title": "冬眠",
+      "author": {
+        "name": "凯瑟琳·沙夫尔",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "腾月",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "《科幻大王》2008年第3期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

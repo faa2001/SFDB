@@ -1,0 +1,61 @@
+{
+  "title": "The Shining",
+  "author": {
+    "name": "King, Stephen",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1978年轨迹奖最佳奇幻长篇第4名",
+    "1987年轨迹奖史上最佳奇幻长篇第27名"
+  ],
+  "publishes": [
+    {
+      "title": "The Shining",
+      "author": {
+        "name": "King, Stephen",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1977",
+      "publication": "",
+      "publisher": "Signet",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 1234,
+      "douban": 0
+    },
+    {
+      "title": "闪灵",
+      "author": {
+        "name": "斯蒂芬·金",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "龚华燕",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1998",
+      "publication": "",
+      "publisher": "大众文艺出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1052055
+    }
+  ]
+}

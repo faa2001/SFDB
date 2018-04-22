@@ -1,0 +1,60 @@
+{
+  "title": "Telepresence",
+  "author": {
+    "name": "Burstein, Michael A.",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2006年雨果奖最佳短中篇提名"
+  ],
+  "publishes": [
+    {
+      "title": "Telepresence",
+      "author": {
+        "name": "Burstein, Michael A.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2005",
+      "publication": "Analog, July/Aug 2005",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 289461,
+      "douban": 0
+    },
+    {
+      "title": "远程呈现",
+      "author": {
+        "name": "迈克尔·A·布斯坦",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "赵轶迅",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "《科幻大王》2007年第6/7期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

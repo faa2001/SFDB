@@ -1,0 +1,58 @@
+{
+  "title": "Time Out of Joint",
+  "author": {
+    "name": "Dick, Philip K.",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Time Out of Joint",
+      "author": {
+        "name": "Dick, Philip K.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1959",
+      "publication": "",
+      "publisher": "Lippincott",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 9502,
+      "douban": 0
+    },
+    {
+      "title": "幻觉",
+      "author": {
+        "name": "菲利普·迪克",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "贾一鸣",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2004",
+      "publication": "",
+      "publisher": "江苏教育出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1055432
+    }
+  ]
+}

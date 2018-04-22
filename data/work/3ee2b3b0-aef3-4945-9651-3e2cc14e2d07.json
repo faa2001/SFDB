@@ -1,0 +1,65 @@
+{
+  "title": "Think Like a Dinosaur",
+  "author": {
+    "name": "Kelly, James Patrick",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1995年霍默奖最佳短中篇提名",
+    "1995年星云奖最佳短中篇提名",
+    "1996年Asimov's读者投票奖最佳短中篇",
+    "1996年雨果奖最佳短中篇",
+    "1996年轨迹奖最佳短中篇第3名",
+    "1996年SF编年史奖最佳短中篇"
+  ],
+  "publishes": [
+    {
+      "title": "Think Like a Dinosaur",
+      "author": {
+        "name": "Kelly, James Patrick",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1995",
+      "publication": "",
+      "publisher": "Asimov's Jun 1995",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 40299,
+      "douban": 0
+    },
+    {
+      "title": "象恐龙一样思考",
+      "author": {
+        "name": "詹姆·斯帕特利克·克利",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "张玲、黄勇、傅雪芬、田蓓",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1997",
+      "publication": "",
+      "publisher": "《1995年美国最佳科幻小说集》（远方出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 2003992
+    }
+  ]
+}

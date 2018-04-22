@@ -1,0 +1,58 @@
+{
+  "title": "New Hope for the Dead",
+  "author": {
+    "name": "Langford, David",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "New Hope for the Dead",
+      "author": {
+        "name": "Langford, David",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2005",
+      "publication": "Nature, May 2005",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 802941,
+      "douban": 0
+    },
+    {
+      "title": "亡者的新希望",
+      "author": {
+        "name": "戴维·朗福德",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "姚人杰",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "《世界科幻博览》2007年第5期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

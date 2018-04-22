@@ -1,0 +1,58 @@
+{
+  "title": "Poor Little Warrior!",
+  "author": {
+    "name": "Aldiss, Brian W.",
+    "nation": "英"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Poor Little Warrior!",
+      "author": {
+        "name": "Aldiss, Brian W.",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1958",
+      "publication": "F&SF, Apr 1958",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 56882,
+      "douban": 0
+    },
+    {
+      "title": "可悲的勇士",
+      "author": {
+        "name": "布里安·阿尔迪斯",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "于振明",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1983",
+      "publication": "《科幻海洋》第六辑",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3096742
+    }
+  ]
+}

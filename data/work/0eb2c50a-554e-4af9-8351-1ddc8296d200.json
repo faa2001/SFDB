@@ -1,0 +1,65 @@
+{
+  "title": "Hyperion",
+  "author": {
+    "name": "Simmons, Dan",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1990年雨果奖最佳长篇小说",
+    "1990年轨迹奖最佳科幻小说",
+    "1990年英国科幻协会最佳长篇小说提名",
+    "1992年阿瑟·克拉克奖提名",
+    "1995年日本星云奖最佳国外科幻小说",
+    "1998年轨迹杂志票选1990年前科幻小说第10名"
+  ],
+  "publishes": [
+    {
+      "title": "Hyperion",
+      "author": {
+        "name": "Simmons, Dan",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1989",
+      "publication": "",
+      "publisher": "Doubleday Foundation",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 1749,
+      "douban": 0
+    },
+    {
+      "title": "海伯利安",
+      "author": {
+        "name": "丹·西蒙斯",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "潘振华、官善明、李懿",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "",
+      "publisher": "万卷出版公司",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "海伯利安四部曲之一",
+      "links": [],
+      "isfdb": 0,
+      "douban": 2052049
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "title": "A Perfect Vacuum",
+  "author": {
+    "name": "Lem, Stanislaw",
+    "nation": "波兰"
+  },
+  "type": "collection",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "A Perfect Vacuum",
+      "author": {
+        "name": "Lem, Stanislaw",
+        "nation": "波兰"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1979",
+      "publication": "",
+      "publisher": "Harcourt Brace Jovanovich",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 187191,
+      "douban": 0
+    },
+    {
+      "title": "完美的真空",
+      "author": {
+        "name": "斯坦尼斯拉夫·莱姆",
+        "nation": "波兰"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "王之光",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "商务印书馆",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1440442
+    }
+  ]
+}

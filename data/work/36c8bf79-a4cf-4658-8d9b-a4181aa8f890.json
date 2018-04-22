@@ -1,0 +1,58 @@
+{
+  "title": "帰郷",
+  "author": {
+    "name": "筒井康隆 (Yasutaka Tsutsui)",
+    "nation": "日"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "帰郷",
+      "author": {
+        "name": "筒井康隆 (Yasutaka Tsutsui)",
+        "nation": "日"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1968",
+      "publication": "『にぎやかな未来』(三一書房)",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "回家",
+      "author": {
+        "name": "筒井康隆",
+        "nation": "日"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李重民",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "《世界科幻博览》2005年第4期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

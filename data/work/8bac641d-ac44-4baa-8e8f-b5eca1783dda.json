@@ -1,0 +1,58 @@
+{
+  "title": "Oryx and Crake",
+  "author": {
+    "name": "Atwood, Margaret",
+    "nation": "加"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Oryx and Crake",
+      "author": {
+        "name": "Atwood, Margaret",
+        "nation": "加"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2003",
+      "publication": "",
+      "publisher": "Doubleday",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 154548,
+      "douban": 0
+    },
+    {
+      "title": "羚羊与秧鸡",
+      "author": {
+        "name": "玛格丽特·阿特伍德",
+        "nation": "加"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "韦清琦、袁霞",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2004",
+      "publication": "",
+      "publisher": "译林出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1315569
+    }
+  ]
+}

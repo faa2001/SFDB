@@ -1,0 +1,58 @@
+{
+  "title": "The Truth Machine",
+  "author": {
+    "name": "Halperin, James L.",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Truth Machine",
+      "author": {
+        "name": "Halperin, James L.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1998",
+      "publication": "",
+      "publisher": "Del Rey / Ballantine",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 7759,
+      "douban": 0
+    },
+    {
+      "title": "测谎仪",
+      "author": {
+        "name": "詹姆士·L·哈普林",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "丁鑫、张广奇、明钧",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1998",
+      "publication": "",
+      "publisher": "新世界出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "2007年再版",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1326222
+    }
+  ]
+}

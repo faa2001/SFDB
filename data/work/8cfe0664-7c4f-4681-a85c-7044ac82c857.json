@@ -1,0 +1,58 @@
+{
+  "title": "Liberty's Crusade",
+  "author": {
+    "name": "Grubb, Jeff",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Liberty's Crusade",
+      "author": {
+        "name": "Grubb, Jeff",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2001",
+      "publication": "",
+      "publisher": "Pocket",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 29416,
+      "douban": 0
+    },
+    {
+      "title": "利伯蒂的远征",
+      "author": {
+        "name": "杰夫·格拉布",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "郭文",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2003",
+      "publication": "",
+      "publisher": "《星际争霸》（四川科学技术出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "星际争霸系列之一",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1473332
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "title": "Spawn of the Winds",
+  "author": {
+    "name": "Lumley, Brian",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Spawn of the Winds",
+      "author": {
+        "name": "Lumley, Brian",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1978",
+      "publication": "",
+      "publisher": "Jove / HBJ",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 10253,
+      "douban": 0
+    },
+    {
+      "title": "风之卵",
+      "author": {
+        "name": "布莱恩·拉姆利",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "彭宇澜",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2001",
+      "publication": "",
+      "publisher": "花山文艺出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "泰特斯·克类(Titus Crow)系列之四",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1279788
+    }
+  ]
+}

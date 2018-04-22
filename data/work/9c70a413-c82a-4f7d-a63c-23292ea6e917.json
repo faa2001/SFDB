@@ -1,0 +1,63 @@
+{
+  "title": "A Clockwork Orange",
+  "author": {
+    "name": "Burgess, Anthony",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1983年普罗米修斯奖经典自由主义科幻长篇名人堂奖提名",
+    "1999年普罗米修斯奖经典自由主义科幻长篇名人堂奖提名",
+    "2002年普罗米修斯奖经典自由主义科幻长篇名人堂奖提名",
+    "2003年普罗米修斯奖经典自由主义科幻长篇名人堂奖提名"
+  ],
+  "publishes": [
+    {
+      "title": "A Clockwork Orange",
+      "author": {
+        "name": "Burgess, Anthony",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1962",
+      "publication": "",
+      "publisher": "William Heinemann",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 12305,
+      "douban": 0
+    },
+    {
+      "title": "发条橙",
+      "author": {
+        "name": "安东尼·伯吉斯",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "王之光、蒲隆",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2001",
+      "publication": "",
+      "publisher": "译林出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1001761
+    }
+  ]
+}

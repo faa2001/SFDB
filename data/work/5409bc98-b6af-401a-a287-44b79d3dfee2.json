@@ -1,0 +1,61 @@
+{
+  "title": "The Silmarillion ",
+  "author": {
+    "name": "Tolkien, J. R. R.",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1978年迪特玛奖最佳国际长篇",
+    "1978年轨迹奖最佳奇幻长篇第1名"
+  ],
+  "publishes": [
+    {
+      "title": "The Silmarillion ",
+      "author": {
+        "name": "Tolkien, J. R. R.",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1977",
+      "publication": "",
+      "publisher": "Houghton Mifflin",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 1214,
+      "douban": 0
+    },
+    {
+      "title": "精灵宝钻：魔戒起源",
+      "author": {
+        "name": "托尔金",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李尧",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2004",
+      "publication": "",
+      "publisher": "译林出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "魔戒系列、精装版、同年平装版出版",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1161738
+    }
+  ]
+}

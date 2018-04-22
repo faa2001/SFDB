@@ -1,0 +1,58 @@
+{
+  "title": "Lord of the Shadows",
+  "author": {
+    "name": "Shan, Darren",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Lord of the Shadows",
+      "author": {
+        "name": "Shan, Darren",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "Little Brown",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 181933,
+      "douban": 0
+    },
+    {
+      "title": "幽灵之王",
+      "author": {
+        "name": "达伦·山",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "百合",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "《吸血侠传奇（肆）》（人民文学出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "吸血侠传奇(The Saga of Darren Shan/Cirque Du Freak)系列之十一",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1873316
+    }
+  ]
+}

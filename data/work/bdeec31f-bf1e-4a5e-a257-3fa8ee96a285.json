@@ -1,0 +1,58 @@
+{
+  "title": "Moon of the Spider",
+  "author": {
+    "name": "Knaak, Richard A.",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Moon of the Spider",
+      "author": {
+        "name": "Knaak, Richard A.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "Pocket Star",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 168595,
+      "douban": 0
+    },
+    {
+      "title": "蜘蛛之月",
+      "author": {
+        "name": "理查德·A·纳克",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "刘静",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "",
+      "publisher": "文汇出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "暗黑破坏神(Diablo)系列之四",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1958159
+    }
+  ]
+}

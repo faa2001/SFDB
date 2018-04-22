@@ -1,0 +1,58 @@
+{
+  "title": "Clean Up Your Room!",
+  "author": {
+    "name": "Gilman, Laura Ann",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Clean Up Your Room!",
+      "author": {
+        "name": "Gilman, Laura Ann",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1996",
+      "publication": "Don't Forget Your Spacesuit, Dear",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "把你的房间打扫干净",
+      "author": {
+        "name": "劳拉·安·吉尔曼",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "吴箴",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2009",
+      "publication": "《科幻大王》2009年第9期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Electrophoresis",
+  "author": {
+    "name": "Karve, Vikram",
+    "nation": "印"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Electrophoresis",
+      "author": {
+        "name": "Karve, Vikram",
+        "nation": "印"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2009",
+      "publication": "",
+      "publisher": "",
+      "type": "other",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [
+        {
+          "title": "Electrophoresis",
+          "href": "http://vikramkarve.sulekha.com/blog/post/2009/01/sci-fi-science-fiction-short-story.htm"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "生活在别处",
+      "author": {
+        "name": "维克拉姆·卡夫",
+        "nation": "印"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "王叶丰",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2009",
+      "publication": "",
+      "publisher": "豆瓣",
+      "type": "other",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [
+        {
+          "title": "",
+          "href": "http://www.douban.com/group/topic/6147338/"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

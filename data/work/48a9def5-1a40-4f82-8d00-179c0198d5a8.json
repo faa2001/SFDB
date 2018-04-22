@@ -1,0 +1,63 @@
+{
+  "title": "Horatius and Clodia",
+  "author": {
+    "name": "Anders, Charlie",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Horatius and Clodia",
+      "author": {
+        "name": "Anders, Charlie",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2007",
+      "publication": "Strange Horizons, Feb 07",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [
+        {
+          "title": "Horatius and Clodia",
+          "href": "http://www.strangehorizons.com/2007/20070226/horatius-f.shtml"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "贺雷修斯与克劳狄娅",
+      "author": {
+        "name": "查理安·德斯",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "王珀",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "《科幻世界》2008年第11期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

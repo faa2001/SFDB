@@ -1,0 +1,61 @@
+{
+  "title": "Dead Until Dark",
+  "author": {
+    "name": "Harris, Charlaine",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2002年康普顿克鲁克奖最佳处女作提名",
+    "2002年轨迹奖最佳奇幻长篇第21名"
+  ],
+  "publishes": [
+    {
+      "title": "Dead Until Dark",
+      "author": {
+        "name": "Harris, Charlaine",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2001",
+      "publication": "",
+      "publisher": "Ace",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 21381,
+      "douban": 0
+    },
+    {
+      "title": "深夜复活",
+      "author": {
+        "name": "莎莲·哈里斯",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "秦雯",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "新世界出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "南方吸血鬼（Sookie Stackhouse）系列之一",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3199537
+    }
+  ]
+}

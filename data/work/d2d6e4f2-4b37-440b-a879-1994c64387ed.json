@@ -1,0 +1,62 @@
+{
+  "title": "Spin",
+  "author": {
+    "name": "Wilson, Robert Charles",
+    "nation": "加"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2006年雨果奖最佳长篇",
+    "2006年约翰·W·坎贝尔纪念奖提名",
+    "2006年轨迹奖最佳科幻长篇第3名"
+  ],
+  "publishes": [
+    {
+      "title": "Spin",
+      "author": {
+        "name": "Wilson, Robert Charles",
+        "nation": "加"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "Tor Books",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 158099,
+      "douban": 0
+    },
+    {
+      "title": "时间回旋",
+      "author": {
+        "name": "罗伯特·查尔斯·威尔森",
+        "nation": "加"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "陈宗琛",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "新星出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "台译简体版",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3041463
+    }
+  ]
+}

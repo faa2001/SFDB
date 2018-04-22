@@ -1,0 +1,63 @@
+{
+  "title": "The Crawlspace of the World",
+  "author": {
+    "name": "Pratt, Tim",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Crawlspace of the World",
+      "author": {
+        "name": "Pratt, Tim",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2006",
+      "publication": "in Polyphony 6 (Wheatland Press)",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [
+        {
+          "title": "The Crawlspace of the World",
+          "href": "http://www.wheatlandpress.com/downloads/p6_pratt.pdf"
+        }
+      ],
+      "isfdb": 307951,
+      "douban": 0
+    },
+    {
+      "title": "世界尽头的废墟",
+      "author": {
+        "name": "蒂姆·普拉特",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "红猪",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "《科幻世界译文版》2008年第8期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

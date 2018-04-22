@@ -1,0 +1,58 @@
+{
+  "title": "Little (Grrl) Lost",
+  "author": {
+    "name": "de Lint, Charles",
+    "nation": "加"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Little (Grrl) Lost",
+      "author": {
+        "name": "de Lint, Charles",
+        "nation": "加"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2006",
+      "publication": "in Firebirds Risin (Firebird / Penguin USA)",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 944314,
+      "douban": 0
+    },
+    {
+      "title": "小不点儿出走记",
+      "author": {
+        "name": "查尔斯·德·林特",
+        "nation": "加"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "周辉",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2009",
+      "publication": "《飞·奇幻世界》2009年第3期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

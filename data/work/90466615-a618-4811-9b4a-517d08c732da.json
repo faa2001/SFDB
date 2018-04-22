@@ -1,0 +1,58 @@
+{
+  "title": "A Tolkien Bestiary",
+  "author": {
+    "name": "Day, David",
+    "nation": "英"
+  },
+  "type": "other",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "A Tolkien Bestiary",
+      "author": {
+        "name": "Day, David",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1979",
+      "publication": "",
+      "publisher": "Ballantine",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 906305,
+      "douban": 0
+    },
+    {
+      "title": "魔幻家族",
+      "author": {
+        "name": "大卫·戴",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "罗晓华、甘铭",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2004",
+      "publication": "",
+      "publisher": "东方出版中心",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1151090
+    }
+  ]
+}

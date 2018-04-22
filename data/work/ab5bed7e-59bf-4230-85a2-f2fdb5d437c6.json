@@ -1,0 +1,60 @@
+{
+  "title": "The Golem's Eye",
+  "author": {
+    "name": "Stroud, Jonathan",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2005轨迹奖最佳青少年读物第8名"
+  ],
+  "publishes": [
+    {
+      "title": "The Golem's Eye",
+      "author": {
+        "name": "Stroud, Jonathan",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2004",
+      "publication": "",
+      "publisher": "General",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 152789,
+      "douban": 0
+    },
+    {
+      "title": "布拉格魔像",
+      "author": {
+        "name": "乔纳森·斯庄德",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "孙淇、刘乔",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "接力出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "巴特伊麦阿斯三部曲之二",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1915961
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "宇宙ぐうたら大賞",
+  "author": {
+    "name": "波多野直子 ",
+    "nation": "日"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "宇宙ぐうたら大賞",
+      "author": {
+        "name": "波多野直子 ",
+        "nation": "日"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1986",
+      "publication": "ＩＮ★ＰＯＣＫＥＴ 1986年４月号",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "宇宙懒惰大奖",
+      "author": {
+        "name": "波多野直子",
+        "nation": "日"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李重民",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "《世界科幻博览》2005年第10期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [
+        {
+          "title": "",
+          "href": "http://qkzz.net/magazine/1673-0011/2005/10/317432.htm"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

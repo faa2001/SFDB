@@ -1,0 +1,58 @@
+{
+  "title": "The Eternal Temple",
+  "author": {
+    "name": "Jacq, Christian",
+    "nation": "法"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Eternal Temple",
+      "author": {
+        "name": "Jacq, Christian",
+        "nation": "法"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1998",
+      "publication": "",
+      "publisher": "Warner Books",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 11683,
+      "douban": 0
+    },
+    {
+      "title": "百万年神殿",
+      "author": {
+        "name": "克里斯蒂安·贾克",
+        "nation": "法"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "王玲琇",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2004",
+      "publication": "",
+      "publisher": "广西师范大学出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "拉美西斯(Ramses)五部曲之二",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1048247
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Nightmares & Dreamscapes",
+  "author": {
+    "name": "King, Stephen",
+    "nation": "美"
+  },
+  "type": "collection",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1993年Bram Stoker奖最佳选集提名",
+    "1994年轨迹奖最佳选集第6名"
+  ],
+  "publishes": [
+    {
+      "title": "Nightmares & Dreamscapes",
+      "author": {
+        "name": "King, Stephen",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1992",
+      "publication": "",
+      "publisher": "The Viking Press",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 36902,
+      "douban": 0
+    },
+    {
+      "title": "恶梦工厂",
+      "author": {
+        "name": "斯蒂芬·金",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "阎森",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1999",
+      "publication": "",
+      "publisher": "内蒙古文化出版社",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "仅收录24篇中的11篇",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1780919
+    }
+  ]
+}

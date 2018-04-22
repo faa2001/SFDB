@@ -1,0 +1,60 @@
+{
+  "title": "Embracing-the-New",
+  "author": {
+    "name": "Rosenbaum, Benjamin",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2004年星云奖最佳短篇提名"
+  ],
+  "publishes": [
+    {
+      "title": "Embracing-the-New",
+      "author": {
+        "name": "Rosenbaum, Benjamin",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2004",
+      "publication": "Asimov's, Jan 2004",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 10287,
+      "douban": 0
+    },
+    {
+      "title": "拥抱新生",
+      "author": {
+        "name": "本杰明·罗斯贝姆",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "帅俊文",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "《世界科幻博览》2007年第2期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

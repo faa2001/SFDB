@@ -1,0 +1,58 @@
+{
+  "title": "The Well of Eternity",
+  "author": {
+    "name": "Knaak, Richard A.",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Well of Eternity",
+      "author": {
+        "name": "Knaak, Richard A.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2004",
+      "publication": "",
+      "publisher": "Pocket",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 32838,
+      "douban": 0
+    },
+    {
+      "title": "永恒之井",
+      "author": {
+        "name": "理查德·A·纳克",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "张尧臣、龚瑱",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2005",
+      "publication": "",
+      "publisher": "文汇出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "魔兽(Warcraft)系列、上古之战(War of the Ancients)三部曲之一",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1430684
+    }
+  ]
+}

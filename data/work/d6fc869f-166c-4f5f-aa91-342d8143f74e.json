@@ -1,0 +1,61 @@
+{
+  "title": "A Scanner Darkly ",
+  "author": {
+    "name": "Dick, Philip K.",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1978年轨迹奖最佳科幻长篇第6名",
+    "1978年英国科幻奖最佳长篇"
+  ],
+  "publishes": [
+    {
+      "title": "A Scanner Darkly ",
+      "author": {
+        "name": "Dick, Philip K.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1977",
+      "publication": "",
+      "publisher": "Gollancz",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 1262,
+      "douban": 0
+    },
+    {
+      "title": "遮蔽的眼睛",
+      "author": {
+        "name": "菲利普·迪克",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "吴小红",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2004",
+      "publication": "",
+      "publisher": "江苏教育出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1070914
+    }
+  ]
+}

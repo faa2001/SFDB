@@ -1,0 +1,67 @@
+{
+  "title": "Sheena 5",
+  "author": {
+    "name": "Baxter, Stephen",
+    "nation": "英"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2001年斯特金纪念奖最佳短篇第4名",
+    "2001年轨迹奖最佳短篇第5名",
+    "2001年Analog杂志读者评选最佳短篇"
+  ],
+  "publishes": [
+    {
+      "title": "Sheena 5",
+      "author": {
+        "name": "Baxter, Stephen",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2000",
+      "publication": "Analog May 2000",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [
+        {
+          "title": "Sheena 5",
+          "href": "http://www.vondanmcintyre.com/squids/Baxter-Sheena5.html"
+        }
+      ],
+      "isfdb": 89667,
+      "douban": 0
+    },
+    {
+      "title": "希娜5号",
+      "author": {
+        "name": "史蒂芬·巴克斯特",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "耿辉",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2006",
+      "publication": "《世界科幻博览》2006年第10期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

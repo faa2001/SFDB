@@ -1,0 +1,60 @@
+{
+  "title": "The Day the Aliens Came",
+  "author": {
+    "name": "Sheckley, Robert",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1996年轨迹奖最佳短篇第11名"
+  ],
+  "publishes": [
+    {
+      "title": "The Day the Aliens Came",
+      "author": {
+        "name": "Sheckley, Robert",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1995",
+      "publication": "",
+      "publisher": "in New Legends (Legend)",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 43683,
+      "douban": 0
+    },
+    {
+      "title": "外星人来的那一天",
+      "author": {
+        "name": "罗伯特·希克莱",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "张玲、黄勇、傅雪芬、田蓓",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1997",
+      "publication": "",
+      "publisher": "《1995年美国最佳科幻小说集》（远方出版社）",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 2003992
+    }
+  ]
+}

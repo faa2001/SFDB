@@ -1,0 +1,63 @@
+{
+  "title": "The Years of Rice and Salt",
+  "author": {
+    "name": "Robinson, Kim Stanley",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2002年英国科幻奖最佳长篇提名",
+    "2003年雨果奖最佳长篇提名",
+    "2003年阿瑟C克拉克奖提名",
+    "2003年轨迹奖最佳科幻长篇第1名"
+  ],
+  "publishes": [
+    {
+      "title": "The Years of Rice and Salt",
+      "author": {
+        "name": "Robinson, Kim Stanley",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2002",
+      "publication": "",
+      "publisher": "Bantam",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 22722,
+      "douban": 0
+    },
+    {
+      "title": "米与盐的年代",
+      "author": {
+        "name": "金·斯坦利·罗宾森",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李玉良、刘建立",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "新星出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 2363135
+    }
+  ]
+}

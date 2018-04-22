@@ -1,0 +1,62 @@
+{
+  "title": "Childhood's End",
+  "author": {
+    "name": "Clarke, Arthur C.",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1975年轨迹奖史上最佳长篇第2名",
+    "1987年轨迹奖史上最佳科幻长篇第3名",
+    "1998年轨迹奖1990年前最佳科幻长篇第8名"
+  ],
+  "publishes": [
+    {
+      "title": "Childhood's End",
+      "author": {
+        "name": "Clarke, Arthur C.",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1953",
+      "publication": "",
+      "publisher": "Del Rey / Ballantine",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 2248,
+      "douban": 0
+    },
+    {
+      "title": "童年的终结",
+      "author": {
+        "name": "阿瑟·克拉克",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "陈喜荣",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2006",
+      "publication": "",
+      "publisher": "四川科学技术出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "根据1989年修订版翻译",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1865765
+    }
+  ]
+}

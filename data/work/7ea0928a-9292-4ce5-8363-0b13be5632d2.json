@@ -1,0 +1,58 @@
+{
+  "title": "Invasion",
+  "author": {
+    "name": "Cook, Robin",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Invasion",
+      "author": {
+        "name": "Cook, Robin",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1997",
+      "publication": "",
+      "publisher": "Berkley",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 574257,
+      "douban": 0
+    },
+    {
+      "title": "入侵",
+      "author": {
+        "name": "罗宾·科克",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "陈正发、张明",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1999",
+      "publication": "",
+      "publisher": "译林出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1397495
+    }
+  ]
+}

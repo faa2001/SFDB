@@ -1,0 +1,67 @@
+{
+  "title": "The Terminal Experiment",
+  "author": {
+    "name": "Sawyer, Robert J.",
+    "nation": "加"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1995年星云奖最佳长篇",
+    "1995年荷马奖最佳长篇",
+    "1995年布莱姆·斯托克奖最佳长篇提名",
+    "1996年极光奖最佳英语长篇",
+    "1996年阿瑟·克拉克奖提名",
+    "1996年雨果奖最佳长篇提名",
+    "1996年轨迹奖最佳科幻长篇第21名",
+    "1996年科幻编年奖最佳长篇提名"
+  ],
+  "publishes": [
+    {
+      "title": "The Terminal Experiment",
+      "author": {
+        "name": "Sawyer, Robert J.",
+        "nation": "加"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1995",
+      "publication": "",
+      "publisher": "HarperPrism",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 3658,
+      "douban": 0
+    },
+    {
+      "title": "终极实验",
+      "author": {
+        "name": "罗伯特·吉·索耶",
+        "nation": "加"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "陈志娟",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2004",
+      "publication": "",
+      "publisher": "人民文学出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1162566
+    }
+  ]
+}

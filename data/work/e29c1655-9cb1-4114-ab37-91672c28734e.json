@@ -1,0 +1,63 @@
+{
+  "title": "The Secret Number",
+  "author": {
+    "name": "Teper, Igor",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Secret Number",
+      "author": {
+        "name": "Teper, Igor",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2000",
+      "publication": "Strange Horizons, 20 Nov 2000",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [
+        {
+          "title": "The Secret Number",
+          "href": "http://www.strangehorizons.com/2000/20001120/secret_number.shtml"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    },
+    {
+      "title": "隐匿的数字",
+      "author": {
+        "name": "伊格尔·特珀",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "郑衍文",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "《科幻世界》2007年第8期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

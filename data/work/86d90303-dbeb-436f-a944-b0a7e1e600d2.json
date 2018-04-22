@@ -1,0 +1,58 @@
+{
+  "title": "The Emperor of Gondwanaland",
+  "author": {
+    "name": "Di Filippo, Paul",
+    "nation": "美"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Emperor of Gondwanaland",
+      "author": {
+        "name": "Di Filippo, Paul",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2005",
+      "publication": "Interzone, Jan/Feb 2005",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 302721,
+      "douban": 0
+    },
+    {
+      "title": "冈瓦纳大陆之王",
+      "author": {
+        "name": "保罗·迪·菲利普",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "陈岩",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "《飞·奇幻世界》2008年第3期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "The House of the Scorpion",
+  "author": {
+    "name": "Farmer, Nancy",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "2003年轨迹奖最佳青少年长篇第5名",
+    "2003年创神奖儿童奇幻文学提名"
+  ],
+  "publishes": [
+    {
+      "title": "The House of the Scorpion",
+      "author": {
+        "name": "Farmer, Nancy",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2002",
+      "publication": "",
+      "publisher": "Scholastic Inc",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 23394,
+      "douban": 0
+    },
+    {
+      "title": "蝎子之屋",
+      "author": {
+        "name": "南希·法默",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "刘乔",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2003",
+      "publication": "",
+      "publisher": "接力出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1082431
+    }
+  ]
+}

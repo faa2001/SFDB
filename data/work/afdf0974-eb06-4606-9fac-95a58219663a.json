@@ -1,0 +1,58 @@
+{
+  "title": "The Magic of Krynn ",
+  "author": {
+    "name": "Weis, Margaret / Hickman, Tracy",
+    "nation": "美"
+  },
+  "type": "collection",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Magic of Krynn ",
+      "author": {
+        "name": "Weis, Margaret / Hickman, Tracy",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1987",
+      "publication": "",
+      "publisher": "TSR",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 157975,
+      "douban": 0
+    },
+    {
+      "title": "克莱恩魔法传",
+      "author": {
+        "name": "马格丽特·魏丝、崔西·西克曼",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "许文达",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2002",
+      "publication": "",
+      "publisher": "中国工人出版社",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "龙枪系列",
+      "links": [],
+      "isfdb": 0,
+      "douban": 1549022
+    }
+  ]
+}

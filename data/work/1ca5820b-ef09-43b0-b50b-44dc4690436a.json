@@ -1,0 +1,65 @@
+{
+  "title": "The Fall of Hyperion",
+  "author": {
+    "name": "Simmons, Dan",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1990年星云奖最佳长篇提名",
+    "1991年英国科幻协会最佳科幻长篇小说",
+    "1991年科幻编年奖最佳长篇",
+    "1991年雨果奖最佳长篇提名",
+    "1991年轨迹奖最佳科幻长篇第1名",
+    "1992年阿瑟·克拉克奖提名"
+  ],
+  "publishes": [
+    {
+      "title": "The Fall of Hyperion",
+      "author": {
+        "name": "Simmons, Dan",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1990",
+      "publication": "",
+      "publisher": "Bantam Spectra",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 1970,
+      "douban": 0
+    },
+    {
+      "title": "海伯利安的陨落",
+      "author": {
+        "name": "丹·西蒙斯",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "李懿、潘振华",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2007",
+      "publication": "",
+      "publisher": "万卷出版公司",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "海伯利安四部曲之二",
+      "links": [],
+      "isfdb": 0,
+      "douban": 2350549
+    }
+  ]
+}

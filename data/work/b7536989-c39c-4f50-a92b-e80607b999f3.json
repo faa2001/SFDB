@@ -1,0 +1,58 @@
+{
+  "title": "Triceratops summer",
+  "author": {
+    "name": "Swanwick, Michael",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Triceratops summer",
+      "author": {
+        "name": "Swanwick, Michael",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2005",
+      "publication": "Amazon.com website Aug 19 2005",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 196032,
+      "douban": 0
+    },
+    {
+      "title": "三角龙之夏",
+      "author": {
+        "name": "迈克尔·斯万维克",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "赵海虹",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2009",
+      "publication": "《科幻世界》2009年第5期",
+      "publisher": "",
+      "type": "periodical",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

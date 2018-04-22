@@ -1,0 +1,62 @@
+{
+  "title": "Have Space Suit - Will Travel",
+  "author": {
+    "name": "Heinlein, Robert A.",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1959年雨果奖最佳长篇提名",
+    "1998年轨迹奖票选1990年前最佳科幻长篇第48名",
+    "2007年英国科幻奖五十周年奖1958年最佳长篇提名"
+  ],
+  "publishes": [
+    {
+      "title": "Have Space Suit - Will Travel",
+      "author": {
+        "name": "Heinlein, Robert A.",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1958",
+      "publication": "",
+      "publisher": "F&SF, Aug-Oct 1958 / Scribner's",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 1811,
+      "douban": 0
+    },
+    {
+      "title": "穿上航天服去旅行",
+      "author": {
+        "name": "罗伯特·A·海因莱因",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "杨银春",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "中国宇航出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "英汉对照",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3329552
+    }
+  ]
+}

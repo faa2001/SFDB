@@ -1,0 +1,71 @@
+{
+  "title": "2010: Odyssey Two",
+  "author": {
+    "name": "Clarke, Arthur C.",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1983年雨果奖最佳长篇提名",
+    "1983年轨迹奖最佳科幻长篇第2名"
+  ],
+  "publishes": [
+    {
+      "title": "2010: Odyssey Two",
+      "author": {
+        "name": "Clarke, Arthur C.",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1982",
+      "publication": "",
+      "publisher": "Del Rey / Ballantine",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [
+        {
+          "title": "2010: Odyssey Two",
+          "href": "http://tfmm.ssry.net/library/admin/upload/kehuan/clarke/2010/index.htm"
+        }
+      ],
+      "isfdb": 2484,
+      "douban": 0
+    },
+    {
+      "title": "2010：太空救援",
+      "author": {
+        "name": "阿瑟·克拉克",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "张辉",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "1998",
+      "publication": "",
+      "publisher": "内蒙古文化出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "“太空漫游四部曲”之二",
+      "links": [
+        {
+          "title": "",
+          "href": "http://tfmm.ssry.net/library/admin/upload/kehuan/clarke/2010/index.htm"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 1844126
+    }
+  ]
+}

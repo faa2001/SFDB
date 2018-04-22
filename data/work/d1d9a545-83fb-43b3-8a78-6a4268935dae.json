@@ -1,0 +1,63 @@
+{
+  "title": "The Demon's Passage",
+  "author": {
+    "name": "Egan, Greg",
+    "nation": "澳"
+  },
+  "type": "story",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Demon's Passage",
+      "author": {
+        "name": "Egan, Greg",
+        "nation": "澳"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1991",
+      "publication": "",
+      "publisher": "Eidolon, Winter 1991",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 52155,
+      "douban": 0
+    },
+    {
+      "title": "魔之陈情",
+      "author": {
+        "name": "格雷格·埃根",
+        "nation": "澳"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "梨",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "《SF非卖品》",
+      "type": "collection",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "非正式出版物，双峰驼网友自译自制作。",
+      "links": [
+        {
+          "title": "",
+          "href": "http://www.douban.com/group/topic/1243545/"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 0
+    }
+  ]
+}

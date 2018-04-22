@@ -1,0 +1,63 @@
+{
+  "title": "Myths Transformed",
+  "author": {
+    "name": "Tolkien, J. R. R.",
+    "nation": "英"
+  },
+  "type": "other",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "Myths Transformed",
+      "author": {
+        "name": "Tolkien, J. R. R.",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1993",
+      "publication": "",
+      "publisher": "HarperCollins",
+      "type": "other",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 37210,
+      "douban": 0
+    },
+    {
+      "title": "神话变形",
+      "author": {
+        "name": "J. R. R. 托尔金",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "Ecthelion",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2004",
+      "publication": "",
+      "publisher": "龙骑士城堡",
+      "type": "other",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "“中土的历史”第十卷Morgoth's Ring节选",
+      "links": [
+        {
+          "title": "",
+          "href": "http://www.cndkc.net/bbs/thread-16387-1-3.html"
+        }
+      ],
+      "isfdb": 0,
+      "douban": 1759925
+    }
+  ]
+}

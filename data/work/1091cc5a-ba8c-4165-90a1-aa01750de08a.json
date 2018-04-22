@@ -1,0 +1,60 @@
+{
+  "title": "Brothers in Arms ",
+  "author": {
+    "name": "Bujold, Lois McMaster",
+    "nation": "美"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [
+    "1989年轨迹奖最佳科幻长篇第15名"
+  ],
+  "publishes": [
+    {
+      "title": "Brothers in Arms ",
+      "author": {
+        "name": "Bujold, Lois McMaster",
+        "nation": "美"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "1989",
+      "publication": "",
+      "publisher": "Baen",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 2301,
+      "douban": 0
+    },
+    {
+      "title": "兄弟手足",
+      "author": {
+        "name": "洛伊斯·比约德",
+        "nation": "美"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "乐明",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2008",
+      "publication": "",
+      "publisher": "四川科学技术出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "迈尔斯系列（Miles Vorkosigan）",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3025254
+    }
+  ]
+}

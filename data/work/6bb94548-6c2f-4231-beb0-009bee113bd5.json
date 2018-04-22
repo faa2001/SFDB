@@ -1,0 +1,58 @@
+{
+  "title": "The Children of Húrin",
+  "author": {
+    "name": "Tolkien, J. R. R. / Tolkien, Christopher",
+    "nation": "英"
+  },
+  "type": "novel",
+  "aliases": [],
+  "intro": "",
+  "prizes": [],
+  "publishes": [
+    {
+      "title": "The Children of Húrin",
+      "author": {
+        "name": "Tolkien, J. R. R. / Tolkien, Christopher",
+        "nation": "英"
+      },
+      "language": null,
+      "translator": null,
+      "cover": null,
+      "date": "2007",
+      "publication": "",
+      "publisher": "HarperCollins",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 215401,
+      "douban": 0
+    },
+    {
+      "title": "胡林的儿女",
+      "author": {
+        "name": "J. R. R. 托尔金",
+        "nation": "英"
+      },
+      "language": "简体中文",
+      "translator": {
+        "name": "马骁",
+        "nation": ""
+      },
+      "cover": null,
+      "date": "2009",
+      "publication": "",
+      "publisher": "译林出版社",
+      "type": "book",
+      "pages": 0,
+      "price": null,
+      "isbn": "",
+      "remark": "",
+      "links": [],
+      "isfdb": 0,
+      "douban": 3698543
+    }
+  ]
+}
