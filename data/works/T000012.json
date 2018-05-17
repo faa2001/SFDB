@@ -1,0 +1,26 @@
+{
+  "id": "T000012",
+  "isFirst": false,
+  "firstId": "T000001",
+  "type": "小说",
+  "space": "长篇",
+  "language": "中文",
+  "title": "三体",
+  "subtitle": "",
+  "publicationDate": "2008/01/00",
+  "publicationPlace": "重庆出版社",
+  "publicationType": "图书",
+  "authors": [
+    {
+      "id": "C0001",
+      "name": "刘慈欣"
+    }
+  ],
+  "translators": [],
+  "magazineID": "",
+  "bookID": "",
+  "startPage": null,
+  "endPage": null,
+  "seriesName": "",
+  "seriesNo": ""
+}

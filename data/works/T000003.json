@@ -1,0 +1,26 @@
+{
+  "id": "T000003",
+  "isFirst": true,
+  "firstId": "",
+  "type": "小说",
+  "space": "中短篇",
+  "language": "中文",
+  "title": "鲸歌",
+  "subtitle": "",
+  "publicationDate": "1999/06/00",
+  "publicationPlace": "《科幻世界》1999年6月",
+  "publicationType": "期刊",
+  "authors": [
+    {
+      "id": "C0001",
+      "name": "刘慈欣"
+    }
+  ],
+  "translators": [],
+  "magazineID": "",
+  "bookID": "",
+  "startPage": null,
+  "endPage": null,
+  "seriesName": "",
+  "seriesNo": ""
+}

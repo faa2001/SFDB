@@ -1,0 +1,26 @@
+{
+  "id": "C0012",
+  "name": "迟卉",
+  "penNames": [
+    "雪舞风华",
+    "soulaxia",
+    "黑小猫"
+  ],
+  "englishName": {
+    "surname": "Chi",
+    "givenName": "Hui"
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "女",
+  "birthday": "1984/00/00",
+  "deathday": "",
+  "birthCity": "中国吉林",
+  "isfdb": 189171,
+  "links": [
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E8%BF%9F%E5%8D%89?sefr=cr"
+    }
+  ]
+}

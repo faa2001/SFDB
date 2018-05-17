@@ -1,0 +1,29 @@
+{
+  "id": "C0048",
+  "name": "顾均正",
+  "penNames": [
+    "均正",
+    "振之"
+  ],
+  "englishName": {
+    "surname": "",
+    "givenName": ""
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "1902/11/26",
+  "deathday": "1980/12/16",
+  "birthCity": "中国浙江嘉兴",
+  "isfdb": null,
+  "links": [
+    {
+      "title": "",
+      "href": "http://www.sf-encyclopedia.com/entry/gu_junzheng"
+    },
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E9%A1%BE%E5%9D%87%E6%AD%A3?sefr=enterbtn"
+    }
+  ]
+}

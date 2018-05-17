@@ -1,0 +1,36 @@
+{
+  "id": "C0004",
+  "name": "王瑶",
+  "penNames": [
+    "夏笳"
+  ],
+  "englishName": {
+    "surname": "Xia",
+    "givenName": "Jia"
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "女",
+  "birthday": "1984/6/2",
+  "deathday": "",
+  "birthCity": "中国陕西西安",
+  "isfdb": 169417,
+  "links": [
+    {
+      "title": "",
+      "href": "http://www.sf-encyclopedia.com/entry/xia_jia"
+    },
+    {
+      "title": "",
+      "href": "https://en.wikipedia.org/wiki/Xia_Jia"
+    },
+    {
+      "title": "",
+      "href": "https://zh.wikipedia.org/wiki/%E5%A4%8F%E7%AC%B3"
+    },
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E5%A4%8F%E7%AC%B3?sefr=cr"
+    }
+  ]
+}

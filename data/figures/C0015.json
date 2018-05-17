@@ -1,0 +1,32 @@
+{
+  "id": "C0015",
+  "name": "贾立元",
+  "penNames": [
+    "飞氘"
+  ],
+  "englishName": {
+    "surname": "Fei",
+    "givenName": "Dao"
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "1983/00/00",
+  "deathday": "",
+  "birthCity": "中国内蒙古赤峰",
+  "isfdb": 189172,
+  "links": [
+    {
+      "title": "",
+      "href": "http://www.sf-encyclopedia.com/entry/fei_dao"
+    },
+    {
+      "title": "",
+      "href": "https://zh.wikipedia.org/wiki/%E9%A3%9E%E6%B0%98"
+    },
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/link?url=MKBahD3qANcT-MWZ6t9QJukKIaSRsL4P-poG1P-7E91znTwt-WksDZhtv3R-h_zmkQ6JwAWkngnW6bLw1icmN1o8Ar3sy28HcqE1Ye5MZUm"
+    }
+  ]
+}

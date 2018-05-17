@@ -1,0 +1,28 @@
+{
+  "id": "C0077",
+  "name": "张健",
+  "penNames": [
+    "燕垒生"
+  ],
+  "englishName": {
+    "surname": "",
+    "givenName": ""
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "1970/00/00",
+  "deathday": "",
+  "birthCity": "中国杭州临平",
+  "isfdb": null,
+  "links": [
+    {
+      "title": "",
+      "href": "https://zh.wikipedia.org/wiki/%E7%87%95%E5%9E%92%E7%94%9F"
+    },
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E7%87%95%E5%9E%92%E7%94%9F?sefr=enterbtn"
+    }
+  ]
+}

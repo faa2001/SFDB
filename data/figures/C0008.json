@@ -1,0 +1,38 @@
+{
+  "id": "C0008",
+  "name": "韩松",
+  "penNames": [
+    "小寒",
+    "小青",
+    "金小京"
+  ],
+  "englishName": {
+    "surname": "Han",
+    "givenName": "Song"
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "1965/00/00",
+  "deathday": "",
+  "birthCity": "中国重庆",
+  "isfdb": 131382,
+  "links": [
+    {
+      "title": "",
+      "href": "http://www.sf-encyclopedia.com/entry/han_song"
+    },
+    {
+      "title": "",
+      "href": "https://en.wikipedia.org/wiki/Han_Song_(writer)"
+    },
+    {
+      "title": "",
+      "href": "https://zh.wikipedia.org/wiki/%E9%9F%A9%E6%9D%BE_(%E4%BD%9C%E5%AE%B6)"
+    },
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E9%9F%A9%E6%9D%BE/1695"
+    }
+  ]
+}

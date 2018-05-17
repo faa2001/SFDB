@@ -1,0 +1,28 @@
+{
+  "id": "C0083",
+  "name": "杨治",
+  "penNames": [
+    "江南"
+  ],
+  "englishName": {
+    "surname": "",
+    "givenName": ""
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "1977/7/13",
+  "deathday": "",
+  "birthCity": "中国安徽舒城",
+  "isfdb": null,
+  "links": [
+    {
+      "title": "",
+      "href": "https://zh.wikipedia.org/wiki/%E6%B1%9F%E5%8D%97_(%E5%B0%8F%E8%AF%B4%E5%AE%B6)"
+    },
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E6%9D%A8%E6%B2%BB/10196272?fromtitle=%E6%B1%9F%E5%8D%97&fromid=5289768#viewPageContent"
+    }
+  ]
+}

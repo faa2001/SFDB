@@ -1,0 +1,24 @@
+{
+  "id": "C0017",
+  "name": "赵如汉",
+  "penNames": [
+    "北星"
+  ],
+  "englishName": {
+    "surname": "Zhao",
+    "givenName": "Ruhan"
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "1964/00/00",
+  "deathday": "",
+  "birthCity": "",
+  "isfdb": null,
+  "links": [
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E5%8C%97%E6%98%9F/19854673"
+    }
+  ]
+}

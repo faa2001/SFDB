@@ -1,0 +1,28 @@
+{
+  "id": "C0010",
+  "name": "潘海天",
+  "penNames": [
+    "大角"
+  ],
+  "englishName": {
+    "surname": "Pan",
+    "givenName": "Haitian"
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "1975/3/23",
+  "deathday": "",
+  "birthCity": "中国福建",
+  "isfdb": 217733,
+  "links": [
+    {
+      "title": "",
+      "href": "https://en.wikipedia.org/wiki/Pan_Hai-tian"
+    },
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E6%BD%98%E6%B5%B7%E5%A4%A9/6115142?sefr=cr"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "C0033",
+  "name": "张冉",
+  "penNames": [
+    "朱邪多闻"
+  ],
+  "englishName": {
+    "surname": "Zhang",
+    "givenName": "Ran"
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "1981/12/12",
+  "deathday": "",
+  "birthCity": "中国山西太原",
+  "isfdb": 211404,
+  "links": [
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E6%9C%B1%E9%82%AA%E5%A4%9A%E9%97%BB?sefr=enterbtn"
+    }
+  ]
+}

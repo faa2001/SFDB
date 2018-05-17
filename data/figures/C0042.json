@@ -1,0 +1,26 @@
+{
+  "id": "C0042",
+  "name": "吴岩",
+  "penNames": [],
+  "englishName": {
+    "surname": "Wu",
+    "givenName": "Yan"
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "1962/12/2",
+  "deathday": "",
+  "birthCity": "中国北京",
+  "isfdb": null,
+  "links": [
+    {
+      "title": "",
+      "href": "http://www.sf-encyclopedia.com/entry/wu_yan"
+    },
+    {
+      "title": "",
+      "href": "https://zh.wikipedia.org/wiki/%E5%90%B4%E5%B2%A9_(%E4%BD%9C%E5%AE%B6)"
+    }
+  ]
+}

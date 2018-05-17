@@ -1,0 +1,34 @@
+{
+  "id": "C0080",
+  "name": "张系国",
+  "penNames": [],
+  "englishName": {
+    "surname": "",
+    "givenName": ""
+  },
+  "nation": "美国",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "1944/7/17",
+  "deathday": "",
+  "birthCity": "中国重庆",
+  "isfdb": 4729,
+  "links": [
+    {
+      "title": "",
+      "href": "http://www.sf-encyclopedia.com/entry/chang_shi-kuo"
+    },
+    {
+      "title": "",
+      "href": "https://en.wikipedia.org/wiki/Shi-Kuo_Chang"
+    },
+    {
+      "title": "",
+      "href": "https://zh.wikipedia.org/wiki/%E5%BC%B5%E7%B3%BB%E5%9C%8B"
+    },
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E5%BC%A0%E7%B3%BB%E5%9B%BD?sefr=enterbtn"
+    }
+  ]
+}

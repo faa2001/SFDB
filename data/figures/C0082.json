@@ -1,0 +1,28 @@
+{
+  "id": "C0082",
+  "name": "黄炳煌",
+  "penNames": [
+    "黄海"
+  ],
+  "englishName": {
+    "surname": "",
+    "givenName": ""
+  },
+  "nation": "中国台湾",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "1943/00/00",
+  "deathday": "",
+  "birthCity": "中国台湾台中",
+  "isfdb": null,
+  "links": [
+    {
+      "title": "",
+      "href": "http://www.sf-encyclopedia.com/entry/huang_hai"
+    },
+    {
+      "title": "",
+      "href": "https://zh.wikipedia.org/wiki/%E9%BB%83%E6%B5%B7_(%E4%BD%9C%E5%AE%B6)"
+    }
+  ]
+}

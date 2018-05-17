@@ -1,0 +1,34 @@
+{
+  "id": "C0041",
+  "name": "叶永烈",
+  "penNames": [],
+  "englishName": {
+    "surname": "Ye",
+    "givenName": "Yonglie"
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "1940/8/30",
+  "deathday": "",
+  "birthCity": "中国浙江温州",
+  "isfdb": null,
+  "links": [
+    {
+      "title": "",
+      "href": "http://www.sf-encyclopedia.com/entry/ye_yonglie"
+    },
+    {
+      "title": "",
+      "href": "https://en.wikipedia.org/wiki/Ye_Yonglie"
+    },
+    {
+      "title": "",
+      "href": "https://zh.wikipedia.org/wiki/%E5%8F%B6%E6%B0%B8%E7%83%88"
+    },
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E5%8F%B6%E6%B0%B8%E7%83%88?sefr=enterbtn"
+    }
+  ]
+}

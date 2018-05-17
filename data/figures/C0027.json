@@ -1,0 +1,28 @@
+{
+  "id": "C0027",
+  "name": "钟欣",
+  "penNames": [
+    "拉拉"
+  ],
+  "englishName": {
+    "surname": "",
+    "givenName": ""
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "1979/00/00",
+  "deathday": "",
+  "birthCity": "中国重庆",
+  "isfdb": 189169,
+  "links": [
+    {
+      "title": "",
+      "href": "http://www.sf-encyclopedia.com/entry/la_la"
+    },
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E6%8B%89%E6%8B%89/2148176#viewPageContent"
+    }
+  ]
+}

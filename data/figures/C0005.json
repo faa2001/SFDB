@@ -1,0 +1,24 @@
+{
+  "id": "C0005",
+  "name": "徐念慈",
+  "penNames": [
+    "东海觉我"
+  ],
+  "englishName": {
+    "surname": "Xu",
+    "givenName": "Nianci"
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "1875/00/00",
+  "deathday": "1908/6/16",
+  "birthCity": "中国江苏常熟",
+  "isfdb": 189165,
+  "links": [
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E5%BE%90%E5%BF%B5%E6%85%88?sefr=cr"
+    }
+  ]
+}

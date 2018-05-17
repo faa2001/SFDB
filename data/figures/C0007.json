@@ -1,0 +1,34 @@
+{
+  "id": "C0007",
+  "name": "郝景芳",
+  "penNames": [],
+  "englishName": {
+    "surname": "Hao",
+    "givenName": "Jingfang"
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "女",
+  "birthday": "1984/7/27",
+  "deathday": "",
+  "birthCity": "中国天津",
+  "isfdb": 197538,
+  "links": [
+    {
+      "title": "",
+      "href": "http://www.sf-encyclopedia.com/entry/hao_jingfang"
+    },
+    {
+      "title": "",
+      "href": "https://en.wikipedia.org/wiki/Hao_Jingfang"
+    },
+    {
+      "title": "",
+      "href": "https://zh.wikipedia.org/wiki/%E9%83%9D%E6%99%AF%E8%8A%B3"
+    },
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E9%83%9D%E6%99%AF%E8%8A%B3?sefr=enterbtn"
+    }
+  ]
+}

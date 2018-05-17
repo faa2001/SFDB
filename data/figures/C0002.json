@@ -1,0 +1,33 @@
+{
+  "id": "C0002",
+  "name": "王晋康",
+  "penNames": [
+    "石不语",
+    "野狐"
+  ],
+  "englishName": {
+    "surname": "Wang",
+    "givenName": "Jinkang"
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "1948/11/24",
+  "deathday": "",
+  "birthCity": "中国河南南阳",
+  "isfdb": 239929,
+  "links": [
+    {
+      "title": "",
+      "href": "http://www.sf-encyclopedia.com/entry/wang_jinkang"
+    },
+    {
+      "title": "",
+      "href": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%99%8B%E5%BA%B7"
+    },
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E7%8E%8B%E6%99%8B%E5%BA%B7?sefr=enterbtn"
+    }
+  ]
+}

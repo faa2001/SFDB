@@ -1,0 +1,24 @@
+{
+  "id": "C0032",
+  "name": "李威",
+  "penNames": [
+    "阿缺"
+  ],
+  "englishName": {
+    "surname": "A",
+    "givenName": "Que"
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "1990/00/00",
+  "deathday": "",
+  "birthCity": "中国湖北荆州",
+  "isfdb": 244120,
+  "links": [
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E9%98%BF%E7%BC%BA/4181735?sefr=enterbtn"
+    }
+  ]
+}

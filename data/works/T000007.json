@@ -1,0 +1,26 @@
+{
+  "id": "T000007",
+  "isFirst": false,
+  "firstId": "T000001",
+  "type": "小说",
+  "space": "连载",
+  "language": "中文",
+  "title": "三体（连载之四）",
+  "subtitle": "",
+  "publicationDate": "2006/08/00",
+  "publicationPlace": "《科幻世界》2006年8月",
+  "publicationType": "期刊",
+  "authors": [
+    {
+      "id": "C0001",
+      "name": "刘慈欣"
+    }
+  ],
+  "translators": [],
+  "magazineID": "",
+  "bookID": "",
+  "startPage": null,
+  "endPage": null,
+  "seriesName": "",
+  "seriesNo": ""
+}

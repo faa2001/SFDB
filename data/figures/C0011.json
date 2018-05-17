@@ -1,0 +1,28 @@
+{
+  "id": "C0011",
+  "name": "李俊",
+  "penNames": [
+    "宝树"
+  ],
+  "englishName": {
+    "surname": "Bao",
+    "givenName": "Shu"
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "1980/5/27",
+  "deathday": "",
+  "birthCity": "中国四川广元",
+  "isfdb": 213225,
+  "links": [
+    {
+      "title": "",
+      "href": "https://en.wikipedia.org/wiki/Baoshu"
+    },
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E5%AE%9D%E6%A0%91/62324?sefr=cr"
+    }
+  ]
+}

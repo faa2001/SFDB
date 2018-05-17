@@ -1,0 +1,28 @@
+{
+  "id": "C0037",
+  "name": "曾雨",
+  "penNames": [
+    "今何在"
+  ],
+  "englishName": {
+    "surname": "",
+    "givenName": ""
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "1977/12/23",
+  "deathday": "",
+  "birthCity": "中国江西南昌",
+  "isfdb": null,
+  "links": [
+    {
+      "title": "",
+      "href": "https://zh.wikipedia.org/wiki/%E4%BB%8A%E4%BD%95%E5%9C%A8"
+    },
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E4%BB%8A%E4%BD%95%E5%9C%A8?sefr=cr"
+    }
+  ]
+}

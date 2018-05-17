@@ -1,0 +1,30 @@
+{
+  "id": "C0003",
+  "name": "柳文扬",
+  "penNames": [
+    "小丁",
+    "周平",
+    "千兵卫"
+  ],
+  "englishName": {
+    "surname": "Liu",
+    "givenName": "Wenyang"
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "1970/7/5",
+  "deathday": "2007/7/1",
+  "birthCity": "中国北京",
+  "isfdb": 173152,
+  "links": [
+    {
+      "title": "",
+      "href": "https://zh.wikipedia.org/wiki/%E6%9F%B3%E6%96%87%E6%89%AC"
+    },
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E6%9F%B3%E6%96%87%E6%89%AC"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "C0009",
+  "name": "何宏伟",
+  "penNames": [
+    "何夕"
+  ],
+  "englishName": {
+    "surname": "He",
+    "givenName": "Xi"
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "1971/12/00",
+  "deathday": "",
+  "birthCity": "中国四川成都",
+  "isfdb": 173156,
+  "links": [
+    {
+      "title": "",
+      "href": "http://www.sf-encyclopedia.com/entry/he_xi"
+    },
+    {
+      "title": "",
+      "href": "https://zh.wikipedia.org/wiki/%E4%BD%95%E5%A4%95"
+    },
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E4%BD%95%E5%A4%95?sefr=enterbtn"
+    }
+  ]
+}

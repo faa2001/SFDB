@@ -1,0 +1,34 @@
+{
+  "id": "C0050",
+  "name": "郑文光",
+  "penNames": [],
+  "englishName": {
+    "surname": "",
+    "givenName": ""
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "1929/4/9",
+  "deathday": "2003/6/17",
+  "birthCity": "越南海防",
+  "isfdb": 16745,
+  "links": [
+    {
+      "title": "",
+      "href": "http://www.sf-encyclopedia.com/entry/zheng_wenguang"
+    },
+    {
+      "title": "",
+      "href": "https://en.wikipedia.org/wiki/Zheng_Wenguang"
+    },
+    {
+      "title": "",
+      "href": "https://zh.wikipedia.org/wiki/%E9%83%91%E6%96%87%E5%85%89"
+    },
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E9%83%91%E6%96%87%E5%85%89/1744844?sefr=enterbtn"
+    }
+  ]
+}

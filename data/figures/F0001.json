@@ -1,0 +1,34 @@
+{
+  "id": "F0001",
+  "name": "刘宇昆",
+  "penNames": [],
+  "englishName": {
+    "surname": "Liu",
+    "givenName": "Ken"
+  },
+  "nation": "美国",
+  "language": "英文",
+  "gender": "男",
+  "birthday": "1976/11/30",
+  "deathday": "",
+  "birthCity": "中国甘肃兰州",
+  "isfdb": 49931,
+  "links": [
+    {
+      "title": "",
+      "href": "http://www.sf-encyclopedia.com/entry/liu_ken"
+    },
+    {
+      "title": "",
+      "href": "https://en.wikipedia.org/wiki/Ken_Liu"
+    },
+    {
+      "title": "",
+      "href": "https://zh.wikipedia.org/wiki/%E5%88%98%E5%AE%87%E6%98%86"
+    },
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E5%88%98%E5%AE%87%E6%98%86?sefr=cr"
+    }
+  ]
+}

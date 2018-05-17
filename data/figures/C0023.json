@@ -1,0 +1,28 @@
+{
+  "id": "C0023",
+  "name": "郭威",
+  "penNames": [
+    "星河"
+  ],
+  "englishName": {
+    "surname": "",
+    "givenName": ""
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "",
+  "deathday": "",
+  "birthCity": "中国北京",
+  "isfdb": 173154,
+  "links": [
+    {
+      "title": "",
+      "href": "https://zh.wikipedia.org/wiki/%E6%98%9F%E6%B2%B3"
+    },
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E6%98%9F%E6%B2%B3/152400?sefr=enterbtn"
+    }
+  ]
+}

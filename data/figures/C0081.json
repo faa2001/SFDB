@@ -1,0 +1,26 @@
+{
+  "id": "C0081",
+  "name": "谭剑",
+  "penNames": [],
+  "englishName": {
+    "surname": "",
+    "givenName": ""
+  },
+  "nation": "中国香港",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "1972/00/00",
+  "deathday": "",
+  "birthCity": "中国香港",
+  "isfdb": null,
+  "links": [
+    {
+      "title": "",
+      "href": "https://zh.wikipedia.org/wiki/%E8%AD%9A%E5%8A%8D"
+    },
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E8%B0%AD%E5%89%91/4808002?sefr=enterbtn"
+    }
+  ]
+}

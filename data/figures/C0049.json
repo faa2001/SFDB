@@ -1,0 +1,28 @@
+{
+  "id": "C0049",
+  "name": "包公毅",
+  "penNames": [
+    "包天笑"
+  ],
+  "englishName": {
+    "surname": "",
+    "givenName": ""
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "1900/1/0",
+  "deathday": "1973/10/24",
+  "birthCity": "中国江苏苏州",
+  "isfdb": null,
+  "links": [
+    {
+      "title": "",
+      "href": "https://zh.wikipedia.org/wiki/%E5%8C%85%E5%A4%A9%E7%AC%91"
+    },
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E5%8C%85%E5%A4%A9%E7%AC%91?sefr=enterbtn"
+    }
+  ]
+}

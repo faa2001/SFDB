@@ -1,0 +1,34 @@
+{
+  "id": "C0044",
+  "name": "童恩正",
+  "penNames": [],
+  "englishName": {
+    "surname": "Tong",
+    "givenName": "Enzheng"
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "1935/8/27",
+  "deathday": "1997/4/20",
+  "birthCity": "中国湖南宁乡",
+  "isfdb": null,
+  "links": [
+    {
+      "title": "",
+      "href": "http://www.sf-encyclopedia.com/entry/tong_enzheng"
+    },
+    {
+      "title": "",
+      "href": "https://en.wikipedia.org/wiki/Tong_Enzheng"
+    },
+    {
+      "title": "",
+      "href": "https://zh.wikipedia.org/wiki/%E7%AB%A5%E6%81%A9%E6%AD%A3"
+    },
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E7%AB%A5%E6%81%A9%E6%AD%A3?sefr=enterbtn"
+    }
+  ]
+}

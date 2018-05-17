@@ -1,0 +1,28 @@
+{
+  "id": "C0013",
+  "name": "赵海虹",
+  "penNames": [
+    "赵钗"
+  ],
+  "englishName": {
+    "surname": "Zhao",
+    "givenName": "Haihong"
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "女",
+  "birthday": "1977/04/00",
+  "deathday": "",
+  "birthCity": "中国浙江杭州",
+  "isfdb": 189170,
+  "links": [
+    {
+      "title": "",
+      "href": "http://www.sf-encyclopedia.com/entry/zhao_haihong"
+    },
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E8%B5%B5%E6%B5%B7%E8%99%B9?sefr=enterbtn"
+    }
+  ]
+}

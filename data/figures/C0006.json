@@ -1,0 +1,29 @@
+{
+  "id": "C0006",
+  "name": "陈楸帆",
+  "penNames": [
+    "KENZO",
+    "檀柘"
+  ],
+  "englishName": {
+    "surname": "Chen",
+    "givenName": "Qiufan"
+  },
+  "nation": "中国",
+  "language": "中文",
+  "gender": "男",
+  "birthday": "1981/11/30",
+  "deathday": "",
+  "birthCity": "中国广东汕头",
+  "isfdb": 160342,
+  "links": [
+    {
+      "title": "",
+      "href": "http://www.sf-encyclopedia.com/entry/chen_qiufan"
+    },
+    {
+      "title": "",
+      "href": "http://baike.baidu.com/item/%E9%99%88%E6%A5%B8%E5%B8%86?sefr=enterbtn"
+    }
+  ]
+}
