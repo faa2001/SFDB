@@ -1,0 +1,29 @@
+{
+  "id": "T000054",
+  "isFirst": false,
+  "firstId": "",
+  "originalLanguageId": "",
+  "type": "小说",
+  "space": "连载",
+  "language": "中文",
+  "originalLanguage": "中文",
+  "title": "白垩纪往事（下）",
+  "subtitle": "",
+  "publicationDate": "2004/11/00",
+  "publicationPlace": "《科幻大王》2004年第11期",
+  "publicationType": "期刊",
+  "authors": [
+    {
+      "id": "C0001",
+      "name": "刘慈欣"
+    }
+  ],
+  "translators": [],
+  "magazineID": "",
+  "bookID": "",
+  "startPage": null,
+  "endPage": null,
+  "seriesName": "",
+  "seriesNo": "",
+  "remark": ""
+}

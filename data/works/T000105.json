@@ -1,0 +1,34 @@
+{
+  "id": "T000105",
+  "isFirst": false,
+  "firstId": "T000084",
+  "originalLanguageId": "",
+  "type": "小说",
+  "space": "中短篇",
+  "language": "英文",
+  "originalLanguage": "中文",
+  "title": "Taking Care of Gods",
+  "subtitle": "",
+  "publicationDate": "",
+  "publicationPlace": "in The Wandering Earth (Head of Zeus)",
+  "publicationType": "",
+  "authors": [
+    {
+      "id": "C0001",
+      "name": "Liu Cixin"
+    }
+  ],
+  "translators": [
+    {
+      "id": "F0001",
+      "name": "Ken Liu"
+    }
+  ],
+  "magazineID": "",
+  "bookID": "",
+  "startPage": null,
+  "endPage": null,
+  "seriesName": "",
+  "seriesNo": "",
+  "remark": ""
+}

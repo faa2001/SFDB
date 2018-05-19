@@ -1,0 +1,34 @@
+{
+  "id": "T000016",
+  "isFirst": true,
+  "firstId": "",
+  "originalLanguageId": "T000001",
+  "type": "小说",
+  "space": "长篇",
+  "language": "英文",
+  "originalLanguage": "中文",
+  "title": "The Three-Body Problem",
+  "subtitle": "",
+  "publicationDate": "2014/11/11",
+  "publicationPlace": "Tor Books",
+  "publicationType": "图书",
+  "authors": [
+    {
+      "id": "C0001",
+      "name": "Cixin Liu"
+    }
+  ],
+  "translators": [
+    {
+      "id": "F0001",
+      "name": "Ken Liu"
+    }
+  ],
+  "magazineID": "",
+  "bookID": "",
+  "startPage": null,
+  "endPage": null,
+  "seriesName": "Remembrance of Earth's Past",
+  "seriesNo": "1",
+  "remark": ""
+}

@@ -2,9 +2,11 @@
   "id": "T000002",
   "isFirst": true,
   "firstId": "",
+  "originalLanguageId": "",
   "type": "小说",
   "space": "长篇",
   "language": "中文",
+  "originalLanguage": "中文",
   "title": "魔鬼积木",
   "subtitle": "",
   "publicationDate": "2002/09/00",
@@ -22,5 +24,6 @@
   "startPage": null,
   "endPage": null,
   "seriesName": "",
-  "seriesNo": ""
+  "seriesNo": "",
+  "remark": ""
 }

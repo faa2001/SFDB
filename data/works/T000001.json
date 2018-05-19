@@ -2,9 +2,11 @@
   "id": "T000001",
   "isFirst": true,
   "firstId": "",
+  "originalLanguageId": "",
   "type": "小说",
   "space": "长篇",
   "language": "中文",
+  "originalLanguage": "中文",
   "title": "三体",
   "subtitle": "",
   "publicationDate": "2006/00/00",
@@ -22,5 +24,6 @@
   "startPage": null,
   "endPage": null,
   "seriesName": "地球往事三部曲",
-  "seriesNo": "1"
+  "seriesNo": "1",
+  "remark": ""
 }

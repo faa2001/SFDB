@@ -1,0 +1,34 @@
+{
+  "id": "T000099",
+  "isFirst": false,
+  "firstId": "T000085",
+  "originalLanguageId": "",
+  "type": "小说",
+  "space": "中短篇",
+  "language": "英文",
+  "originalLanguage": "中文",
+  "title": "The Poetry Cloud",
+  "subtitle": "",
+  "publicationDate": "",
+  "publicationPlace": "in The Big Book of Science Fiction (ed. Jeff VanderMeer & Ann Vandermeer, Vintage)",
+  "publicationType": "",
+  "authors": [
+    {
+      "id": "C0001",
+      "name": "Liu Cixin"
+    }
+  ],
+  "translators": [
+    {
+      "id": "",
+      "name": "Chi-yin Ip"
+    }
+  ],
+  "magazineID": "",
+  "bookID": "",
+  "startPage": null,
+  "endPage": null,
+  "seriesName": "",
+  "seriesNo": "",
+  "remark": ""
+}

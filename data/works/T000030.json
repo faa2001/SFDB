@@ -1,0 +1,29 @@
+{
+  "id": "T000030",
+  "isFirst": true,
+  "firstId": "",
+  "originalLanguageId": "",
+  "type": "小说",
+  "space": "中短篇",
+  "language": "中文",
+  "originalLanguage": "中文",
+  "title": "流浪地球",
+  "subtitle": "",
+  "publicationDate": "2000/07/00",
+  "publicationPlace": "《科幻世界》2000年第7期",
+  "publicationType": "期刊",
+  "authors": [
+    {
+      "id": "C0001",
+      "name": "刘慈欣"
+    }
+  ],
+  "translators": [],
+  "magazineID": "",
+  "bookID": "",
+  "startPage": null,
+  "endPage": null,
+  "seriesName": "",
+  "seriesNo": "",
+  "remark": ""
+}

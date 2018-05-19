@@ -1,0 +1,34 @@
+{
+  "id": "T000111",
+  "isFirst": true,
+  "firstId": "",
+  "originalLanguageId": "T000025",
+  "type": "小说",
+  "space": "长篇",
+  "language": "英文",
+  "originalLanguage": "中文",
+  "title": "Death's End",
+  "subtitle": "",
+  "publicationDate": "",
+  "publicationPlace": "Tor Books",
+  "publicationType": "",
+  "authors": [
+    {
+      "id": "C0001",
+      "name": "Liu Cixin"
+    }
+  ],
+  "translators": [
+    {
+      "id": "F0001",
+      "name": "Ken Liu"
+    }
+  ],
+  "magazineID": "",
+  "bookID": "",
+  "startPage": null,
+  "endPage": null,
+  "seriesName": "",
+  "seriesNo": "",
+  "remark": ""
+}

@@ -1,0 +1,34 @@
+{
+  "id": "T000095",
+  "isFirst": true,
+  "firstId": "",
+  "originalLanguageId": "T000024",
+  "type": "小说",
+  "space": "长篇",
+  "language": "英文",
+  "originalLanguage": "中文",
+  "title": "The Dark Forest",
+  "subtitle": "",
+  "publicationDate": "",
+  "publicationPlace": "Tor Books",
+  "publicationType": "",
+  "authors": [
+    {
+      "id": "C0001",
+      "name": "Liu Cixin"
+    }
+  ],
+  "translators": [
+    {
+      "id": "",
+      "name": "Joel Martinsen"
+    }
+  ],
+  "magazineID": "",
+  "bookID": "",
+  "startPage": null,
+  "endPage": null,
+  "seriesName": "",
+  "seriesNo": "",
+  "remark": ""
+}

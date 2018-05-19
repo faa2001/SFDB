@@ -1,0 +1,29 @@
+{
+  "id": "T000039",
+  "isFirst": true,
+  "firstId": "",
+  "originalLanguageId": "",
+  "type": "小说",
+  "space": "中短篇",
+  "language": "中文",
+  "originalLanguage": "中文",
+  "title": "西洋",
+  "subtitle": "",
+  "publicationDate": "2002/01/00",
+  "publicationPlace": "《2001年度中国最佳科幻小说集》四川人民出版社",
+  "publicationType": "图书",
+  "authors": [
+    {
+      "id": "C0001",
+      "name": "刘慈欣"
+    }
+  ],
+  "translators": [],
+  "magazineID": "",
+  "bookID": "",
+  "startPage": null,
+  "endPage": null,
+  "seriesName": "",
+  "seriesNo": "",
+  "remark": ""
+}

@@ -1,0 +1,29 @@
+{
+  "id": "T000022",
+  "isFirst": true,
+  "firstId": "",
+  "originalLanguageId": "",
+  "type": "小说",
+  "space": "长篇",
+  "language": "中文",
+  "originalLanguage": "中文",
+  "title": "当恐龙遇上蚂蚁",
+  "subtitle": "",
+  "publicationDate": "2004/06/00",
+  "publicationPlace": "北京少年儿童出版社",
+  "publicationType": "图书",
+  "authors": [
+    {
+      "id": "C0001",
+      "name": "刘慈欣"
+    }
+  ],
+  "translators": [],
+  "magazineID": "",
+  "bookID": "",
+  "startPage": null,
+  "endPage": null,
+  "seriesName": "",
+  "seriesNo": "",
+  "remark": ""
+}

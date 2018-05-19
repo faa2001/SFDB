@@ -1,0 +1,34 @@
+{
+  "id": "T000090",
+  "isFirst": true,
+  "firstId": "",
+  "originalLanguageId": "T000069",
+  "type": "小说",
+  "space": "中短篇",
+  "language": "英文",
+  "originalLanguage": "中文",
+  "title": "The Circle",
+  "subtitle": "",
+  "publicationDate": "",
+  "publicationPlace": "in Carbide Tipped Pens (ed. Ben Bova and Eric Choi, Tor Books)",
+  "publicationType": "",
+  "authors": [
+    {
+      "id": "C0001",
+      "name": "Liu Cixin"
+    }
+  ],
+  "translators": [
+    {
+      "id": "F0001",
+      "name": "Ken Liu"
+    }
+  ],
+  "magazineID": "",
+  "bookID": "",
+  "startPage": null,
+  "endPage": null,
+  "seriesName": "",
+  "seriesNo": "",
+  "remark": ""
+}

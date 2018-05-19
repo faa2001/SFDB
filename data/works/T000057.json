@@ -1,0 +1,29 @@
+{
+  "id": "T000057",
+  "isFirst": false,
+  "firstId": "",
+  "originalLanguageId": "",
+  "type": "小说",
+  "space": "连载",
+  "language": "中文",
+  "originalLanguage": "中文",
+  "title": "创世纪（下）",
+  "subtitle": "",
+  "publicationDate": "2005/01/00",
+  "publicationPlace": "《科幻大王》2005年第1期",
+  "publicationType": "期刊",
+  "authors": [
+    {
+      "id": "C0001",
+      "name": "刘慈欣"
+    }
+  ],
+  "translators": [],
+  "magazineID": "",
+  "bookID": "",
+  "startPage": null,
+  "endPage": null,
+  "seriesName": "",
+  "seriesNo": "",
+  "remark": ""
+}

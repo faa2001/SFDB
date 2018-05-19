@@ -1,0 +1,34 @@
+{
+  "id": "T000020",
+  "isFirst": true,
+  "firstId": "",
+  "originalLanguageId": "",
+  "type": "小说",
+  "space": "长篇",
+  "language": "中文",
+  "originalLanguage": "英文",
+  "title": "量子窃贼",
+  "subtitle": "",
+  "publicationDate": "2016/05/00",
+  "publicationPlace": "四川科学技术出版社",
+  "publicationType": "图书",
+  "authors": [
+    {
+      "id": "",
+      "name": "[芬兰]  哈努·拉贾涅米"
+    }
+  ],
+  "translators": [
+    {
+      "id": "",
+      "name": "胡纾"
+    }
+  ],
+  "magazineID": "",
+  "bookID": "BF00001",
+  "startPage": null,
+  "endPage": null,
+  "seriesName": "",
+  "seriesNo": "",
+  "remark": ""
+}

@@ -1,0 +1,38 @@
+{
+  "id": "T000018",
+  "isFirst": false,
+  "firstId": "",
+  "originalLanguageId": "",
+  "type": "非小说",
+  "space": "中短篇",
+  "language": "英文",
+  "originalLanguage": "中文",
+  "title": "Beyond Narcissism: What Science Fiction Can Offer Literature",
+  "subtitle": "",
+  "publicationDate": "2013/03/00",
+  "publicationPlace": "Science Fiction Studies, Vol. 40, No. 1",
+  "publicationType": "期刊",
+  "authors": [
+    {
+      "id": "C0001",
+      "name": "Liu Cixin"
+    }
+  ],
+  "translators": [
+    {
+      "id": "",
+      "name": "Holger Nahm"
+    },
+    {
+      "id": "",
+      "name": "Gabriel Aschel"
+    }
+  ],
+  "magazineID": "",
+  "bookID": "",
+  "startPage": null,
+  "endPage": null,
+  "seriesName": "",
+  "seriesNo": "",
+  "remark": ""
+}

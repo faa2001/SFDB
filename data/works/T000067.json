@@ -1,0 +1,29 @@
+{
+  "id": "T000067",
+  "isFirst": true,
+  "firstId": "",
+  "originalLanguageId": "",
+  "type": "小说",
+  "space": "中短篇",
+  "language": "中文",
+  "originalLanguage": "中文",
+  "title": "海水高山",
+  "subtitle": "",
+  "publicationDate": "2014/09/00",
+  "publicationPlace": "《新课堂·科普童话》2014年9期",
+  "publicationType": "期刊",
+  "authors": [
+    {
+      "id": "C0001",
+      "name": "刘慈欣"
+    }
+  ],
+  "translators": [],
+  "magazineID": "",
+  "bookID": "",
+  "startPage": null,
+  "endPage": null,
+  "seriesName": "",
+  "seriesNo": "",
+  "remark": "《山》部分内容"
+}

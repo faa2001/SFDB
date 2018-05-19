@@ -1,0 +1,34 @@
+{
+  "id": "T000089",
+  "isFirst": true,
+  "firstId": "",
+  "originalLanguageId": "T000063",
+  "type": "小说",
+  "space": "中短篇",
+  "language": "英文",
+  "originalLanguage": "中文",
+  "title": "4/1/2018",
+  "subtitle": "",
+  "publicationDate": "",
+  "publicationPlace": "Pathlight, Spring 2013",
+  "publicationType": "",
+  "authors": [
+    {
+      "id": "C0001",
+      "name": "Liu Cixin"
+    }
+  ],
+  "translators": [
+    {
+      "id": "",
+      "name": "Christopher Elford"
+    }
+  ],
+  "magazineID": "",
+  "bookID": "",
+  "startPage": null,
+  "endPage": null,
+  "seriesName": "",
+  "seriesNo": "",
+  "remark": ""
+}

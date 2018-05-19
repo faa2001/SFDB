@@ -1,0 +1,34 @@
+{
+  "id": "T000097",
+  "isFirst": false,
+  "firstId": "T000084",
+  "originalLanguageId": "",
+  "type": "小说",
+  "space": "中短篇",
+  "language": "英文",
+  "originalLanguage": "中文",
+  "title": "Taking Care of God",
+  "subtitle": "",
+  "publicationDate": "",
+  "publicationPlace": "in Invisible Planets: Contemporary Chinese Science Fiction in Translation (ed. Ken Liu, Tor Books)",
+  "publicationType": "",
+  "authors": [
+    {
+      "id": "C0001",
+      "name": "Liu Cixin"
+    }
+  ],
+  "translators": [
+    {
+      "id": "F0001",
+      "name": "Ken Liu"
+    }
+  ],
+  "magazineID": "",
+  "bookID": "",
+  "startPage": null,
+  "endPage": null,
+  "seriesName": "",
+  "seriesNo": "",
+  "remark": ""
+}

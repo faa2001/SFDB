@@ -2,9 +2,11 @@
   "id": "T000003",
   "isFirst": true,
   "firstId": "",
+  "originalLanguageId": "",
   "type": "小说",
   "space": "中短篇",
   "language": "中文",
+  "originalLanguage": "中文",
   "title": "鲸歌",
   "subtitle": "",
   "publicationDate": "1999/06/00",
@@ -22,5 +24,6 @@
   "startPage": null,
   "endPage": null,
   "seriesName": "",
-  "seriesNo": ""
+  "seriesNo": "",
+  "remark": ""
 }

@@ -2,9 +2,11 @@
   "id": "T000010",
   "isFirst": false,
   "firstId": "T000001",
+  "originalLanguageId": "",
   "type": "小说",
   "space": "连载",
   "language": "中文",
+  "originalLanguage": "中文",
   "title": "三体（连载之七）",
   "subtitle": "",
   "publicationDate": "2006/11/00",
@@ -22,5 +24,6 @@
   "startPage": null,
   "endPage": null,
   "seriesName": "",
-  "seriesNo": ""
+  "seriesNo": "",
+  "remark": ""
 }

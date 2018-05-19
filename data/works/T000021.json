@@ -1,0 +1,29 @@
+{
+  "id": "T000021",
+  "isFirst": true,
+  "firstId": "",
+  "originalLanguageId": "",
+  "type": "小说",
+  "space": "长篇",
+  "language": "中文",
+  "originalLanguage": "中文",
+  "title": "超新星纪元",
+  "subtitle": "",
+  "publicationDate": "2003/01/001",
+  "publicationPlace": "作家出版社",
+  "publicationType": "图书",
+  "authors": [
+    {
+      "id": "C0001",
+      "name": "刘慈欣"
+    }
+  ],
+  "translators": [],
+  "magazineID": "",
+  "bookID": "",
+  "startPage": null,
+  "endPage": null,
+  "seriesName": "",
+  "seriesNo": "",
+  "remark": ""
+}

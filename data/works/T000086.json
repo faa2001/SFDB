@@ -1,0 +1,38 @@
+{
+  "id": "T000086",
+  "isFirst": true,
+  "firstId": "",
+  "originalLanguageId": "T000031",
+  "type": "小说",
+  "space": "中短篇",
+  "language": "英文",
+  "originalLanguage": "中文",
+  "title": "The Village Schoolteacher",
+  "subtitle": "",
+  "publicationDate": "",
+  "publicationPlace": "Renditions, No. 77 & 78 (Spring & Autumn 2012)",
+  "publicationType": "",
+  "authors": [
+    {
+      "id": "C0001",
+      "name": "Liu Cixin"
+    }
+  ],
+  "translators": [
+    {
+      "id": "",
+      "name": "Christopher Elford"
+    },
+    {
+      "id": "",
+      "name": "Jiang, Chenxin"
+    }
+  ],
+  "magazineID": "",
+  "bookID": "",
+  "startPage": null,
+  "endPage": null,
+  "seriesName": "",
+  "seriesNo": "",
+  "remark": ""
+}

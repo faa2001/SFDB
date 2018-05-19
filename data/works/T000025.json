@@ -1,0 +1,29 @@
+{
+  "id": "T000025",
+  "isFirst": true,
+  "firstId": "",
+  "originalLanguageId": "",
+  "type": "小说",
+  "space": "长篇",
+  "language": "中文",
+  "originalLanguage": "中文",
+  "title": "三体Ⅲ·死神永生",
+  "subtitle": "",
+  "publicationDate": "2010/11/00",
+  "publicationPlace": "重庆出版社",
+  "publicationType": "图书",
+  "authors": [
+    {
+      "id": "C0001",
+      "name": "刘慈欣"
+    }
+  ],
+  "translators": [],
+  "magazineID": "",
+  "bookID": "",
+  "startPage": null,
+  "endPage": null,
+  "seriesName": "",
+  "seriesNo": "",
+  "remark": ""
+}

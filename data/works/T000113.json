@@ -1,0 +1,34 @@
+{
+  "id": "T000113",
+  "isFirst": true,
+  "firstId": "",
+  "originalLanguageId": "T000023",
+  "type": "小说",
+  "space": "长篇",
+  "language": "英文",
+  "originalLanguage": "中文",
+  "title": "Ball Lightning",
+  "subtitle": "",
+  "publicationDate": "",
+  "publicationPlace": "Tor Books",
+  "publicationType": "",
+  "authors": [
+    {
+      "id": "C0001",
+      "name": "Liu Cixin"
+    }
+  ],
+  "translators": [
+    {
+      "id": "",
+      "name": "Joel Martinsen"
+    }
+  ],
+  "magazineID": "",
+  "bookID": "",
+  "startPage": null,
+  "endPage": null,
+  "seriesName": "",
+  "seriesNo": "",
+  "remark": ""
+}
